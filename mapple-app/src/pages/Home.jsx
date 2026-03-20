@@ -12,7 +12,7 @@ export default function Home() {
   const [selectedCategory, setSelectedCategory] = useState('')
 
   const featured = useMemo(() => {
-    if (!selectedCategory) return productsData.slice(0, 3)
+    if (!selectedCategory) return productsData.slice(0, 8)
     return productsData.filter((p) => p.category === selectedCategory)
   }, [selectedCategory])
 

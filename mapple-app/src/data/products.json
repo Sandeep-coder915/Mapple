@@ -1,3 +1,4 @@
+
 [
   {
     "id": "amrit-kalash",
@@ -7,8 +8,51 @@
     "dosage": "Adults: 1 teaspoon Nectar (approx 10gm) twice daily + 1 Ambrosia tablet twice daily with milk. Kids: 1/2 teaspoon Nectar twice daily + 1 Ambrosia tablet twice daily",
     "form": "Dual Pack - 600gm Paste + 60 Tablets",
     "ingredients": ["Nectar (40 herbs)", "Ambrosia (13 herbs)", "Premium Ayurvedic botanicals"],
+    "keyIngredients": [
+      {
+        "name": "Amla",
+        "description": "Rich in vitamin C, it nourishes dhatus, moistens tissues"
+      },
+      {
+        "name": "Haritaki",
+        "description": "Detoxifies ama (toxins) that aggravate Vata, improves digestion, and calms nerves for better sleep and mental clarity"
+      },
+      {
+        "name": "Cow Ghee",
+        "description": "Lubricates channels, soothes Vata's roughness, enhances absorption of fat-soluble herbs"
+      },
+      {
+        "name": "Ashwagandha",
+        "description": "Rejuvenates muscles/bones, reduces stress-induced Vata imbalance"
+      },
+      {
+        "name": "Shatavari",
+        "description": "Nourishes rakta/dhatus, moistens Vata dryness in mucous membranes/GI tract, and balances hormones to ease fatigue/anxiety"
+      },
+      {
+        "name": "Shankhapushpi",
+        "description": "Tranquilizes mind, reduces nervousness, and stabilizes Vata fluctuations in seniors"
+      },
+      {
+        "name": "Bilva",
+        "description": "Anti-inflammatory, warms body, and eases joint stiffness"
+      },
+      {
+        "name": "Honey",
+        "description": "Carries herbs deep into tissues"
+      },
+      {
+        "name": "Safed Chandan",
+        "description": "Soothes nerve irritation, calms restlessness, and promotes mental clarity for age-related cognitive issues"
+      },
+      {
+        "name": "Punarnava",
+        "description": "Rejuvenates tissues, reduces Vata-induced edema/swelling and strengthens muscles"
+      }
+    ],
     "description": "The world's most researched Rasayana - Maharishi Amrit Kalash is a consciousness-based Ayurvedic formulation developed by combining ancient Vedic wisdom with modern scientific understanding. Crafted with meticulous attention in a Satvik atmosphere under Vedic chants.",
     "mechanism": "Nectar brings balance of all Gunas, Agnis and Dhatus, thereby increasing Ojas. Ambrosia improves mind-body coordination and cell intelligence integrity, supporting the body's natural self-repair mechanisms.",
+    "vataBalancing": "MAK balances Vata dosha in the elderly by nourishing tissues, calming nerves, lubricating joints through its 53 herbs, ghee, and honey base. Key ingredients target Vata-aggravated issues like joint pain, anxiety, dryness, and weakness common in aging. MAK's synergistic formula promotes ojas, counters Vata vridhi from age, and supports mobility/digestion—ideal for geriatric wellness.",
     "benefits": [
       "Cardioprotective - reduces angina pain frequency by 33.3%",
       "Antioxidant - 1000x more potent than Vitamin C, E and Probucol",
@@ -30,7 +74,34 @@
     "heritage": {
       "year_established": 1986,
       "created_by": ["Late Dr. B.D. Triguna (Padma Bhushan)", "Late Dr. Balraj Maharishi", "Late Dr. V.M. Dwivedi"],
-      "expertise": "35+ years of Ayurvedic expertise"
+      "expertise": "35+ years of Ayurvedic expertise",
+      "visionaries": {
+        "triguna": "Expert in Nadi Vigyan and former advisor to the Indian Government",
+        "balraj": "Specialist in Dravyaguna and Ayurvedic advisory to Andhra Pradesh",
+        "dwivedi": "Renowned in Nadi Vigyan and former President of the All-India Ayurvedic Congress"
+      }
+    },
+    "scientificValidation": {
+      "craftsmanship": "Prepared through 250 meticulous steps",
+      "potency": "At least 1000x more effective than vitamins C & E",
+      "cardioprotectiveBenefits": {
+        "angina_relief": "Decreased mean angina frequency from ~8.87 to ~3.03 episodes in just six months",
+        "exercise_tolerance": "33.3% of patients showed improved exercise capacity in treadmill tests, with sustained effects for up to two years",
+        "medication_dependency": "Consumption of sublingual nitroglycerin tablets reduced to one-third within six months"
+      },
+      "antioxidantPower": {
+        "potency": "At least 1000x more effective than Vitamins C, E, and Probucol in fighting oxidative stress",
+        "ldl_protection": "Inhibits both initiation and propagation of LDL oxidation, protecting against cellular damage",
+        "cellular_defence": "Prevents free radical-induced damage to organelles, slowing cognitive decline and premature ageing"
+      },
+      "immunomodulatoryEffects": {
+        "boosts_immunity": "Fewer episodes of colds and common illnesses were reported in subjects",
+        "immune_response": "Increases lymphocyte responsiveness and production of key cytokines such as IL-2, IFN-gamma, and IL-4"
+      },
+      "chemotoxicityCancerPrevention": {
+        "symptom_relief": "Reduces vomiting, diarrhoea, anorexia, and mouth ulcers after chemotherapy cycles",
+        "improved_wellbeing": "Significantly enhances the quality of life and reduces haematological toxicity in cancer patients"
+      }
     },
     "certifications": [
       "ISO 9001 & GMP Certified",
@@ -73,6 +144,430 @@
       "SMS Medical College, Jaipur",
       "King George's Medical College (KGMC), Lucknow"
     ],
+    "researchImages": [
+      {
+        "title": "Angina Frequency Reduction",
+        "url": "https://maharishiayurveda.com/wp-content/uploads/2020/05/angina-chart.jpg",
+        "description": "Amrit Kalash reduces mean angina pain frequency in 6 months (n=30, p<0.001)"
+      },
+      {
+        "title": "Antioxidant Comparison",
+        "url": "https://maharishiayurveda.com/wp-content/uploads/2020/05/antioxidant-comparison.jpg",
+        "description": "Amrit Kalash is a much more powerful antioxidant than Vitamin C, E and Probucol (p<0.0001)"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is Maharishi Amrit Kalash?",
+        "answer": "Maharishi Amrit Kalash is a consciousness-based Ayurvedic formulation combining ancient Vedic wisdom with modern science, designed for holistic health, vitality, and longevity."
+      },
+      {
+        "question": "How does Amrit Kalash work?",
+        "answer": "It balances Gunas, Agnis, and Dhatus to elevate Ojas, enhances mind-body coordination, and supports natural self-repair mechanisms through its potent herbal blend."
+      },
+      {
+        "question": "What are the key benefits of Amrit Kalash?",
+        "answer": "It provides cardioprotective effects, antioxidant power 1000x stronger than vitamins C and E, anti-aging support, immunomodulation, and helps manage stress and chronic conditions."
+      },
+      {
+        "question": "Is Amrit Kalash safe for long-term use?",
+        "answer": "Yes, it is clinically researched with 81 studies and is safe for long-term use under physician guidance, with no reported side effects when taken as directed."
+      },
+      {
+        "question": "How should Amrit Kalash be taken?",
+        "answer": "Adults take 1 teaspoon Nectar (10gm) twice daily with 1 Ambrosia tablet twice daily with milk. Kids take half the dose. Consult a doctor for personalized advice."
+      }
+    ],
     "image": "https://dgayurvedic.com/wp-content/uploads/2021/08/Maharishi-Amrit-Kalash-SF-60-Nectar-60-Ambrosia-Tablets-Front.webp"
+  },
+  {
+    "id": "nidramap",
+    "name": "Nidramap",
+    "category": "Sleep & Stress Management",
+    "indication": "Potent Cannabis-Based Ayurvedic Solution for Sleep Disorders",
+    "dosage": "1-2 tablets before bed time with milk or lukewarm water",
+    "form": "Blister foils of 10x10 tablets",
+    "ingredients": ["Shodhit Bhang", "Jatamansi", "Tagar", "Brahmi", "Shankhapushpi", "Ashwagandha"],
+    "description": "Nidramap is a clinically advanced Ayurvedic formulation crafted with a unique blend of 6 potent herbs, including the therapeutic benefits of cannabis. This holistic solution is designed to address multiple factors contributing to sleep disorders, such as insomnia, stress, and chronic pain. By combining the ancient principles of Ayurveda with modern scientific advancements, Nidramap ensures restorative sleep, mental relaxation, and overall well-being. Its proven safety and efficacy make it a trusted solution for improving sleep quality and managing associated conditions.",
+    "mechanism": "Manages insomnia by addressing root causes, boosts melatonin production for faster sleep onset, calms nervous system by reducing cortisol, provides potent analgesic action for pain relief, and promotes holistic relaxation for deep restorative sleep.",
+    "benefits": [
+      "Manages insomnia and enhances sleep quality",
+      "Boosts melatonin production for faster sleep onset",
+      "Calms the nervous system and reduces stress/anxiety",
+      "Potent analgesic action for chronic pain relief",
+      "Promotes holistic relaxation and mental fatigue reduction",
+      "Comprehensive sleep solution targeting multiple disruptors"
+    ],
+    "clinicalHighlights": {
+      "sleep_quality": "Helps manage insomnia and improves the quality of sleep",
+      "melatonin_boost": "Boosts the production of melatonin (sleep-inducing hormone)",
+      "sleep_duration": "Promotes faster onset and longer duration of sleep",
+      "stress_reduction": "Calms the nervous system and lowers cortisol levels, reducing anxiety and stress",
+      "pain_relief": "Potent analgesic that reduces chronic pain effectively"
+    },
+    "certifications": [
+      "Ayurvedic formulation with therapeutic cannabis",
+      "Clinically advanced and proven safe"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Nidramap used for?",
+        "answer": "Nidramap is designed to manage insomnia, enhance sleep quality, boost melatonin production, calm the nervous system, and provide analgesic relief for sleep disorders."
+      },
+      {
+        "question": "Is Nidramap safe to use?",
+        "answer": "Yes, Nidramap is a clinically advanced Ayurvedic formulation with proven safety and efficacy, free from steroids, and suitable for long-term use under medical supervision."
+      },
+      {
+        "question": "How does Nidramap work?",
+        "answer": "It addresses root causes of sleep disturbances, promotes natural melatonin synthesis, reduces cortisol levels, and offers potent analgesic action for better sleep."
+      },
+      {
+        "question": "Can Nidramap be taken with other medications?",
+        "answer": "Consult a physician before combining with other medications, as it can be used as an adjuvant therapy during acute conditions."
+      },
+      {
+        "question": "What are the key ingredients in Nidramap?",
+        "answer": "Key ingredients include Shodhit Bhang, Jatamansi, Tagar, Brahmi, Shankhapushpi, and Ashwagandha, providing therapeutic benefits for sleep and stress."
+      }
+    ],
+    "image": "https://store.planetayurveda.com/cdn/shop/files/Nidramap.png?v=1738308091"
+  },
+  {
+    "id": "amlant",
+    "name": "Amlant",
+    "category": "Digestive Health",
+    "indication": "Clinically Proven Formulation for Acidity & GERD",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Box of 10x6 tablets",
+    "ingredients": ["Amla", "Shunthi", "Shatavari", "Haritaki", "Vibhitaki", "Amalaki", "Pippali"],
+    "description": "Amlant offers a holistic and multi-dimensional approach to managing hyperacidity, acid-peptic disorders, and associated conditions. This Ayurvedic formulation provides immediate relief by neutralising gastric acid and addresses the root cause of acidity to ensure long-term healing and prevention of recurrence. Researched at AIIMS, New Delhi.",
+    "mechanism": "Pacifies Vata, neutralises hyperactive Pitta, and promotes Kapha, restoring digestive balance. Its Ropan (healing) and Deepan (digestive stimulant) properties promote the healing of gastric and duodenal ulcers. Enhances digestion quality and acts as an effective adjuvant to steroidal and non-steroidal anti-inflammatory drugs.",
+    "benefits": [
+      "Rapid and sustained relief from acidity",
+      "Targets the root cause of hyperacidity",
+      "Effective for heartburn and chronic acidity",
+      "Protects against drug-induced gastric damage",
+      "Complete relief in non-ulcer dyspepsia within 45 days",
+      "Over 50% of patients reported no recurrence after 3 months"
+    ],
+    "clinicalHighlights": {
+      "relief_rate": "Higher number of patients got relief in Non-ulcer dyspepsia compared to Ranitidine (n=100, p=0.06)",
+      "complete_relief": "Complete relief in non-ulcer dyspepsia in 45 days",
+      "no_recurrence": "More than 50% of patients reported no recurrence of acidity in 3 months follow-up",
+      "aiims_research": "Researched at AIIMS, New Delhi"
+    },
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), New Delhi"
+    ],
+    "certifications": [
+      "Clinically proven at AIIMS",
+      "Ayurvedic formulation for acid balance"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What conditions does Amlant treat?",
+        "answer": "Amlant is effective for hyperacidity, acid-peptic disorders, peptic ulcer syndrome, and can be used as an adjuvant therapy with NSAIDs."
+      },
+      {
+        "question": "How does Amlant provide relief?",
+        "answer": "It neutralizes gastric acid for immediate relief, addresses root causes, pacifies Vata, neutralizes Pitta, and promotes Kapha for long-term healing."
+      },
+      {
+        "question": "Is Amlant researched?",
+        "answer": "Yes, Amlant is clinically proven at AIIMS, New Delhi, with studies showing complete relief in non-ulcer dyspepsia within 45 days."
+      },
+      {
+        "question": "Can Amlant be taken long-term?",
+        "answer": "Yes, it is safe for long-term use, providing sustained relief and preventing recurrence of acidity symptoms."
+      },
+      {
+        "question": "What are the key ingredients in Amlant?",
+        "answer": "Key ingredients include Amla, Shunthi, Shatavari, Haritaki, Vibhitaki, Amalaki, and Pippali, which restore digestive balance."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Amlant.jpg?v=1724305394&width=1000"
+  },
+  {
+    "id": "asthomap",
+    "name": "Asthomap",
+    "category": "Respiratory Health",
+    "indication": "Clinically Proven for Prolonged Asthma Relief",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Plastic container with 60 tablets",
+    "ingredients": ["Abies webbiana (Talispatra)", "Piper nigrum (Kali Mirch)", "Zingiber officinale (Shunthi)", "Piper longum (Pippali)", "Bambusa arundinacea (Vanshlochan)", "Elettaria cardamomum (Ela)", "Cinnamomum zeylanicum (Twak)", "Sarcostemma brevistigma (Soma Lata)", "Glycyrrhiza glabra (Yashtimadhu)", "Adhatoda vasica (Vasa)", "Saussurea lappa (Kushta)"],
+    "description": "Asthomap is an Ayurvedic formulation designed to provide long-term relief for respiratory conditions. Powered by a judicious combination of natural herbs, it offers outstanding efficacy without the side effects of steroids. Asthomap works effectively to allay bronchospasms, reduce mucus build-up, and improve airflow, ensuring sustained respiratory health. Prolonged use minimises allergen hypersensitivity, reduces dependence on other medications, and strengthens the mucosal lining for enhanced respiratory immunity.",
+    "mechanism": "Allays bronchospasms, reduces mucus build-up, improves airflow, minimises allergen hypersensitivity, strengthens mucosal lining, and enhances respiratory immunity.",
+    "benefits": [
+      "Outstanding efficacy: 90% of patients experienced significant relief from bronchial asthma within 30 days",
+      "Significant symptom relief: Reduces breathlessness, frequency of asthma attacks, and protects against allergic reactions",
+      "Immunity enhancer: Boosts the respiratory system's immunity, combating respiratory diseases effectively",
+      "Safe for long-term use: Free from steroids, ensuring safety over prolonged periods",
+      "Adjuvant therapy: Can be combined with Salbutamol and other antiasthmatic drugs during acute conditions"
+    ],
+    "clinicalHighlights": {
+      "efficacy": "90% of patients got relief from bronchial asthma within 30 days",
+      "research": "Researched at Srikrishna Govt. Ayurvedic College, Kurukshetra",
+      "comparison": "Better efficiency as compared to Praval Pisthi & Svas Kuthar Ras"
+    },
+    "researchPartners": [
+      "Srikrishna Govt. Ayurvedic College, Kurukshetra"
+    ],
+    "certifications": [
+      "Clinically proven for asthma relief",
+      "Ayurvedic formulation without steroids"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Asthomap used for?",
+        "answer": "Asthomap provides long-term relief for bronchial asthma, chronic bronchitis, and bronchial respiratory allergies without steroid side effects."
+      },
+      {
+        "question": "How effective is Asthomap?",
+        "answer": "Clinical studies show 90% of patients experience significant relief from bronchial asthma within 30 days, reducing breathlessness and allergic reactions."
+      },
+      {
+        "question": "Is Asthomap safe?",
+        "answer": "Yes, it is free from steroids, safe for long-term use, and can be combined with other antiasthmatic drugs during acute conditions."
+      },
+      {
+        "question": "What are the key benefits of Asthomap?",
+        "answer": "It allays bronchospasms, reduces mucus, improves airflow, minimizes allergen hypersensitivity, and strengthens respiratory immunity."
+      },
+      {
+        "question": "How should Asthomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician for personalized dosage and monitoring."
+      }
+    ],
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/gj3bfp46qil0jsli6opb.png"
+  },
+  {
+    "id": "cardimap", 
+    "name": "Cardimap",
+    "category": "Cardiovascular & Nervous System",
+    "indication": "For Sustained and Effective Hypertension Control",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Strips of 10 tablets (10×10 boxes)",
+    "ingredients": ["Rauwolfia serpentina (Sarpagandha)", "Nardostachys jatamansi (Jatamansi)", "Bacopa monnieri (Brahmi)", "Convolvulus pluricaulis (Shankhpushpi)", "Piper longum (Pippali)"],
+    "description": "Cardimap is a clinically formulated Ayurvedic blend of potent herbs designed to provide practical, long-term relief from hypertension, anxiety, tension, and insomnia without disrupting daily routines. Combining renowned Medhya Rasayans and anti-hypertensive herbs supports neuromuscular relaxation, optimises blood flow, and strengthens the parasympathetic nervous system, ensuring overall mental and physical well-being.",
+    "mechanism": "Regulates blood pressure, alleviates stress and anxiety, strengthens nervous system, enhances mental clarity, improves digestion, and provides cardiotonic benefits.",
+    "benefits": [
+      "Regulates blood pressure: Reduces high blood pressure and optimises blood flow for better cardiovascular health",
+      "Stress and anxiety relief: Alleviates anxiety, neurosis, and stress while promoting restful sleep and calmness",
+      "Strengthens the nervous system: Supports parasympathetic activity, aiding relaxation and reducing tension",
+      "Enhances mental clarity: Acts as a brain tonic, improving mind-body coordination and relieving stress-induced conditions",
+      "Improves digestion: Ensures better absorption of nutrients and ingredients, contributing to overall health",
+      "Cardiotonic benefits: Strengthens cardiac muscles and enhances neuromuscular relaxation for sustained heart health"
+    ],
+    "clinicalHighlights": {
+      "bp_regulation": "Regulates blood pressure and optimizes blood flow",
+      "anxiety_relief": "Alleviates anxiety and stress due to hypertension",
+      "nervous_system": "Strengthens the nervous system and supports parasympathetic activity",
+      "mental_clarity": "Improves mind and body coordination"
+    },
+    "certifications": [
+      "Clinically formulated for hypertension",
+      "Ayurvedic blend with Medhya Rasayans"
+    ],
+    "importantNotes": [
+      "Patients with anxiety or insomnia should avoid driving until stabilised",
+      "Self-medication is not recommended"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Cardimap used for?",
+        "answer": "Cardimap regulates blood pressure, relieves stress and anxiety, strengthens the nervous system, enhances mental clarity, and provides cardiotonic benefits."
+      },
+      {
+        "question": "Is Cardimap safe for hypertension patients?",
+        "answer": "Yes, it is clinically formulated for mild to moderate hypertension, anxiety neurosis, and insomnia, but avoid self-medication and driving if experiencing anxiety."
+      },
+      {
+        "question": "How does Cardimap work?",
+        "answer": "It supports neuromuscular relaxation, optimizes blood flow, strengthens parasympathetic activity, and improves digestion for overall mental and physical well-being."
+      },
+      {
+        "question": "Can Cardimap be taken long-term?",
+        "answer": "Yes, it is designed for sustained hypertension control without disrupting daily routines, under medical supervision."
+      },
+      {
+        "question": "What are the key ingredients in Cardimap?",
+        "answer": "Key ingredients include Rauwolfia serpentina, Jatamansi, Brahmi, Shankhpushpi, and Pippali, which are renowned Medhya Rasayans and anti-hypertensives."
+      }
+    ],
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwOTBEai4vS0T-G3MYIgXcZUuL5O2PCgSmy7H4Cyx_6iymcKsS"
+  },
+  {
+    "id": "glucomap",
+    "name": "Glucomap",
+    "category": "Diabetes Management",
+    "indication": "Clinically Proven for Effective Diabetes Management",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Strips of 10x10 tablets",
+    "ingredients": ["Enicostemma littorale (Naga jihwa)", "Phyllanthus niruri (Bhumi Amalaki)", "Eugenia jambolana (Jambu Leaf)", "Syzygium cumini (Jambu Seed)", "Azadirachta indica (Nimba)", "Terminalia arjuna (Arjuna)", "Aegle marmelos (Bilva)", "Asphaltum (Shilajeet)"],
+    "description": "Glucomap is a scientifically validated herbal formulation, researched at AIIMS, New Delhi, and KGMU, Lucknow, and crafted with the power of 25 potent herbs. This clinically proven formula ensures comprehensive glycemic control, effectively managing HbA1c, fasting, and postprandial glucose levels while improving overall metabolic health. It also alleviates diabetes-associated symptoms such as fatigue, constipation, and palpitations, offering a holistic approach to non-insulin-dependent diabetes mellitus (NIDDM).",
+    "mechanism": "Stimulates pancreatic beta cells to enhance natural insulin secretion, reduces HbA1c and glucose levels, decreases triglycerides and cholesterol, processed in Salsaradi Gana.",
+    "benefits": [
+      "Reduces HbA1c by ~17% in 3 months and ~26% in 6 months",
+      "Lowers fasting blood glucose from ~128.5 to ~106.8 mg/dL",
+      "Reduces postprandial blood glucose from ~235.5 to ~178.5 mg/dL",
+      "Decreases triglyceride levels by ~10% in 3 months",
+      "Reduces cholesterol levels by ~20% in 3 months",
+      "Stimulates pancreatic beta cells to enhance natural insulin secretion"
+    ],
+    "clinicalHighlights": {
+      "hbA1c_reduction": "HbA1c reduces by 17% in 3 months and by 26% in 6 months",
+      "fasting_glucose": "Average fasting blood glucose from 128.5 to 106.8 mg/dL",
+      "postprandial_glucose": "PP glucose from 235.5 to 178.5 mg/dL",
+      "triglycerides": "Triglyceride level by 10% and Cholesterol level by 20% in 3 months",
+      "symptoms_relief": "Relieves other symptoms of diabetes like polyuria, fatigue, constipation, palpitation etc."
+    },
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), New Delhi",
+      "King George's Medical University (KGMU), Lucknow"
+    ],
+    "certifications": [
+      "Clinically proven at AIIMS and KGMU",
+      "Ayurvedic formulation for diabetes management"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Glucomap used for?",
+        "answer": "Glucomap manages non-insulin-dependent diabetes mellitus (NIDDM), prediabetes, and can be used as an adjuvant with oral hypoglycemic agents (OHA)."
+      },
+      {
+        "question": "How effective is Glucomap in controlling blood sugar?",
+        "answer": "It reduces HbA1c by 17% in 3 months and 26% in 6 months, lowers fasting glucose from 128.5 to 106.8 mg/dL, and postprandial from 235.5 to 178.5 mg/dL."
+      },
+      {
+        "question": "Is Glucomap researched?",
+        "answer": "Yes, researched at AIIMS, New Delhi, and KGMU, Lucknow, with clinical studies validating its efficacy in glycemic control and metabolic health."
+      },
+      {
+        "question": "What are the additional benefits of Glucomap?",
+        "answer": "It decreases triglycerides by 10% and cholesterol by 20%, stimulates insulin secretion, and alleviates diabetes symptoms like fatigue and constipation."
+      },
+      {
+        "question": "How should Glucomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician for monitoring blood sugar levels and personalized advice."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Glucomap_60_Tab.jpg?v=1739531425&width=800"
+  },
+  {
+    "id": "lipomap",
+    "name": "Lipomap",
+    "category": "Cardiovascular Health",
+    "indication": "Clinically Proven Remedy to Balance Lipid Profile",
+    "dosage": "2 Tablets B.I.D, half an hour before meals, with lukewarm water",
+    "form": "500 mg tablets",
+    "ingredients": ["Commiphora mukul (Gugulu)", "Bauhinia variegata (Kanchnaar)", "Emblica officinalis (Amalaki)", "Cinnamomum zeylanicum (Cinnamon)", "Zingiber officinale (Ginger)", "Piper nigrum (Black Pepper)", "Piper longum (Pippali)"],
+    "description": "Lipomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is crafted from a powerful combination of 17 herbs, including Gugulu, Kanchnaar, Amalaki, cinnamon, ginger, black pepper, and pippali. It effectively manages hypercholesterolaemia by balancing Kapha, regulating fat metabolism, and improving lipid metabolism. Lipomap provides a safe, effective, and side-effect-free alternative to statins, addressing the root causes of cholesterol imbalance while promoting long-term cardiovascular health.",
+    "mechanism": "Balances Kapha and bile secretion, regulates fat metabolism with Medohar herbs, improves circulation and metabolism.",
+    "benefits": [
+      "Balances cholesterol levels: Significant reduction in triglycerides (~13% in 3 months) and total cholesterol (~239 mg/dL to ~229 mg/dL), outperforming Lovastatin",
+      "Regulates fat metabolism: Medohar herbs reduce fat deposition and improve lipid metabolism naturally",
+      "Boosts good cholesterol (HDL): Higher increase in HDL levels compared to Lovastatin after 3 months",
+      "Lowers LDL levels: Reduces LDL cholesterol from ~161.9 mg/dL to ~155.2 mg/dL",
+      "Balances bile secretion: Maintains proper digestion and prevents cholesterol accumulation",
+      "Supports cardiovascular health: Improves circulation and metabolism for long-term heart health"
+    ],
+    "clinicalHighlights": {
+      "triglycerides": "Significant reduction in triglyceride level by 13% in 3 months as compared to Lovastatin (8%)",
+      "cholesterol": "Total cholesterol level from 239 to 229 mg/dL",
+      "hdl": "HDL level more in the Lipomap group as compared to the Lovastatin group in 3 months",
+      "ldl": "LDL level from 161.9 to 155.2 mg/dL"
+    },
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), New Delhi"
+    ],
+    "certifications": [
+      "Clinically proven at AIIMS",
+      "Better than Lovastatin in lipid profile improvement"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What conditions does Lipomap treat?",
+        "answer": "Lipomap manages hypercholesterolaemia, hyperlipidemia, and coronary artery disease by balancing cholesterol and improving lipid profiles."
+      },
+      {
+        "question": "How does Lipomap compare to statins?",
+        "answer": "Lipomap outperforms Lovastatin in reducing triglycerides (13% vs 8%), total cholesterol, and increasing HDL levels, with no side effects."
+      },
+      {
+        "question": "Is Lipomap safe for long-term use?",
+        "answer": "Yes, it is a safe, side-effect-free alternative to statins, researched at AIIMS, and promotes long-term cardiovascular health."
+      },
+      {
+        "question": "What are the key benefits of Lipomap?",
+        "answer": "It regulates fat metabolism, boosts good cholesterol (HDL), lowers LDL, balances bile secretion, and supports digestion and circulation."
+      },
+      {
+        "question": "How should Lipomap be taken?",
+        "answer": "Take 2 tablets twice daily, half an hour before meals, with lukewarm water. Consult a doctor for monitoring lipid levels."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Lipomap-1080x.jpg?v=1724305356&width=800"
+  },
+  {
+    "id": "livomap",
+    "name": "Livomap",
+    "category": "Liver Health",
+    "indication": "Clinically Proven Solution for Fatty Liver",
+    "dosage": "Tablets: 1-2 tablets B.I.D; Syrup: 1-2 teaspoons 10ml B.I.D",
+    "form": "Tablets: Blister packs of 10s; Syrup: Bottles of 100 ml and 200 ml",
+    "ingredients": ["Boerhaavia diffusa (Punarnava)", "Melia azadirachta (Nimb)", "Trichosanthes cucumerina (Tikta Patola)", "Zingiber officinale (Shunthi)", "Picrorhiza kurroa (Katuki)", "Tinospora cordifolia (Guduchi)", "Cedrus deodara (Devdaru)", "Terminalia chebula (Haritaki)", "Crataeva religiosa (Varuna)", "Moringa oleifera (Shigru)", "Berberis aristata (Daruharidra)", "Artemisia absinthium (Afsantin)", "Tephrosia purpurea (Sharapunkha)", "Phyllanthus niruri (Bhumiamalaki)"],
+    "description": "Livomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is formulated with a powerful combination of 28 herbs, including Phyllanthus niruri and Picrorhiza kurroa. It is designed to protect, detoxify, and rejuvenate the liver by addressing the root causes of fatty liver, inflammation, infections, and chronic liver disorders. Livomap improves liver function, stimulates liver regeneration, enhances bile flow, and detoxifies the liver and blood-forming organs. Its multi-dimensional approach ensures long-term liver health and comprehensive care.",
+    "mechanism": "Stimulates protein and nucleic acid synthesis for liver regeneration, detoxifies liver and blood-forming organs, enhances bile flow and digestion, expels intestinal parasites.",
+    "benefits": [
+      "Effectively reduces liver fat: Significantly decreases excess fat deposited in the liver (p<0.01)",
+      "Lowers triglycerides: Reduction in triglyceride levels from ~165 mg/dL to ~140 mg/dL in three months (p<0.02)",
+      "Provides complete relief from abdominal pain: 95% of patients get complete relief (p<0.01)",
+      "Promotes liver regeneration: Stimulates protein and nucleic acid synthesis, reversing cirrhotic changes",
+      "Supports detoxification and toning: Detoxifies liver, spleen, and blood-forming organs while expelling parasites",
+      "Enhances bile flow and digestion: Improves bile flow, prevents gallstone formation, enhances digestive efficiency"
+    ],
+    "clinicalHighlights": {
+      "liver_fat": "Reduces excess fat deposits in the liver of NAFLD patients (p<0.01)",
+      "triglycerides": "Significant reduction in triglyceride level from 165 to 140 mg/dL in three months (p<0.02)",
+      "abdominal_pain": "Complete relief in abdominal pain due to fatty liver in 95% of patients (p<0.01)"
+    },
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), New Delhi"
+    ],
+    "certifications": [
+      "Clinically proven at AIIMS for fatty liver",
+      "Ayurvedic formulation for liver health"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Livomap used for?",
+        "answer": "Livomap treats viral and bacterial hepatitis, anorexia/loss of appetite, non-alcoholic fatty liver disease (NAFLD), and supports liver detoxification."
+      },
+      {
+        "question": "How effective is Livomap for fatty liver?",
+        "answer": "It significantly reduces excess fat deposits in the liver (p<0.01), lowers triglycerides from 165 to 140 mg/dL (p<0.02), and provides 95% relief from abdominal pain (p<0.01)."
+      },
+      {
+        "question": "What forms is Livomap available in?",
+        "answer": "Available as tablets (1-2 B.I.D) and syrup (1-2 teaspoons 10ml B.I.D), in blister packs and bottles."
+      },
+      {
+        "question": "How does Livomap work?",
+        "answer": "It protects, detoxifies, and rejuvenates the liver, stimulates regeneration, enhances bile flow, and expels intestinal parasites for holistic liver health."
+      },
+      {
+        "question": "Is Livomap safe?",
+        "answer": "Yes, researched at AIIMS, New Delhi, it is safe and effective for long-term liver health management."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/41V9Y3RISkL._SY300_SX300_QL70_FMwebp_.jpg"
   }
 ]

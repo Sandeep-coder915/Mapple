@@ -28,7 +28,7 @@ export default function ProductDetail() {
       <button className="text-sm font-medium text-mapple-600 hover:underline" onClick={() => navigate(-1)}>&larr; Back</button>
 
       {/* Product Header */}
-      <section className="glass mt-4 rounded-3xl border border-green-100 p-6 mb-6">
+      <section className="  mt-4 text-justify mb-6">
         <div className="grid gap-6 lg:grid-cols-3">
           <div className="lg:col-span-2">
             <h1 className="text-3xl font-bold text-mapple-900">{product.name}</h1>
@@ -147,6 +147,166 @@ export default function ProductDetail() {
         </section>
       )}
 
+      {/* Vata Balancing */}
+      {product.vataBalancing && (
+        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+          <h3 className="font-semibold text-mapple-800 text-lg mb-4">Vata Dosha Balance in Elderly</h3>
+          <p className="text-sm text-gray-700 leading-relaxed">{product.vataBalancing}</p>
+        </section>
+      )}
+
+      {/* Key Ingredients */}
+      {product.keyIngredients && (
+        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+          <h3 className="font-semibold text-mapple-800 text-lg mb-4">Key Ingredients & Their Actions</h3>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {product.keyIngredients.map((ingredient, idx) => (
+              <div key={idx} className="glass rounded-lg border border-green-100 p-3">
+                <p className="text-sm font-semibold text-mapple-800">{ingredient.name}</p>
+                <p className="text-xs text-gray-600 mt-1">{ingredient.description}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Visionaries */}
+      {product.heritage && product.heritage.visionaries && (
+        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+          <h3 className="font-semibold text-mapple-800 text-lg mb-4">The Visionaries Behind MAK</h3>
+          <p className="text-sm text-gray-600 mb-4">Together, these stalwarts created a two-part Super Rasayana to enhance health, vitality, and longevity.</p>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="glass rounded-lg border border-green-100 p-3">
+              <p className="text-sm font-semibold text-mapple-800">Padma Bhushan Late Dr. B.D. Triguna</p>
+              <p className="text-xs text-gray-600 mt-1">{product.heritage.visionaries.triguna}</p>
+            </div>
+            <div className="glass rounded-lg border border-green-100 p-3">
+              <p className="text-sm font-semibold text-mapple-800">Late Dr. Balraj Maharishi</p>
+              <p className="text-xs text-gray-600 mt-1">{product.heritage.visionaries.balraj}</p>
+            </div>
+            <div className="glass rounded-lg border border-green-100 p-3">
+              <p className="text-sm font-semibold text-mapple-800">Late Dr. V.M. Dwivedi</p>
+              <p className="text-xs text-gray-600 mt-1">{product.heritage.visionaries.dwivedi}</p>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Scientific Validation */}
+      {product.scientificValidation && (
+        <>
+          <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+            <h3 className="font-semibold text-mapple-800 text-lg mb-4">Scientific Validation</h3>
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="glass rounded-lg border border-green-100 p-3">
+                <p className="text-xs text-gray-500 uppercase font-semibold">Craftsmanship</p>
+                <p className="text-sm font-bold text-mapple-700 mt-2">{product.scientificValidation.craftsmanship}</p>
+              </div>
+              <div className="glass rounded-lg border border-green-100 p-3">
+                <p className="text-xs text-gray-500 uppercase font-semibold">Potency</p>
+                <p className="text-sm font-bold text-mapple-700 mt-2">{product.scientificValidation.potency}</p>
+              </div>
+              <div className="glass rounded-lg border border-green-100 p-3">
+                <p className="text-xs text-gray-500 uppercase font-semibold">Research Studies</p>
+                <p className="text-sm font-bold text-mapple-700 mt-2">81+ published research studies validate its efficacy</p>
+              </div>
+            </div>
+          </section>
+
+          {/* Cardioprotective Benefits */}
+          {product.scientificValidation.cardioprotectiveBenefits && (
+            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+              <h3 className="font-semibold text-mapple-800 text-lg mb-4">Cardioprotective Benefits</h3>
+              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-3">
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Angina Relief</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.cardioprotectiveBenefits.angina_relief}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Exercise Tolerance</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.cardioprotectiveBenefits.exercise_tolerance}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Medication Dependency</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.cardioprotectiveBenefits.medication_dependency}</p>
+                </div>
+              </div>
+            </section>
+          )}
+
+          {/* Antioxidant Power */}
+          {product.scientificValidation.antioxidantPower && (
+            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+              <h3 className="font-semibold text-mapple-800 text-lg mb-4">Antioxidant & Anti-Ageing Power</h3>
+              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-3">
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Potency</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.antioxidantPower.potency}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">LDL Protection</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.antioxidantPower.ldl_protection}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Cellular Defence</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.antioxidantPower.cellular_defence}</p>
+                </div>
+              </div>
+            </section>
+          )}
+
+          {/* Immunomodulatory Effects */}
+          {product.scientificValidation.immunomodulatoryEffects && (
+            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+              <h3 className="font-semibold text-mapple-800 text-lg mb-4">Immunomodulatory Effects</h3>
+              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-2">
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Boosts Immunity</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.immunomodulatoryEffects.boosts_immunity}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Immune Response Enhancement</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.immunomodulatoryEffects.immune_response}</p>
+                </div>
+              </div>
+            </section>
+          )}
+
+          {/* Chemotoxicity & Cancer Prevention */}
+          {product.scientificValidation.chemotoxicityCancerPrevention && (
+            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+              <h3 className="font-semibold text-mapple-800 text-lg mb-4">Chemotoxicity & Cancer Prevention</h3>
+              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-2">
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Symptom Relief</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.chemotoxicityCancerPrevention.symptom_relief}</p>
+                </div>
+                <div className="glass rounded-lg border border-green-100 p-3">
+                  <p className="text-sm font-semibold text-mapple-800">Improved Wellbeing</p>
+                  <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.chemotoxicityCancerPrevention.improved_wellbeing}</p>
+                </div>
+              </div>
+            </section>
+          )}
+        </>
+      )}
+
+      {/* Research Images */}
+      {product.researchImages && (
+        <section className=" mb-6">
+          <h3 className="font-semibold text-mapple-800 text-lg mb-4">Research Visuals</h3>
+          <div className="grid gap-4 sm:grid-cols-1 lg:grid-cols-2">
+            {product.researchImages.map((img, idx) => (
+              <div key={idx} className="glass p-2">
+                <img src={img.url} alt={img.title} className="w-full h-48 object-cover rounded-lg mb-3" />
+                <p className="text-sm font-semibold text-mapple-800">{img.title}</p>
+                <p className="text-xs text-gray-600 mt-1">{img.description}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* PDF Research References */}
       <section className="mb-6">
         <h3 className="text-lg font-bold text-mapple-900 mb-4">Research &amp; Evidence</h3>
@@ -158,16 +318,43 @@ export default function ProductDetail() {
         </div>
       </section>
 
+      {/* Important Notes */}
+      {product.importantNotes && (
+        <section className="glass rounded-xl border border-red-100 p-6 mb-6">
+          <h3 className="text-lg font-bold text-red-900 mb-4">Important Notes</h3>
+          <ul className="list-disc list-inside text-sm text-gray-700 space-y-2">
+            {product.importantNotes.map((note, idx) => (
+              <li key={idx}>{note}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {/* Doctor Contact */}
-      <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+      {/* <section className="glass rounded-xl border border-green-100 p-6 mb-6">
         <h3 className="text-lg font-bold text-mapple-900 mb-3">Clinical Protocol Support</h3>
         <p className="text-sm text-gray-600 mb-4">Connect with our medical team for clinical protocol discussions and physician consultation.</p>
         <div className="flex flex-wrap gap-3">
           <a href="tel:+918260044488" className="rounded-lg bg-mapple-500 px-4 py-2 text-white hover:bg-mapple-600 text-sm font-semibold">Call Medical Team</a>
-          <a href="https://wa.me/918260044488?text=Hello%20I%20need%20clinical%20protocol%20details%20for%20Amrit%20Kalash" target="_blank" rel="noreferrer" className="rounded-lg border border-mapple-400 px-4 py-2 text-mapple-700 hover:bg-mapple-50 text-sm font-semibold">WhatsApp Consultation</a>
+          <a href={`https://wa.me/918260044488?text=Hello%20I%20need%20clinical%20protocol%20details%20for%20${encodeURIComponent(product.name)}`} target="_blank" rel="noreferrer" className="rounded-lg border border-mapple-400 px-4 py-2 text-mapple-700 hover:bg-mapple-50 text-sm font-semibold">WhatsApp Consultation</a>
           <a href="mailto:info@maharishiayurvedaindia.com" className="rounded-lg border border-mapple-400 px-4 py-2 text-mapple-700 hover:bg-mapple-50 text-sm font-semibold">Email Details</a>
         </div>
-      </section>
+      </section> */}
+
+      {/* FAQs */}
+      {product.faqs && (
+        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+          <h3 className="font-semibold text-mapple-800 text-lg mb-4">Frequently Asked Questions</h3>
+          <div className="space-y-4">
+            {product.faqs.map((faq, idx) => (
+              <div key={idx} className="border-b border-green-200 pb-4 last:border-b-0">
+                <h4 className="font-medium text-mapple-900 mb-2">{faq.question}</h4>
+                <p className="text-sm text-gray-700">{faq.answer}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   )
 }
