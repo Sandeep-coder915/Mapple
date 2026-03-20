@@ -1,0 +1,78 @@
+[
+  {
+    "id": "amrit-kalash",
+    "name": "Maharishi Amrit Kalash (MAK)",
+    "category": "Super Rasayana",
+    "indication": "Comprehensive wellness formula for holistic health, vitality and longevity",
+    "dosage": "Adults: 1 teaspoon Nectar (approx 10gm) twice daily + 1 Ambrosia tablet twice daily with milk. Kids: 1/2 teaspoon Nectar twice daily + 1 Ambrosia tablet twice daily",
+    "form": "Dual Pack - 600gm Paste + 60 Tablets",
+    "ingredients": ["Nectar (40 herbs)", "Ambrosia (13 herbs)", "Premium Ayurvedic botanicals"],
+    "description": "The world's most researched Rasayana - Maharishi Amrit Kalash is a consciousness-based Ayurvedic formulation developed by combining ancient Vedic wisdom with modern scientific understanding. Crafted with meticulous attention in a Satvik atmosphere under Vedic chants.",
+    "mechanism": "Nectar brings balance of all Gunas, Agnis and Dhatus, thereby increasing Ojas. Ambrosia improves mind-body coordination and cell intelligence integrity, supporting the body's natural self-repair mechanisms.",
+    "benefits": [
+      "Cardioprotective - reduces angina pain frequency by 33.3%",
+      "Antioxidant - 1000x more potent than Vitamin C, E and Probucol",
+      "Anti-ageing and cognitive support - decreases rate of age-related cognitive decline",
+      "Immunomodulator - reduces frequency of falling sick by 50%",
+      "Chemotoxicity support - reduces vomiting episodes in chemotherapy patients",
+      "Cancer prevention - supports body's natural defense mechanisms",
+      "Rejuvenation and vitality - restores inner balance",
+      "De-stressing - alleviates stress from modern lifestyles"
+    ],
+    "clinicalHighlights": {
+      "research_count": "81 research studies published",
+      "cardio_efficacy": "33.3% improvement in angina pain frequency within 6 months",
+      "antioxidant_power": "At least 1000x more effective than Vitamin C & E",
+      "immunity_boost": "50% reduction in frequency of falling sick (n=500, p<0.01)",
+      "chemo_support": "Significant reduction in vomiting episodes in cancer patients (n=129, p<0.0009)",
+      "quality_of_life": "Significantly improves quality of life in cancer patients"
+    },
+    "heritage": {
+      "year_established": 1986,
+      "created_by": ["Late Dr. B.D. Triguna (Padma Bhushan)", "Late Dr. Balraj Maharishi", "Late Dr. V.M. Dwivedi"],
+      "expertise": "35+ years of Ayurvedic expertise"
+    },
+    "certifications": [
+      "ISO 9001 & GMP Certified",
+      "AYUSH Premium Mark (2010)",
+      "MABL Certification (2011)",
+      "COSMOS Organic Certified (2017)"
+    ],
+    "pdfLinks": [
+      {
+        "id": "visual-aid-mak",
+        "label": "Maharishi Amrit Kalash - Complete Clinical Reference",
+        "path": "/data/pdfs/Visual_Aid_MAPPL_24.pdf",
+        "highlights": [
+          "81 published research studies across multiple disease areas",
+          "Cardioprotective action with clinical data on angina management",
+          "World's most potent antioxidant formulation",
+          "Immunomodulatory effects with documented research",
+          "Chemotoxicity and cancer prevention support"
+        ]
+      },
+      {
+        "id": "th-4-mak",
+        "label": "Amrit Kalash Heritage & Research Monograph",
+        "path": "/data/pdfs/Th_4.pdf",
+        "highlights": [
+          "Complete ingredient composition - 40 herbs in Nectar, 13 in Ambrosia",
+          "Consciousness-based preparation methodology",
+          "Clinical efficacy data from world-renowned research institutions",
+          "Comparative antioxidant analysis"
+        ]
+      }
+    ],
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), Delhi & Jodhpur",
+      "Maharishi University of Management, Fairfield",
+      "University of Kansas City",
+      "Ohio State University, Columbus",
+      "Kaiser Permanente Health Center",
+      "Centre for Chronic Disorders, Dallas, Texas",
+      "SMS Medical College, Jaipur",
+      "King George's Medical College (KGMC), Lucknow"
+    ],
+    "image": "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?auto=format&fit=crop&w=600&q=80"
+  }
+]
