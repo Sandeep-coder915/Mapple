@@ -4,9 +4,9 @@ import { NavLink, Link } from 'react-router-dom'
 const menuItems = [
   { label: 'Home', to: '/' },
   { label: 'Products', to: '/products' },
-  { label: 'Categories', to: '/products' },
-  { label: 'Research', to: '/research' },
-  { label: 'Clinical Use', to: '/products' },
+//   { label: 'Categories', to: '/products' },
+//   { label: 'Research', to: '/research' },
+//   { label: 'Clinical Use', to: '/products' },
   { label: 'About', to: '/about' },
   { label: 'Contact', to: '/contact' },
 ]
