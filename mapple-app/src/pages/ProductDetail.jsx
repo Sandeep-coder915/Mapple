@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import productsData from '../data/products.json'
 import PDFViewer from '../components/PDFViewer.jsx'
@@ -9,6 +9,10 @@ const M = motion
 export default function ProductDetail() {
   const { productId } = useParams()
   const navigate = useNavigate()
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [productId])
 
   const product = useMemo(() => productsData.find((p) => p.id === productId), [productId])
 
