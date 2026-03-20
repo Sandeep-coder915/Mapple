@@ -19,7 +19,7 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <Link to="/" className="inline-flex items-center gap-2 text-green-800 font-bold text-xl">
           <span className="h-8 w-8 rounded-full bg-mapple-500/80 flex items-center justify-center text-white">M</span>
-          MAPPL Clinical
+          MAPPL 
         </Link>
 
         <button className="md:hidden p-2 rounded-md border border-green-200" onClick={() => setOpen(!open)} aria-label="Toggle menu">
