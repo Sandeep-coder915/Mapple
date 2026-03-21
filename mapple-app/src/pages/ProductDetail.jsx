@@ -32,10 +32,10 @@ export default function ProductDetail() {
       <button className="text-sm font-medium text-mapple-600 hover:underline" onClick={() => navigate(-1)}>&larr; Back</button>
 
       {/* Product Header */}
-      <section className="  mt-4 text-justify mb-6">
-        <div className="grid gap-6 lg:grid-cols-3">
-          <div className="lg:col-span-2">
-            <h1 className="text-3xl font-bold text-mapple-900">{product.name}</h1>
+      <section className="mt-4 text-justify mb-6">
+        <div className="grid gap-6 grid-cols-1 md:grid-cols-3">
+          <div className="md:col-span-2">
+            <h1 className="text-2xl md:text-3xl font-bold text-mapple-900">{product.name}</h1>
             <p className="mt-2 text-sm text-gray-600">{product.indication}</p>
             <p className="mt-4 text-gray-700 leading-relaxed">{product.description}</p>
             {product.heritage && (
@@ -45,7 +45,7 @@ export default function ProductDetail() {
               </div>
             )}
           </div>
-          <img src={product.image} alt={product.name} className="h-56 w-full rounded-xl object-cover lg:col-span-1" />
+          <img src={product.image} alt={product.name} className="h-48 md:h-56 w-full rounded-xl object-cover" />
         </div>
       </section>
 
@@ -70,8 +70,8 @@ export default function ProductDetail() {
       </section>
 
       {/* Composition & Mechanism */}
-      <section className="grid gap-4 lg:grid-cols-2 mb-6">
-        <M.div whileHover={{ scale: 1.01 }} className="glass rounded-xl border border-green-100 p-5">
+      <section className="grid gap-4 grid-cols-1 md:grid-cols-2 mb-6">
+        <M.div whileHover={{ scale: 1.01 }} className="glass rounded-xl border border-green-100 p-4 md:p-5">
           <h3 className="font-semibold text-mapple-800 text-lg">Composition</h3>
           <ul className="mt-3 list-disc list-inside text-sm text-gray-700 space-y-1">
             {product.ingredients.map((ingredient, idx) => (
@@ -80,14 +80,14 @@ export default function ProductDetail() {
           </ul>
         </M.div>
 
-        <M.div whileHover={{ scale: 1.01 }} className="glass rounded-xl border border-green-100 p-5">
+        <M.div whileHover={{ scale: 1.01 }} className="glass rounded-xl border border-green-100 p-4 md:p-5">
           <h3 className="font-semibold text-mapple-800 text-lg">Mechanism of Action</h3>
           <p className="mt-3 text-sm text-gray-700 leading-relaxed">{product.mechanism}</p>
         </M.div>
       </section>
 
       {/* Key Benefits */}
-      <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+      <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
         <h3 className="font-semibold text-mapple-800 text-lg mb-4">Key Benefits</h3>
         <ul className="grid gap-2 sm:grid-cols-2">
           {product.benefits.map((benefit, idx) => (
@@ -101,9 +101,9 @@ export default function ProductDetail() {
 
       {/* Clinical Highlights */}
       {product.clinicalHighlights && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Clinical Research Highlights</h3>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {Object.entries(product.clinicalHighlights).map(([key, value]) => (
               <div key={key} className="glass rounded-lg border border-green-100 p-3">
                 <p className="text-xs text-gray-500 uppercase font-semibold">{key.replace(/_/g, ' ')}</p>
@@ -116,10 +116,10 @@ export default function ProductDetail() {
 
       {/* Research Partners */}
       {product.researchPartners && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Research Partnerships</h3>
           <p className="text-sm text-gray-600 mb-4">Collaboration with world-renowned institutions:</p>
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-3 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {product.researchPartners.map((partner, idx) => (
               <div key={idx} className="glass rounded-lg border border-green-100 p-3">
                 <p className="text-sm text-mapple-700 font-medium">{partner}</p>
@@ -130,7 +130,7 @@ export default function ProductDetail() {
       )}
 
       {/* Clinical Indications */}
-      <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+      <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
         <h3 className="font-semibold text-mapple-800 text-lg">Clinical Indications</h3>
         <p className="mt-3 text-sm text-gray-700">{product.indication}</p>
         <p className="mt-2 text-sm text-gray-600">Ideal for long-term physician-guided treatment plans and integrative healthcare protocols.</p>
@@ -138,7 +138,7 @@ export default function ProductDetail() {
 
       {/* Certifications */}
       {product.certifications && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Quality Certifications</h3>
           <ul className="grid gap-2 sm:grid-cols-2">
             {product.certifications.map((cert, idx) => (
@@ -153,7 +153,7 @@ export default function ProductDetail() {
 
       {/* Vata Balancing */}
       {product.vataBalancing && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Vata Dosha Balance in Elderly</h3>
           <p className="text-sm text-gray-700 leading-relaxed">{product.vataBalancing}</p>
         </section>
@@ -161,9 +161,9 @@ export default function ProductDetail() {
 
       {/* Key Ingredients */}
       {product.keyIngredients && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Key Ingredients & Their Actions</h3>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {product.keyIngredients.map((ingredient, idx) => (
               <div key={idx} className="glass rounded-lg border border-green-100 p-3">
                 <p className="text-sm font-semibold text-mapple-800">{ingredient.name}</p>
@@ -176,10 +176,10 @@ export default function ProductDetail() {
 
       {/* Visionaries */}
       {product.heritage && product.heritage.visionaries && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">The Visionaries Behind MAK</h3>
           <p className="text-sm text-gray-600 mb-4">Together, these stalwarts created a two-part Super Rasayana to enhance health, vitality, and longevity.</p>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             <div className="glass rounded-lg border border-green-100 p-3">
               <p className="text-sm font-semibold text-mapple-800">Padma Bhushan Late Dr. B.D. Triguna</p>
               <p className="text-xs text-gray-600 mt-1">{product.heritage.visionaries.triguna}</p>
@@ -199,9 +199,9 @@ export default function ProductDetail() {
       {/* Scientific Validation */}
       {product.scientificValidation && (
         <>
-          <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+          <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
             <h3 className="font-semibold text-mapple-800 text-lg mb-4">Scientific Validation</h3>
-            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
               <div className="glass rounded-lg border border-green-100 p-3">
                 <p className="text-xs text-gray-500 uppercase font-semibold">Craftsmanship</p>
                 <p className="text-sm font-bold text-mapple-700 mt-2">{product.scientificValidation.craftsmanship}</p>
@@ -219,9 +219,9 @@ export default function ProductDetail() {
 
           {/* Cardioprotective Benefits */}
           {product.scientificValidation.cardioprotectiveBenefits && (
-            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+            <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
               <h3 className="font-semibold text-mapple-800 text-lg mb-4">Cardioprotective Benefits</h3>
-              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-3">
+              <div className="grid gap-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 <div className="glass rounded-lg border border-green-100 p-3">
                   <p className="text-sm font-semibold text-mapple-800">Angina Relief</p>
                   <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.cardioprotectiveBenefits.angina_relief}</p>
@@ -240,9 +240,9 @@ export default function ProductDetail() {
 
           {/* Antioxidant Power */}
           {product.scientificValidation.antioxidantPower && (
-            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+            <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
               <h3 className="font-semibold text-mapple-800 text-lg mb-4">Antioxidant & Anti-Ageing Power</h3>
-              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-3">
+              <div className="grid gap-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 <div className="glass rounded-lg border border-green-100 p-3">
                   <p className="text-sm font-semibold text-mapple-800">Potency</p>
                   <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.antioxidantPower.potency}</p>
@@ -261,9 +261,9 @@ export default function ProductDetail() {
 
           {/* Immunomodulatory Effects */}
           {product.scientificValidation.immunomodulatoryEffects && (
-            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+            <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
               <h3 className="font-semibold text-mapple-800 text-lg mb-4">Immunomodulatory Effects</h3>
-              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-2">
+              <div className="grid gap-3 grid-cols-1 md:grid-cols-2">
                 <div className="glass rounded-lg border border-green-100 p-3">
                   <p className="text-sm font-semibold text-mapple-800">Boosts Immunity</p>
                   <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.immunomodulatoryEffects.boosts_immunity}</p>
@@ -278,9 +278,9 @@ export default function ProductDetail() {
 
           {/* Chemotoxicity & Cancer Prevention */}
           {product.scientificValidation.chemotoxicityCancerPrevention && (
-            <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+            <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
               <h3 className="font-semibold text-mapple-800 text-lg mb-4">Chemotoxicity & Cancer Prevention</h3>
-              <div className="grid gap-3 sm:grid-cols-1 lg:grid-cols-2">
+              <div className="grid gap-3 grid-cols-1 md:grid-cols-2">
                 <div className="glass rounded-lg border border-green-100 p-3">
                   <p className="text-sm font-semibold text-mapple-800">Symptom Relief</p>
                   <p className="text-xs text-gray-600 mt-1">{product.scientificValidation.chemotoxicityCancerPrevention.symptom_relief}</p>
@@ -297,12 +297,12 @@ export default function ProductDetail() {
 
       {/* Research Images */}
       {product.researchImages && (
-        <section className=" mb-6">
+        <section className="mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Research Visuals</h3>
-          <div className="grid gap-4 sm:grid-cols-1 lg:grid-cols-2">
+          <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
             {product.researchImages.map((img, idx) => (
               <div key={idx} className="glass p-2">
-                <img src={img.url} alt={img.title} className="w-full h-48 object-cover rounded-lg mb-3" />
+                <img src={img.url} alt={img.title} className="w-full h-40 md:h-48 object-cover rounded-lg mb-3" />
                 <p className="text-sm font-semibold text-mapple-800">{img.title}</p>
                 <p className="text-xs text-gray-600 mt-1">{img.description}</p>
               </div>
@@ -324,7 +324,7 @@ export default function ProductDetail() {
 
       {/* Important Notes */}
       {product.importantNotes && (
-        <section className="glass rounded-xl border border-red-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-red-100 p-4 md:p-6 mb-6">
           <h3 className="text-lg font-bold text-red-900 mb-4">Important Notes</h3>
           <ul className="list-disc list-inside text-sm text-gray-700 space-y-2">
             {product.importantNotes.map((note, idx) => (
@@ -347,7 +347,7 @@ export default function ProductDetail() {
 
       {/* FAQs */}
       {product.faqs && (
-        <section className="glass rounded-xl border border-green-100 p-6 mb-6">
+        <section className="glass rounded-xl border border-green-100 p-4 md:p-6 mb-6">
           <h3 className="font-semibold text-mapple-800 text-lg mb-4">Frequently Asked Questions</h3>
           <div className="space-y-4">
             {product.faqs.map((faq, idx) => (
