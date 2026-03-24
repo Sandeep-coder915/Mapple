@@ -569,5 +569,336 @@
       }
     ],
     "image": "https://m.media-amazon.com/images/I/41V9Y3RISkL._SY300_SX300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": "kasni",
+    "name": "Kasni",
+    "category": "Respiratory Health",
+    "indication": "NON-DROWSY FORMULATION FOR ACUTE & CHRONIC COUGH",
+    "dosage": "Adults: 2 Teaspoons 10ml B.I.D, Kids: 1 Teaspoon 5ml B.I.D",
+    "form": "Syrup 100ml, 200ml",
+    "ingredients": ["Piper longum (Pippali)", "Pistacia integerrima (Kakra shringi)", "Zingiber officinale (Shunthi)", "Cyperus scariosus (Nagar Mustaka)", "Glycyrrhiza glabra (Yashtimadhu)", "Ocimum sanctum (Tulsi)", "Abies webbiana (Talispatra)", "Solanum xanthocarpum (Kantakari)", "Cinnamomum zeylanicum (Twak)", "Achyranthes aspera (Apamarg)", "Myrica nagi (Kayphal)", "Ephedra gerardiana (Soma)", "Adhatoda vasica (Vasamul)", "Tankana", "Sugar"],
+    "keyIngredients": [
+      {
+        "name": "Tulsi",
+        "description": "Balances Vata & Kapha, non-sedating"
+      },
+      {
+        "name": "Ginger",
+        "description": "Digestive, mucolytic, anti-inflammatory"
+      },
+      {
+        "name": "Pistacia integerrima",
+        "description": "Anti-tussive"
+      },
+      {
+        "name": "Myrica nagi",
+        "description": "Anti-tussive, strengthens lung function"
+      }
+    ],
+    "description": "Kasni is a clinically trusted Ayurvedic remedy formulated with a unique blend of 16 powerful herbs, including Tulsi (Ocimum sanctum), Ginger (Zingiber officinale), Pistacia integerrima, and Myrica nagi. These herbs contribute to its potent antitussive, antiallergic, and expectorant properties, effectively relieving acute and chronic coughs across diverse aetiologies. With its non-sedative and alcohol-free formulation, Kasni ensures relief without causing drowsiness or dependency, allowing patients of all ages to remain active and alert throughout the day.",
+    "mechanism": "Balances Vata & Kapha, non-sedating & alcohol-free, non-habit forming & non-constipating, relieves sore throat, tones respiratory system.",
+    "vataBalancing": "Balances Vata & Kapha for efficient mucus elimination.",
+    "benefits": [
+      "Balances vata & kapha: Restores respiratory harmony by pacifying aggravated Vata and liquefying vitiated Kapha for efficient mucus elimination.",
+      "Non-sedating & alcohol-free: Suitable for all age groups, enabling clear breathing and comfort without compromising alertness.",
+      "Non-habit forming & non-constipating: Ensures long-term safety without dependency or digestive discomfort.",
+      "Relieves sore throat: Tulsi's antiallergic properties soothe irritation, tone the respiratory system, and support immunity.",
+      "Decongested nasal and bronchial passages: Promotes expectoration of tenacious mucus with Ginger's mucolytic and anti-inflammatory effects.",
+      "Strengthens lung function: Myrica nagi and Pistacia integerrima alleviate cough and enhance respiratory health."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Effective in relieving acute and chronic coughs",
+      "safety": "Non-sedative, alcohol-free, non-habit forming",
+      "indications": "Wet cough, Dry cough, Cough due to pollution, Smoker's cough"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Clinically trusted remedy"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Kasni used for?",
+        "answer": "Kasni is used for acute and chronic coughs, including wet cough, dry cough, cough due to pollution, and smoker's cough."
+      },
+      {
+        "question": "Is Kasni safe for children?",
+        "answer": "Yes, Kasni is non-sedating and alcohol-free, suitable for all age groups including children."
+      },
+      {
+        "question": "How does Kasni work?",
+        "answer": "It balances Vata and Kapha, provides antitussive, antiallergic, and expectorant properties through its herbal blend."
+      },
+      {
+        "question": "Can Kasni cause drowsiness?",
+        "answer": "No, Kasni is non-sedating, allowing patients to remain active and alert throughout the day."
+      },
+      {
+        "question": "What are the key ingredients in Kasni?",
+        "answer": "Key ingredients include Tulsi, Ginger, Pistacia integerrima, Myrica nagi, and other herbs that support respiratory health."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Kasni-Syrup-100ml-Front.jpg?v=1724305402&width=800"
+  },
+  {
+    "id": "kanth-sudha",
+    "name": "Kanth Sudha",
+    "category": "Oral Health",
+    "indication": "FAST RELIEVING SOLUTION FOR SORE THROAT",
+    "dosage": "2-4 Pastilles T.I.D",
+    "form": "30 Pastilles",
+    "ingredients": ["Glycyrrhiza glabra (Yashti madhu)", "Mentha piperita (Menthol)", "Cinnamomum camphora (Karpoora)", "Elettaria cardamomum (Ela)", "Syzygium aromaticum (Lavang)", "Myristica fragrans (Jayphal)", "Zingiber officinale (Shunthi)", "Piper nigrum (Maricha)", "Piper longum (Pippali)", "Crystal sugar (Mishri)"],
+    "keyIngredients": [
+      {
+        "name": "Yashti madhu",
+        "description": "Kapha hara, soothing"
+      },
+      {
+        "name": "Menthol",
+        "description": "Soothing, antibacterial"
+      },
+      {
+        "name": "Lavang",
+        "description": "Digestive, antibacterial"
+      }
+    ],
+    "description": "Kanth Sudha is a fast-acting Ayurvedic solution designed to soothe sore throats, combat foul breath, and promote oral hygiene. Enriched with a natural blend of 10 Kanthya (throat-soothing) and Swarya (voice-improving) herbs, it provides long-lasting antibacterial benefits while freshening the breath. Its safe and versatile formulation makes it ideal for oral and throat care.",
+    "mechanism": "Soothes throat irritation, combats foul breath, antibacterial protection, long-lasting freshness.",
+    "benefits": [
+      "Soothes sore throat: Relieves irritation, hoarseness, and discomfort caused by conditions like laryngitis, pharyngitis, tonsillitis, and the common cold.",
+      "Antibacterial protection: Effectively combats oral bacteria, reducing foul breath and supporting gum and dental health.",
+      "Long-lasting freshness: Acts as an excellent mouth freshener, leaving a tingling, refreshing sensation.",
+      "Ideal for smokers: Deodorises lousy breath associated with smoking and alleviates smoker's cough."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Fast-relieving solution for sore throat and foul breath",
+      "safety": "Safe and versatile formulation for oral and throat care"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Natural mouth freshener"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Kanth Sudha used for?",
+        "answer": "Kanth Sudha soothes sore throats, combats foul breath, and promotes oral hygiene, ideal for throat irritation and smoker's cough."
+      },
+      {
+        "question": "How does Kanth Sudha work?",
+        "answer": "It provides antibacterial protection, soothes throat irritation, and offers long-lasting freshness through its herbal blend."
+      },
+      {
+        "question": "Is Kanth Sudha safe?",
+        "answer": "Yes, it is a safe Ayurvedic formulation with natural ingredients, suitable for oral and throat care."
+      },
+      {
+        "question": "Can Kanth Sudha be used for bad breath?",
+        "answer": "Yes, it effectively combats foul breath and acts as an excellent mouth freshener."
+      },
+      {
+        "question": "What are the key ingredients in Kanth Sudha?",
+        "answer": "Key ingredients include Yashti madhu, Menthol, Karpoora, Ela, Lavang, Jayphal, Shunthi, Maricha, Pippali, and Mishri."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Kanth-Sudha-30-Pastilles-Front.jpg?v=1724305402&width=800"
+  },
+  {
+    "id": "leucomap",
+    "name": "Leucomap",
+    "category": "Women's Health",
+    "indication": "Remedy for Relief in Leucorrhoea",
+    "dosage": "2 Capsules B.I.D before meals",
+    "form": "Strips of 10x6 capsules",
+    "ingredients": ["Tamarindus indica (Imli)", "Asparagus racemosus (Shatavri)", "Woodfordia fruticosa (Dhataki)", "Tribulus terrestris (Gokharu)", "Cuminum cyminum (Jeera)", "Tinospora cordifolia (Guduchi)", "Berberis aristata (Daru Haridra)", "Salmalia malabaricum (Semal)", "Terminalia chebula (Haritaki)", "Terminalia bellirica (Bahera)", "Emblica officinalis (Amalaki)", "Mimosa pudica (Lajwanti)", "Mesua ferrea (Nagkesar)", "Carom bulbocastanum (Jeera)", "Smilax china (China Root)", "Asparagus racemosus (Shatavari)", "Pterocarpus santalinus (Red Sanders)", "Piper cubeba (Sheetal Chini)", "Symplocos racemosa (Lodhra)", "Saraca asoca (Ashok)", "Yashad bhasm", "Mukta shukti bhasm", "Purified Shilajeet", "Dhatri Lauh"],
+    "keyIngredients": [
+      {
+        "name": "Shatavari",
+        "description": "Strength, gyne disorder"
+      },
+      {
+        "name": "Ashok",
+        "description": "Gyne disorder"
+      },
+      {
+        "name": "Lodhra",
+        "description": "Gyne disorder"
+      }
+    ],
+    "description": "Leucomap is a time-tested herbal formulation made from a synergistic blend of 24 Ayurvedic herbs designed to address non-specific leucorrhoea and its associated symptoms. This natural remedy effectively regulates abnormal secretions, reduces cervical congestion, and enhances the overall health of the female genitourinary system. By improving the health of the ovaries, fallopian tubes, uterus, and cervix, Leucomap ensures comprehensive reproductive care. It also supports hormonal balance by addressing psychological factors influencing ovarian function and reproductive health.",
+    "mechanism": "Safe and non-hormonal preparation, decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, strengthens genitourinary system, promotes healthy hormonal interplay.",
+    "benefits": [
+      "Safe and non-hormonal preparation: An entirely herbal formulation that works without interfering with hormones, ensuring long-term safety.",
+      "Decreases abnormal white discharge: Effectively controls excessive and abnormal cervical and endocervical secretions for optimal vaginal health.",
+      "Balances apana vayu: Regulates the downward energy flow, addressing the root cause of leucorrhoea and promoting overall balance in the reproductive system.",
+      "Relieves cervical congestion: Reduces inflammation and improves cervix circulation, enhancing overall health and function.",
+      "Strengthens the genitourinary system: It enhances local and general immunity, protects against recurrent infections, and supports the health of the pelvic cavity.",
+      "Promotes healthy hormonal interplay: Regulates ovarian function and balances hormones, ensuring a healthy reproductive environment."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Time-tested herbal formulation for leucorrhoea relief",
+      "safety": "Safe and non-hormonal preparation"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Time-tested remedy"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Leucomap used for?",
+        "answer": "Leucomap addresses non-specific leucorrhoea, low backache, general malaise, and menstrual irregularity."
+      },
+      {
+        "question": "Is Leucomap safe?",
+        "answer": "Yes, it is a safe and non-hormonal preparation, ensuring long-term safety without interfering with hormones."
+      },
+      {
+        "question": "How does Leucomap work?",
+        "answer": "It regulates abnormal secretions, reduces cervical congestion, strengthens the genitourinary system, and supports hormonal balance."
+      },
+      {
+        "question": "What are the key benefits of Leucomap?",
+        "answer": "It decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, and promotes healthy hormonal interplay."
+      },
+      {
+        "question": "How should Leucomap be taken?",
+        "answer": "Take 2 capsules twice daily before meals."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Leucomap.jpg?v=1724305394&width=800"
+  },
+  {
+    "id": "raktda",
+    "name": "Raktda",
+    "category": "Anaemia & Blood Health",
+    "indication": "Clinically Proven Ayurvedic Solution for Anaemia",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Blister strips of 10x10 tablets",
+    "ingredients": ["Corallum rubrum (Pravala pishti)", "Ostrea edulis (Muktashukti pishti)", "Cypraea moneta (Varatika Bhasm)", "Tinospora cordifolia (Guduchi Satwa)", "Emblica officinalis (Amalaki)", "Elettaria cardamomum (Ela)", "Cinnamomum tamala (Tejpatra)", "Syzygium aromaticum (Lavanga)", "Mesua ferrea (Nagkeshar)", "Phoenix dactylifera (Khajura)", "Vitis vinifera (Draksha)", "Glycyrrhiza glabra (Yashtimadhu)", "Piper longum (Pippali)", "Turbinella rappa (Shankha Bhasma)", "Purified Asphaltum (Shudha Shilajeet)", "Kanta lauh Bhasma", "Mandura Bhasma", "Crystal sugar (Mishri)"],
+    "keyIngredients": [
+      {
+        "name": "Guduchi Satwa",
+        "description": "Pitta hara"
+      },
+      {
+        "name": "Amalaki",
+        "description": "Pitta hara"
+      },
+      {
+        "name": "Shudha Shilajeet",
+        "description": "Strength, hematinic"
+      }
+    ],
+    "description": "Raktda is a scientifically validated Ayurvedic haematinic designed to effectively manage iron deficiency anaemia and its associated symptoms. Enriched with the goodness of iron, calcium, minerals, and vitamin C, Raktda supports haemopoiesis, enhances haemoglobin levels, and combats debility by improving protein anabolism. It restores energy, reduces fatigue, and improves overall vitality in anaemic and debilitated patients. Additionally, it stimulates blood formation by activating organs responsible for haemopoiesis and blood purification.",
+    "mechanism": "Supports haemopoiesis, enhances haemoglobin levels, combats debility, stimulates blood formation.",
+    "benefits": [
+      "Haemoglobin levels: An increase from 9.23 to 11.04 points within 30 days.",
+      "Reduces fatigue: Nearly 90% of patients reported less tiredness.",
+      "Improves appetite: Approximately 95% experienced enhanced appetite.",
+      "Holistic symptom relief: Over 80% of patients saw improvements in symptoms like paleness of skin, leg pain, narcolepsy, swelling.",
+      "Non-irritating formula: Provides iron in a highly bioavailable, reduced form that is gentle on the gastrointestinal tract.",
+      "Natural haemopoietic factors: Delivers essential trace elements and haemopoietic components derived from natural sources."
+    ],
+    "clinicalHighlights": {
+      "haemoglobin_increase": "Haemoglobin levels increase from 9.23 to 11.04 in 30 days",
+      "fatigue_reduction": "90% of patients reported less tiredness",
+      "appetite_improvement": "95% experienced enhanced appetite",
+      "symptom_relief": "Over 80% saw improvements in paleness, leg pain, narcolepsy, swelling"
+    },
+    "certifications": [
+      "Clinically proven Ayurvedic haematinic",
+      "Scientifically validated"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Raktda used for?",
+        "answer": "Raktda manages iron deficiency and calcium deficiency anaemia, post-infection recovery, and general debility."
+      },
+      {
+        "question": "How effective is Raktda?",
+        "answer": "It increases haemoglobin from 9.23 to 11.04 in 30 days, reduces fatigue in 90% of patients, and improves appetite in 95%."
+      },
+      {
+        "question": "Is Raktda safe?",
+        "answer": "Yes, it has a non-irritating formula that is gentle on the gastrointestinal tract."
+      },
+      {
+        "question": "What are the key ingredients in Raktda?",
+        "answer": "Key ingredients include Guduchi Satwa, Amalaki, Shudha Shilajeet, and various Bhasmas for haemopoiesis."
+      },
+      {
+        "question": "How should Raktda be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Raktda.jpg?v=1724305394&width=800"
+  },
+  {
+    "id": "restone",
+    "name": "Restone",
+    "category": "Women's Health",
+    "indication": "For Menstrual Disorders & Women Health",
+    "dosage": "Syrup: 2 teaspoons daily, Tablets: 2 tablets daily",
+    "form": "Syrup: 200 ml bottle, Tablets: 500 mg blister strips in packs of 10x10",
+    "ingredients": ["Saraca asoca (Ashok)", "Symplocos racemosa (Lodhra)", "Asparagus racemosus (Shatavari)", "Mangifera indica (Aam)", "Ficus religiosa (Peepal)", "Mimosa pudica (Lajwanti)", "Boerhaavia diffusa (Punarnava)", "Mesua ferrea (Nagkesar)", "Caesalpinia sappan (Patang)", "Valeriana wallichi (Sugandh Bala)", "Aconitum heterophyllum (Atees)", "Cyperus rotundus (Mustak)", "Holarrhena antidysenterica (Kurchi)", "Nymphaea nouchali (Kumud)", "Santalum album (Safed chandan)", "Terminalia chebula (Haritaki)", "Cuminum cyminum (Jeera)", "Zingiber officinale (Sonth)", "Carum bulbocastanum (Kala jeera)", "Coriandrum sativum (Dhaniya)", "Piper longum (Pippali)"],
+    "keyIngredients": [
+      {
+        "name": "Ashok",
+        "description": "Gyne disorder"
+      },
+      {
+        "name": "Lodhra",
+        "description": "Gyne disorder"
+      },
+      {
+        "name": "Shatavari",
+        "description": "Gyne disorder"
+      }
+    ],
+    "description": "Restone is a scientifically crafted Ayurvedic formulation tailored to support women's unique psychological and physiological needs. Enriched with Rasayanas and Medhya Rasayanas, it works holistically to restore balance and harmony. Restone supports mental functions, enhances adaptability to stress, and promotes emotional well-being while ensuring optimal reproductive and overall health. Stimulating and regulating vital systems, particularly the reproductive system, maintains homeostasis and prevents imbalances that may lead to menstrual disorders.",
+    "mechanism": "Strengthens uterus function, balances hormone levels, restores menstrual health, adaptogenic & anti-stress, rejuvenates & revitalises, holistic regulation.",
+    "benefits": [
+      "Strengthens uterus function: Supports the uterus (Kshetra) by improving its strength and alleviating pain and inflammation.",
+      "Balances hormone levels: Regulates the hypothalamus-pituitary-ovarian axis to harmonise the hormonal orchestra of female physiology.",
+      "Restores menstrual health: Maintaining a regular and healthy menstrual cycle alleviates discomfort associated with irregular periods.",
+      "Adaptogenic & anti-stress: Contains Medhya Rasayanas (nervine tonics) that improve mental functions, promote emotional stability, and prevent anxiety, irritability, and depression.",
+      "Rejuvenates & revitalises: Acts as a restorative tonic, improving vitality, general well-being, and adaptability to stress.",
+      "Holistic regulation: Stimulates and regulates vital systems, particularly the reproductive system, to maintain homeostasis and ensure overall health."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Scientifically crafted for menstrual disorders and women's health",
+      "safety": "Enriched with Rasayanas and Medhya Rasayanas"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Scientifically crafted"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Restone used for?",
+        "answer": "Restone is used for premenstrual syndrome (PMS), dysfunctional uterine bleeding, polycystic ovarian syndrome (PCOS), menorrhagia, and dysmenorrhea."
+      },
+      {
+        "question": "How does Restone work?",
+        "answer": "It strengthens uterus function, balances hormone levels, restores menstrual health, and provides adaptogenic and anti-stress benefits."
+      },
+      {
+        "question": "Is Restone safe?",
+        "answer": "Yes, it is a scientifically crafted Ayurvedic formulation enriched with Rasayanas and Medhya Rasayanas."
+      },
+      {
+        "question": "What forms is Restone available in?",
+        "answer": "Available as syrup (2 teaspoons daily) and tablets (2 tablets daily)."
+      },
+      {
+        "question": "What are the key ingredients in Restone?",
+        "answer": "Key ingredients include Ashok, Lodhra, Shatavari, and other herbs that support women's health."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Restone.jpg?v=1724305394&width=800"
   }
 ]
