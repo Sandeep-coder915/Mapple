@@ -753,53 +753,75 @@
   },
   {
     "id": "livomap",
+    "name": "Livomap",
+    "category": "Liver Health",
     "indication": "Clinically Proven Solution for Fatty Liver",
     "dosage": "Tablets: 1-2 tablets B.I.D; Syrup: 1-2 teaspoons 10ml B.I.D",
     "form": "Tablets: Blister packs of 10s; Syrup: Bottles of 100 ml and 200 ml",
     "ingredients": ["Boerhaavia diffusa (Punarnava)", "Melia azadirachta (Nimb)", "Trichosanthes cucumerina (Tikta Patola)", "Zingiber officinale (Shunthi)", "Picrorhiza kurroa (Katuki)", "Tinospora cordifolia (Guduchi)", "Cedrus deodara (Devdaru)", "Terminalia chebula (Haritaki)", "Crataeva religiosa (Varuna)", "Moringa oleifera (Shigru)", "Berberis aristata (Daruharidra)", "Artemisia absinthium (Afsantin)", "Tephrosia purpurea (Sharapunkha)", "Phyllanthus niruri (Bhumiamalaki)"],
+    "keyIngredients": [
+      {
+        "name": "Punarnava (Boerhaavia diffusa)",
+        "description": "Powerful liver stimulant and rejuvenator"
+      },
+      {
+        "name": "Katuki (Picrorhiza kurroa)",
+        "description": "Purgative and liver tonic with detoxifying properties"
+      },
+      {
+        "name": "Bhumi Amalaki (Phyllanthus niruri)",
+        "description": "Hepatoprotective liver tonic"
+      },
+      {
+        "name": "Haritaki (Terminalia chebula)",
+        "description": "Laxative and digestive support"
+      }
+    ],
     "description": "Livomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is formulated with a powerful combination of 28 herbs, including Phyllanthus niruri and Picrorhiza kurroa. It is designed to protect, detoxify, and rejuvenate the liver by addressing the root causes of fatty liver, inflammation, infections, and chronic liver disorders. Livomap improves liver function, stimulates liver regeneration, enhances bile flow, and detoxifies the liver and blood-forming organs. Its multi-dimensional approach ensures long-term liver health and comprehensive care.",
-    "mechanism": "Stimulates protein and nucleic acid synthesis for liver regeneration, detoxifies liver and blood-forming organs, enhances bile flow and digestion, expels intestinal parasites.",
+    "mechanism": "Stimulates protein and nucleic acid synthesis for liver regeneration, detoxifies liver and blood-forming organs, enhances bile flow and digestion, expels intestinal parasites, and supports the liver's natural self-repair mechanisms.",
     "benefits": [
-      "Effectively reduces liver fat: Significantly decreases excess fat deposited in the liver (p<0.01)",
-      "Lowers triglycerides: Reduction in triglyceride levels from ~165 mg/dL to ~140 mg/dL in three months (p<0.02)",
-      "Provides complete relief from abdominal pain: 95% of patients get complete relief (p<0.01)",
-      "Promotes liver regeneration: Stimulates protein and nucleic acid synthesis, reversing cirrhotic changes",
-      "Supports detoxification and toning: Detoxifies liver, spleen, and blood-forming organs while expelling parasites",
-      "Enhances bile flow and digestion: Improves bile flow, prevents gallstone formation, enhances digestive efficiency"
+      "Effectively reduces liver fat: Significantly decreases excess fat deposited in the liver, providing a powerful solution for fatty liver (p<0.01)",
+      "Lowers triglycerides: Achieves a notable reduction in triglyceride levels, from ~165 mg/dL to ~140 mg/dL in just three months (p<0.02)",
+      "Provides complete relief from abdominal pain: Alleviates abdominal discomfort caused by fatty liver, delivering 95% of patients complete relief (p<0.01)",
+      "Promotes liver regeneration: Stimulates protein and nucleic acid synthesis, reversing cirrhotic changes and regenerating damaged liver tissue",
+      "Supports detoxification and toning: Detoxifies the liver, spleen, and blood-forming organs while expelling intestinal parasites for holistic health",
+      "Enhances bile flow and digestion: Improves bile flow, prevents gallstone formation, and enhances digestive efficiency"
     ],
     "clinicalHighlights": {
-      "liver_fat": "Reduces excess fat deposits in the liver of NAFLD patients (p<0.01)",
+      "liver_fat_reduction": "Reduces excess fat deposits in the liver of NAFLD patients with 61.5% improvement after 16 weeks (p<0.01)",
       "triglycerides": "Significant reduction in triglyceride level from 165 to 140 mg/dL in three months (p<0.02)",
-      "abdominal_pain": "Complete relief in abdominal pain due to fatty liver in 95% of patients (p<0.01)"
+      "abdominal_pain": "Complete relief in abdominal pain due to fatty liver in 95% of patients (p<0.01)",
+      "research": "Double blind randomised placebo controlled clinical trial completed at AIIMS, New Delhi"
     },
     "researchPartners": [
       "All India Institute of Medical Sciences (AIIMS), New Delhi"
     ],
     "certifications": [
       "Clinically proven at AIIMS for fatty liver",
-      "Ayurvedic formulation for liver health"
+      "Ayurvedic formulation with Yakrit Rasayana properties",
+      "Available in both tablet and syrup forms"
     ],
     "pdfLinks": [],
     "faqs": [
       {
         "question": "What is Livomap used for?",
-        "answer": "Livomap treats viral and bacterial hepatitis, anorexia/loss of appetite, non-alcoholic fatty liver disease (NAFLD), and supports liver detoxification."
+        "answer": "Livomap treats non-alcoholic fatty liver disease (NAFLD), viral and bacterial hepatitis, anorexia/loss of appetite, and supports comprehensive liver detoxification."
       },
       {
         "question": "How effective is Livomap for fatty liver?",
-        "answer": "It significantly reduces excess fat deposits in the liver (p<0.01), lowers triglycerides from 165 to 140 mg/dL (p<0.02), and provides 95% relief from abdominal pain (p<0.01)."
+        "answer": "Clinical trials show 61.5% improvement in liver fat reduction after 16 weeks, combined with triglyceride reduction from 165 to 140 mg/dL and 95% relief from abdominal pain."
       },
       {
         "question": "What forms is Livomap available in?",
-        "answer": "Available as tablets (1-2 B.I.D) and syrup (1-2 teaspoons 10ml B.I.D), in blister packs and bottles."
+        "answer": "Available in two forms: Tablets (1-2 B.I.D) in blister packs and Syrup (1-2 teaspoons 10ml B.I.D) in bottles of 100ml and 200ml."
       },
       {
         "question": "How does Livomap work?",
-        "answer": "It protects, detoxifies, and rejuvenates the liver, stimulates regeneration, enhances bile flow, and expels intestinal parasites for holistic liver health."
+        "answer": "It protects and detoxifies the liver, stimulates regeneration through protein and nucleic acid synthesis, enhances bile flow, and expels parasites for holistic liver health."
       },
       {
-        "question": "Is Livomap safe?",
-        "answer": "Yes, researched at AIIMS, New Delhi, it is safe and effective for long-term liver health management."
+        "question": "Is Livomap safe for long-term use?",
+        "answer": "Yes, researched at AIIMS, New Delhi, Livomap is safe and effective for long-term liver health management with clinical validation."
       }
     ],
     "image": "https://m.media-amazon.com/images/I/41V9Y3RISkL._SY300_SX300_QL70_FMwebp_.jpg"
