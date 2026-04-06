@@ -109,31 +109,7 @@
       "MABL Certification (2011)",
       "COSMOS Organic Certified (2017)"
     ],
-    "pdfLinks": [
-      {
-        "id": "visual-aid-mak",
-        "label": "Maharishi Amrit Kalash - Complete Clinical Reference",
-        "path": "/data/pdfs/Visual_Aid_MAPPL_24.pdf",
-        "highlights": [
-          "81 published research studies across multiple disease areas",
-          "Cardioprotective action with clinical data on angina management",
-          "World's most potent antioxidant formulation",
-          "Immunomodulatory effects with documented research",
-          "Chemotoxicity and cancer prevention support"
-        ]
-      },
-      {
-        "id": "th-4-mak",
-        "label": "Amrit Kalash Heritage & Research Monograph",
-        "path": "/data/pdfs/Th_4.pdf",
-        "highlights": [
-          "Complete ingredient composition - 40 herbs in Nectar, 13 in Ambrosia",
-          "Consciousness-based preparation methodology",
-          "Clinical efficacy data from world-renowned research institutions",
-          "Comparative antioxidant analysis"
-        ]
-      }
-    ],
+    
     "researchPartners": [
       "All India Institute of Medical Sciences (AIIMS), Delhi & Jodhpur",
       "Maharishi University of Management, Fairfield",
@@ -516,9 +492,267 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Lipomap-1080x.jpg?v=1724305356&width=800"
   },
   {
+    "id": "pilomap",
+    "name": "Pilomap",
+    "category": "Proctology & Digestive Health",
+    "indication": "Effective Solution for Piles Care",
+    "dosage": "2 Tablets B.I.D or T.I.D with lukewarm water before meals",
+    "form": "Box of 60 tablets",
+    "ingredients": [
+      "Commiphora mukul (Shudh Guggul)",
+      "Asphaltum (Shudh Shilajit)",
+      "Berberis aristata (Daruharidra)",
+      "Terminalia chebula (Haritaki)",
+      "Mesua ferrea (Nagkesar)",
+      "Zingiber officinale (Sonth)",
+      "Bauhinia variegata (Kanchnaar)",
+      "Hordeum vulgare (Yavakshar)",
+      "Semecarpus anacardium (Shudh Bhallatak)",
+      "Piper nigrum (Kali Mirch)",
+      "Cinnamomum zeylanicum (Dalchini)",
+      "Piper longum (Pippali)"
+    ],
+    "description": "Pilomap is a scientifically formulated solution designed to effectively relieve both bleeding and non-bleeding piles. It enhances elasticity of the perianal area, addresses the root cause of discomfort, and minimizes inflammation, pain, and bleeding.",
+    "mechanism": "Enhances perianal elasticity, soothes inflamed skin and mucous membranes, reduces pile mass, controls bleeding, relieves pain during defecation, and improves bowel regularity to prevent recurrence.",
+    "benefits": [
+      "Improves perianal elasticity to reduce strain and discomfort",
+      "Reduces the size of pile mass in non-bleeding piles",
+      "Controls bleeding and soothes inflammation",
+      "Relieves pain during defecation for smoother bowel movements",
+      "Supports bowel regularity and helps prevent recurrence"
+    ],
+    "clinicalHighlights": {
+      "elasticity_support": "Improves elasticity of the perianal area and reduces strain",
+      "pile_mass_reduction": "Helps reduce pile mass in non-bleeding hemorrhoids",
+      "bleeding_control": "Supports healing of inflamed skin and mucous membranes",
+      "constipation_relief": "Promotes smoother bowel movements and alleviates pain"
+    },
+    "certifications": [
+      "Clinically formulated for hemorrhoids and proctology support"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Pilomap used for?",
+        "answer": "Pilomap is used for bleeding and non-bleeding piles, proctitis, anal fissures, and post-hemorrhoidectomy wound care."
+      },
+      {
+        "question": "How does Pilomap help relieve piles?",
+        "answer": "It enhances perianal elasticity, reduces pile mass, controls bleeding, soothes inflammation, and supports smoother bowel movements."
+      },
+      {
+        "question": "How should Pilomap be taken?",
+        "answer": "Take 2 tablets twice or thrice daily with lukewarm water before meals. Consult a physician for personalized monitoring."
+      },
+      {
+        "question": "Can Pilomap help with constipation?",
+        "answer": "Yes, it helps relieve constipation and reduce strain on the pile mass, which supports long-term relief and recurrence prevention."
+      },
+      {
+        "question": "Is Pilomap safe for piles care?",
+        "answer": "Pilomap is a scientifically formulated Ayurvedic support for hemorrhoids and perianal inflammation. Use under medical guidance for best results."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71-Py4mVBOL._SX466_.jpg"
+  },
+  {
+    "id": "ambimap",
+    "name": "Ambimap",
+    "category": "Digestive Health",
+    "indication": "For Mild to Moderate Diarrhoea",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Strips of 10x10 tablets",
+    "ingredients": [
+      "Psidium guajava (Amrood)",
+      "Woodfordia fruticosa (Dhatki)",
+      "Syzygium cumini (Jamun Leaf)",
+      "Syzygium cumini (Jamun Seed)",
+      "Eclipta alba (Bhringraj)",
+      "Aegle marmelos (Bael)",
+      "Bombax malabaricum (Mocharas)",
+      "Hordeum vulgare (Yavakshar)",
+      "Cyperus rotundus (Nagarmotha)",
+      "Shorea robusta (Safed Ral)",
+      "Piper nigrum (Kali Mirch)",
+      "Piper longum (Pippali)",
+      "Aconitum heterophyllum (Atees)",
+      "Punica granatum (Anaar)",
+      "Trachyspermum ammi (Ajwain)"
+    ],
+    "description": "Ambimap is a clinically formulated Ayurvedic formulation for mild to moderate diarrhoea and dysentery. It restores digestive strength, counteracts parasitic infections, promotes ama pachan, and relieves abdominal bloating, cramps, nausea, and vomiting.",
+    "mechanism": "Balances Vata and Pitta, strengthens Jatharagni, enhances toxin metabolism, targets intestinal parasites, and normalizes stool consistency to reduce fluid loss and discomfort.",
+    "benefits": [
+      "Restores digestive balance by regulating Vata and Pitta",
+      "Improves digestive strength and promotes ama pachan",
+      "Counters parasitic infections for a healthier gut",
+      "Controls non-specific diarrhoea and reduces stool frequency",
+      "Regulates bowel movements and relieves abdominal discomfort",
+      "Alleviates bloating, cramps, nausea, and vomiting"
+    ],
+    "clinicalHighlights": {
+      "diarrhoea_control": "Controls non-specific diarrhoea and dysentery",
+      "parasite_support": "Targets parasitic infections and supports gut health",
+      "ama_pachan": "Promotes ama pachan and improves digestion",
+      "symptom_relief": "Relieves abdominal cramping, bloating, nausea, and vomiting"
+    },
+    "indications": [
+      "Acute and chronic diarrhoea (Atisar)",
+      "Dysentery (Pravahika) of varied aetiologies"
+    ],
+    "certifications": [
+      "Ayurvedic formulation for diarrhoea management"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Ambimap used for?",
+        "answer": "Ambimap is used for mild to moderate diarrhoea and dysentery, helping to restore digestive balance and relieve abdominal discomfort."
+      },
+      {
+        "question": "How does Ambimap work?",
+        "answer": "It balances Vata and Pitta, strengthens digestion, promotes ama pachan, and counters parasitic infections for improved gut health."
+      },
+      {
+        "question": "How should Ambimap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water before meals. Consult a physician if symptoms persist."
+      },
+      {
+        "question": "Can Ambimap help with bloating and cramps?",
+        "answer": "Yes, it relieves abdominal bloating, cramps, nausea, and vomiting associated with digestive imbalance."
+      },
+      {
+        "question": "Is Ambimap safe for long-term use?",
+        "answer": "Ambimap is a traditional Ayurvedic digestive support formula. Use it under medical guidance if prolonged treatment is needed."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/615nU-nc1dL._SY450_.jpg"
+  },
+  {
+    "id": "dizomap",
+    "name": "Dizomap",
+    "category": "Digestive Health",
+    "indication": "Formulation for Digestive Health Management",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Strips of 10x10 tablets",
+    "ingredients": [
+      "Cassia elongata",
+      "Foeniculum vulgare (Saunf)",
+      "Zingiber officinale (Shunthi)",
+      "Terminalia chebula (Haritaki)",
+      "Cypraea moneta (Kapardika)",
+      "Rock salt (Saindhava Lavan)",
+      "Markandika",
+      "Shatpushpa",
+      "Kapardika Bhasma"
+    ],
+    "description": "Dizomap is an advanced Ayurvedic formulation designed to manage digestive health issues caused by modern dietary habits. It balances digestive doshas, strengthens the GI tract, restores gut flora, and improves nutrient absorption.",
+    "mechanism": "Stimulates digestive enzymes and bile secretion, balances Samana Vata, Pachaka Pitta, and Kledaka Kapha, supports gut flora restoration, and relieves constipation and abdominal discomfort.",
+    "benefits": [
+      "Strengthens the GI tract and stimulates digestive enzymes",
+      "Balances Pachaka Pitta, Samana Vata, and Kledaka Kapha",
+      "Promotes nutrient absorption and digestive efficiency",
+      "Regulates bowel movements and relieves constipation",
+      "Restores gut flora after diarrhoea, dysentery, or antibiotic therapy",
+      "Improves digestive agni and overall gut function"
+    ],
+    "clinicalHighlights": {
+      "gi_support": "Strengthens the gastrointestinal tract and improves digestion",
+      "dosha_balance": "Balances Pachaka Pitta, Samana Vata, and Kledaka Kapha",
+      "nutrient_absorption": "Enhances nutrient absorption and digestive efficiency",
+      "gut_flora": "Restores healthy gut flora after digestive disturbance"
+    },
+    "indications": [
+      "Constipation",
+      "Flatulence",
+      "Abdominal discomfort",
+      "Anorexia",
+      "Bloating"
+    ],
+    "certifications": [
+      "Safe, non-habit-forming digestive support"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Dizomap used for?",
+        "answer": "Dizomap is used to support digestive health, relieve constipation, flatulence, bloating, and abdominal discomfort, and restore gut balance."
+      },
+      {
+        "question": "How does Dizomap work?",
+        "answer": "It balances digestive doshas, stimulates digestion, supports gut flora, and improves nutrient absorption."
+      },
+      {
+        "question": "How should Dizomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician if digestive symptoms persist."
+      },
+      {
+        "question": "Is Dizomap habit-forming?",
+        "answer": "No, Dizomap is formulated to be non-habit-forming and safe for long-term digestive support."
+      },
+      {
+        "question": "Can Dizomap help after antibiotic use?",
+        "answer": "Yes, it helps restore healthy gut flora and supports digestion after prolonged antibiotic therapy."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/dizomap-for-indigestion-and-constipation-maharishi-ayurveda-india-1.png?v=1692185170&width=1000"
+  },
+  {
+    "id": "triphala",
+    "name": "Triphala",
+    "category": "Digestive Health",
+    "indication": "High Potency (1000mg) Formulation for Bowel Health Management",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Bottle of 60 tablets",
+    "ingredients": [
+      "Terminalia chebula (Harad)",
+      "Terminalia bellirica (Baheda)",
+      "Emblica officinalis (Amla)"
+    ],
+    "description": "Triphala is a renowned Rasayana rich in antioxidants, revered in Ayurveda for supporting digestive and metabolic health. This high-potency formulation completes the digestive process, balances Agni, and helps naturally cleanse the colon.",
+    "mechanism": "Balances digestive fire (Agni), regulates bowel movements, supports toxin elimination, and strengthens digestion for improved nutrient assimilation and bowel health.",
+    "benefits": [
+      "Rich antioxidant source that rejuvenates internal systems",
+      "Balances Agni and regulates bowel movements",
+      "Supports natural colon cleansing and toxin removal",
+      "Completes the digestive process (Pachan Kriya)",
+      "Relieves loss of appetite and abdominal distension"
+    ],
+    "clinicalHighlights": {
+      "antioxidant_support": "High potency Rasayana with strong antioxidant support",
+      "bowel_regularization": "Helps regulate bowel movements and supports constipation relief",
+      "digestive_completion": "Completes the digestive process and supports Pachan Kriya"
+    },
+    "indications": [
+      "Constipation",
+      "Loss of appetite",
+      "Abdominal distension"
+    ],
+    "certifications": [
+      "Ayurvedic formulation for bowel health management"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Triphala used for?",
+        "answer": "Triphala is used to support bowel health, relieve constipation, improve appetite, and reduce abdominal distension."
+      },
+      {
+        "question": "How does Triphala work?",
+        "answer": "It balances Agni, completes digestion, and helps cleanse the colon naturally while providing antioxidant support."
+      },
+      {
+        "question": "How should Triphala be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician if symptoms persist."
+      },
+      {
+        "question": "Is Triphala safe for long-term use?",
+        "answer": "Yes, Triphala is a traditional Ayurvedic Rasayana suitable for ongoing digestive support when used as directed."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/triphala-for-digestive-system-and-promoting-detoxification-maharishi-ayurveda-india-2.png?v=1724306431&width=1000"
+  },
+  {
     "id": "livomap",
-    "name": "Livomap",
-    "category": "Liver Health",
     "indication": "Clinically Proven Solution for Fatty Liver",
     "dosage": "Tablets: 1-2 tablets B.I.D; Syrup: 1-2 teaspoons 10ml B.I.D",
     "form": "Tablets: Blister packs of 10s; Syrup: Bottles of 100 ml and 200 ml",

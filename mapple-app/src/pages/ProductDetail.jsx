@@ -45,7 +45,7 @@ export default function ProductDetail() {
               </div>
             )}
           </div>
-          <img src={product.image} alt={product.name} className="h-48 md:h-56 w-full rounded-xl object-cover" />
+          <img src={product.image} alt={product.name} className="h-[400px] w-full rounded-xl object-cover" />
         </div>
       </section>
 

@@ -6,7 +6,10 @@ export default function Products() {
   const [query, setQuery] = useState('')
   const [category, setCategory] = useState('')
 
-  const categories = useMemo(() => [...new Set(productsData.map((p) => p.category))], [])
+  const categories = useMemo(
+    () => [...new Set(productsData.map((p) => p.category).filter(Boolean))],
+    []
+  )
 
   const filteredProducts = useMemo(() => {
     const normalized = query.trim().toLowerCase()
@@ -14,7 +17,7 @@ export default function Products() {
     return productsData.filter((product) => {
       const matchCategory = !category || product.category === category
       const matchText = !normalized || [product.name, product.indication, product.category, product.description]
-        .some((field) => field.toLowerCase().includes(normalized))
+        .some((field) => typeof field === 'string' && field.toLowerCase().includes(normalized))
       return matchCategory && matchText
     })
   }, [category, query])
