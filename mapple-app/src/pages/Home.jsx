@@ -50,7 +50,7 @@ export default function Home() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM1IQVG8Ifp43BDlUQ1vsQqeKqdIqnWrR3w&s"
-              className="h-80 w-full object-cover rounded-2xl shadow-lg"
+              className=" w-full object-cover rounded-2xl shadow-lg"
               alt="Ayurveda Solutions"
             />
           </div>
