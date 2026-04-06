@@ -312,15 +312,17 @@ export default function ProductDetail() {
       )}
 
       {/* PDF Research References */}
-      <section className="mb-6">
-        <h3 className="text-lg font-bold text-mapple-900 mb-4">Research &amp; Evidence</h3>
-        <p className="text-sm text-gray-600 mb-4">Mapped PDF references and clinical summaries from world-renowned research institutions.</p>
-        <div className="space-y-4">
-          {product.pdfLinks.map((pdf) => (
-            <PDFViewer key={pdf.id} pdf={pdf} />
-          ))}
-        </div>
-      </section>
+      {product.pdfLinks && (
+        <section className="mb-6">
+          <h3 className="text-lg font-bold text-mapple-900 mb-4">Research &amp; Evidence</h3>
+          <p className="text-sm text-gray-600 mb-4">Mapped PDF references and clinical summaries from world-renowned research institutions.</p>
+          <div className="space-y-4">
+            {product.pdfLinks.map((pdf) => (
+              <PDFViewer key={pdf.id} pdf={pdf} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Important Notes */}
       {product.importantNotes && (

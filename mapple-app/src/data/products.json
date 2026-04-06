@@ -399,7 +399,7 @@
         "answer": "Key ingredients include Rauwolfia serpentina, Jatamansi, Brahmi, Shankhpushpi, and Pippali, which are renowned Medhya Rasayans and anti-hypertensives."
       }
     ],
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwOTBEai4vS0T-G3MYIgXcZUuL5O2PCgSmy7H4Cyx_6iymcKsS"
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/3_d8dccc26-9b96-4afa-a741-320a3d8407d1.jpg?v=1774335420&width=800"
   },
   {
     "id": "glucomap",
@@ -639,70 +639,110 @@
         "answer": "Key ingredients include Tulsi, Ginger, Pistacia integerrima, Myrica nagi, and other herbs that support respiratory health."
       }
     ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Kasni-Syrup-100ml-Front.jpg?v=1724305402&width=800"
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-cough-syrup-100ml-maharishi-ayurveda-india-1_400x.jpg?v=1692185639"
   },
   {
     "id": "kanth-sudha",
-    "name": "Kanth Sudha",
-    "category": "Oral Health",
-    "indication": "FAST RELIEVING SOLUTION FOR SORE THROAT",
-    "dosage": "2-4 Pastilles T.I.D",
-    "form": "30 Pastilles",
-    "ingredients": ["Glycyrrhiza glabra (Yashti madhu)", "Mentha piperita (Menthol)", "Cinnamomum camphora (Karpoora)", "Elettaria cardamomum (Ela)", "Syzygium aromaticum (Lavang)", "Myristica fragrans (Jayphal)", "Zingiber officinale (Shunthi)", "Piper nigrum (Maricha)", "Piper longum (Pippali)", "Crystal sugar (Mishri)"],
+    "name": "KASNI Kanth Sudha",
+    "category": "Throat Care & Oral Hygiene",
+    "indication": "Fast Relieving Solution for Sore Throat",
+    "dosage": "2-4 Pastilles T.I.D (three times daily)",
+    "form": "Dispenser pack of 30 pastilles",
+    "ingredients": [
+      "Glycyrrhiza glabra (Yashti madhu)",
+      "Mentha piperita (Menthol)",
+      "Cinnamomum camphora (Karpoora)",
+      "Elettaria cardamomum (Ela)",
+      "Syzygium aromaticum (Lavang)",
+      "Myristica fragrans (Jayphal)",
+      "Zingiber officinale (Shunthi)",
+      "Piper nigrum (Maricha)",
+      "Piper longum (Pippali)",
+      "Crystal sugar (Mishri)"
+    ],
     "keyIngredients": [
       {
-        "name": "Yashti madhu",
-        "description": "Kapha hara, soothing"
+        "name": "Yashti madhu (Glycyrrhiza glabra)",
+        "description": "Natural sweetener and throat soother, provides Kapha hara action"
       },
       {
-        "name": "Menthol",
-        "description": "Soothing, antibacterial"
+        "name": "Menthol (Mentha piperita)",
+        "description": "Cooling and soothing agent for throat irritation"
       },
       {
-        "name": "Lavang",
-        "description": "Digestive, antibacterial"
+        "name": "Karpoora (Cinnamomum camphora)",
+        "description": "Anti-bacterial and refreshing properties"
+      },
+      {
+        "name": "Ela (Elettaria cardamomum)",
+        "description": "Digestive and breath freshening properties"
+      },
+      {
+        "name": "Lavang (Syzygium aromaticum)",
+        "description": "Strong antibacterial and digestive support"
+      },
+      {
+        "name": "Jayphal (Myristica fragrans)",
+        "description": "Digestive and throat soothing properties"
+      },
+      {
+        "name": "Shunthi (Zingiber officinale)",
+        "description": "Anti-inflammatory and digestive benefits"
+      },
+      {
+        "name": "Maricha (Piper nigrum)",
+        "description": "Digestive and antibacterial properties"
+      },
+      {
+        "name": "Pippali (Piper longum)",
+        "description": "Digestive and respiratory support"
       }
     ],
     "description": "Kanth Sudha is a fast-acting Ayurvedic solution designed to soothe sore throats, combat foul breath, and promote oral hygiene. Enriched with a natural blend of 10 Kanthya (throat-soothing) and Swarya (voice-improving) herbs, it provides long-lasting antibacterial benefits while freshening the breath. Its safe and versatile formulation makes it ideal for oral and throat care.",
-    "mechanism": "Soothes throat irritation, combats foul breath, antibacterial protection, long-lasting freshness.",
+    "mechanism": "Combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health.",
     "benefits": [
-      "Soothes sore throat: Relieves irritation, hoarseness, and discomfort caused by conditions like laryngitis, pharyngitis, tonsillitis, and the common cold.",
-      "Antibacterial protection: Effectively combats oral bacteria, reducing foul breath and supporting gum and dental health.",
-      "Long-lasting freshness: Acts as an excellent mouth freshener, leaving a tingling, refreshing sensation.",
-      "Ideal for smokers: Deodorises lousy breath associated with smoking and alleviates smoker's cough."
+      "Soothes sore throat and relieves irritation, hoarseness, and discomfort from laryngitis, pharyngitis, tonsillitis, and common cold",
+      "Provides antibacterial protection against oral bacteria, reducing foul breath and supporting gum and dental health",
+      "Offers long-lasting freshness as an excellent mouth freshener with a tingling, refreshing sensation",
+      "Ideal for smokers - deodorizes bad breath associated with smoking and alleviates smoker's cough",
+      "Contains natural Kanthya and Swarya herbs for comprehensive throat and voice care"
     ],
     "clinicalHighlights": {
-      "effectiveness": "Fast-relieving solution for sore throat and foul breath",
-      "safety": "Safe and versatile formulation for oral and throat care"
+      "target_conditions": "Sore throat, hoarseness, foul breath, oral infections, smoker's cough, laryngitis, pharyngitis, tonsillitis",
+      "herbal_composition": "10 carefully selected herbs for throat soothing and voice improvement",
+      "safety_profile": "Natural, safe formulation suitable for regular use"
+    },
+    "scientificValidation": {
+      "traditional_wisdom": "Based on Ayurvedic principles of Kanthya and Swarya herbs",
+      "modern_application": "Fast-acting solution for contemporary throat and oral health challenges"
     },
     "certifications": [
-      "Ayurvedic formulation",
-      "Natural mouth freshener"
+      "Maharishi Ayurveda Quality",
+      "Natural Herbal Formulation"
     ],
-    "pdfLinks": [],
     "faqs": [
       {
-        "question": "What is Kanth Sudha used for?",
-        "answer": "Kanth Sudha soothes sore throats, combats foul breath, and promotes oral hygiene, ideal for throat irritation and smoker's cough."
+        "question": "What is Kanth Sudha?",
+        "answer": "Kanth Sudha is a fast-acting Ayurvedic throat lozenge containing 10 natural herbs designed to soothe sore throats, combat foul breath, and promote oral hygiene."
       },
       {
         "question": "How does Kanth Sudha work?",
-        "answer": "It provides antibacterial protection, soothes throat irritation, and offers long-lasting freshness through its herbal blend."
+        "answer": "It combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health."
       },
       {
-        "question": "Is Kanth Sudha safe?",
-        "answer": "Yes, it is a safe Ayurvedic formulation with natural ingredients, suitable for oral and throat care."
+        "question": "What are the key benefits of Kanth Sudha?",
+        "answer": "It soothes sore throats, provides antibacterial protection, offers long-lasting freshness, and is particularly effective for smokers' breath and cough."
       },
       {
-        "question": "Can Kanth Sudha be used for bad breath?",
-        "answer": "Yes, it effectively combats foul breath and acts as an excellent mouth freshener."
+        "question": "Is Kanth Sudha safe for regular use?",
+        "answer": "Yes, it contains natural herbs and is safe for regular use as a throat lozenge and mouth freshener."
       },
       {
-        "question": "What are the key ingredients in Kanth Sudha?",
-        "answer": "Key ingredients include Yashti madhu, Menthol, Karpoora, Ela, Lavang, Jayphal, Shunthi, Maricha, Pippali, and Mishri."
+        "question": "How should Kanth Sudha be taken?",
+        "answer": "Take 2-4 pastilles three times daily, or as needed for throat soothing and oral freshness."
       }
     ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Kanth-Sudha-30-Pastilles-Front.jpg?v=1724305402&width=800"
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-kanth-sudha-30-pastilles-bottle-maharishi-ayurveda-india-1_400x.jpg?v=1692185594"
   },
   {
     "id": "leucomap",
@@ -767,7 +807,7 @@
         "answer": "Take 2 capsules twice daily before meals."
       }
     ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Leucomap.jpg?v=1724305394&width=800"
+    "image": "https://m.media-amazon.com/images/I/71jROJ9a9fL._SX679_.jpg"
   },
   {
     "id": "raktda",
@@ -834,7 +874,7 @@
         "answer": "Take 2 tablets twice daily with lukewarm water."
       }
     ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Raktda.jpg?v=1724305394&width=800"
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/raktda-ayurvedic-iron-supplement-maharishi-ayurveda-india-1.png?v=1692185134&width=800"
   },
   {
     "id": "restone",
@@ -899,6 +939,135 @@
         "answer": "Key ingredients include Ashok, Lodhra, Shatavari, and other herbs that support women's health."
       }
     ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Restone.jpg?v=1724305394&width=800"
+    "image": "https://m.media-amazon.com/images/I/61PA1OouliL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": "energol-ma",
+    "name": "Energol-MA",
+    "category": "Male Reproductive Care & Strength",
+    "indication": "A Comprehensive Guide to Men's Reproductive Care & Strength - The Multi-Pathway, Non-Hormonal Male Rejuvenator",
+    "dosage": "1-2 tablets twice daily (B.I.D.) with lukewarm water, or as directed by a physician",
+    "form": "Pack of 20 silver-coated tablets",
+    "ingredients": [
+      "Swarna Siddha Makardhwaj",
+      "Lauh Bhasma",
+      "Abhrak Bhasma",
+      "Vang Bhasma",
+      "Smilax china (Chop Cheeni)",
+      "Salmalia malabaricum (Semal Musli)",
+      "Syzygium aromaticum (Lavang)",
+      "Cuminum cyminum (Jeera)",
+      "Myristica fragrans (Jaiphal)",
+      "Argyreia speciosa (Samudra Shosh)",
+      "Zingiber officinale (Sonth)",
+      "Piper nigrum (Kali Marich)",
+      "Piper longum (Pippali)",
+      "Bambusa arundinacea (Vansh Lochan)",
+      "Myristica fragrans (Javitri)",
+      "Asparagus racemosus (Shatavari)",
+      "Vitis vinifera (Draksha)",
+      "Sida cordifolia (Bala)",
+      "Pistacia integerrima (Karkat Shringi)",
+      "Elettaria cardamomum (Chhoti Elaichi)",
+      "Mucuna pruriens (Kowach)",
+      "Saussurea lappa (Kushta)",
+      "Cyperus scariosus (Nagar Mustaka)",
+      "Pueraria tuberosa (Vidarikand)",
+      "Benincasa hispida (Petha)",
+      "Mesua ferrea (Nagkesar)",
+      "Nardostachys jatamansi (Jatamansi)",
+      "Cinnamomum camphora (Camphor)",
+      "Piper cubeba (Sheetal Chini)",
+      "Tribulus terrestris (Gokshur)",
+      "Crystal Sugar"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Swarna Siddha Makardhwaj",
+        "description": "Supreme non-hormonal rejuvenator, reduces weakness and debility, improves testicular microcirculation, mitigates psychogenic erectile dysfunction"
+      },
+      {
+        "name": "Semal Musli (Salmalia malabaricum)",
+        "description": "Boosts vitality and sexual performance, potent astringent action strengthens male reproductive tract, promotes spermatogenesis, delays premature ejaculation"
+      },
+      {
+        "name": "Jaiphal (Myristica fragrans)",
+        "description": "Nervous system stimulant and potent aphrodisiac, modulates serotonergic and adrenergic pathways to reduce performance anxiety"
+      },
+      {
+        "name": "Shatavari (Asparagus racemosus)",
+        "description": "Adaptogen and immune booster, restores endocrine balance, stimulates desire through neurological pathways, improves spermatogenesis"
+      },
+      {
+        "name": "Mucuna pruriens",
+        "description": "Supplies natural L-DOPA to boost dopamine and libido"
+      },
+      {
+        "name": "Tribulus terrestris",
+        "description": "Supports LH for endogenous testosterone production"
+      },
+      {
+        "name": "Jatamansi",
+        "description": "Lowers cortisol and sympathetic tone, manages premature ejaculation"
+      },
+      {
+        "name": "Vansh Lochan",
+        "description": "Strengthens reproductive sphincters, checks involuntary seminal loss"
+      },
+      {
+        "name": "Piper cubeba",
+        "description": "Reduces genitourinary inflammation, creates healthy environment for spermatogenesis"
+      }
+    ],
+    "description": "Energol-MA is a premium Ayurvedic Rasayana designed to combat the effects of modern-day stress, fatigue, and lifestyle challenges on reproductive health. This unique formula, containing 30 potent herbs and bhasmas coated with silver as 'pearls,' rejuvenates the mind and body, boosting vigour, vitality, and overall well-being. Unlike stimulants or synthetic hormones, it is a non-hormonal, holistic rejuvenator that offers steady and long-lasting effects.",
+    "mechanism": "Multi-pathway approach addressing neuro-endocrine-gonadal axis restoration, nitric oxide and microcirculation enhancement, mitochondrial energy boost, and Shukra Dhatu conservation & spermatogenesis. Acts through vasodilation for erection quality, cellular energy enhancement, astringent action for sphincter strength, and anti-inflammatory effects for prostate health.",
+    "benefits": [
+      "Promotes vasodilation via NO pathway for sustained, quality erections",
+      "Boosts dopamine naturally to restore sexual desire and motivation",
+      "Strengthens reproductive sphincters to check involuntary emissions (spermatorrhoea)",
+      "Nourishes Shukra Dhatu to improve sperm count and motility",
+      "Reduces hypersensitivity and performance anxiety via neurological modulation",
+      "Enhances mitochondrial ATP energy for sustained physical endurance",
+      "Non-hormonal - does not suppress natural testosterone, safe for long-term use",
+      "Lowers cortisol to rejuvenate mental clarity and emotional resilience",
+      "Clears localized genitourinary inflammation for prostate wellness",
+      "100% natural formulation - safe for chronic, long-term prescription"
+    ],
+    "clinicalHighlights": {
+      "target_conditions": "Erectile dysfunction, low libido, spermatorrhoea, premature ejaculation, oligozoospermia, general debility, chronic fatigue, andropause",
+      "safety_profile": "Zero side effects, suitable for long-term use, non-hormonal",
+      "efficacy": "Addresses root causes through multi-pathway mechanisms, steady and long-lasting effects"
+    },
+    "scientificValidation": {
+      "approach": "Grounded in Ayurvedic principles of Shukra Dhatu and Vajikarana therapy with clinically studied herbs",
+      "mechanisms": "Neuro-endocrine restoration, nitric oxide enhancement, mitochondrial energy, Shukra Dhatu nourishment"
+    },
+    "certifications": [
+      "Maharishi Ayurveda Active Herbs",
+      "Clinically Proven"
+    ],
+    "faqs": [
+      {
+        "question": "What is Energol-MA?",
+        "answer": "Energol-MA is a premium Ayurvedic formulation designed to address male reproductive health issues through a multi-pathway, non-hormonal approach using 30 herbs and bhasmas."
+      },
+      {
+        "question": "How does Energol-MA work?",
+        "answer": "It restores the neuro-endocrine-gonadal axis, enhances nitric oxide and microcirculation, boosts mitochondrial energy, and conserves Shukra Dhatu for comprehensive male rejuvenation."
+      },
+      {
+        "question": "What are the key benefits of Energol-MA?",
+        "answer": "It improves erectile function, boosts libido, manages spermatorrhoea, enhances spermatogenesis, prevents premature ejaculation, increases strength and stamina, and provides psychological relief without hormonal intervention."
+      },
+      {
+        "question": "Is Energol-MA safe for long-term use?",
+        "answer": "Yes, it is 100% natural with zero side effects, non-hormonal, and suitable for chronic, long-term prescription under physician guidance."
+      },
+      {
+        "question": "How should Energol-MA be taken?",
+        "answer": "Take 1-2 tablets twice daily with lukewarm water, or as directed by a physician. Not for women or children. Medical supervision required for cardiac or hypertensive patients."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/energol-ma-for-men-s-reproductive-care-maharishi-ayurveda-india.png?v=1692185201&width=1000"
   }
 ]

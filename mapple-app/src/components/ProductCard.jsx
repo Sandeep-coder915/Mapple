@@ -5,11 +5,11 @@ export default function ProductCard({ product }) {
   const _motion = motion
   return (
     <motion.article
-      whileHover={{ y: -4, rotateX: 1.5, scale: 1.01 }}
+      whileHover={{ y: -4, rotateX: 1.5  }}
       transition={{ type: 'spring', stiffness: 220, damping: 18 }}
       className="glass border border-green-100 p-4 shadow glass rounded-2xl"
     >
-      <img src={product.image} alt={product.name} className="h-40 w-full object-cover rounded-xl" />
+      <img src={product.image} alt={product.name} className="h-[300px] w-full object-cover rounded-xl" />
       <div className="mt-3">
         <h3 className="text-lg font-semibold text-mapple-900">{product.name}</h3>
         <p className="mt-1 text-sm text-gray-600">{product.indication}</p>
