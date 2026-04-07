@@ -9,8 +9,13 @@ export default function ProductCard({ product }) {
       transition={{ type: 'spring', stiffness: 220, damping: 18 }}
       className="glass border border-green-100 p-4 shadow glass rounded-2xl"
     >
-      <img src={product.image} alt={product.name} className="h-[300px] w-full object-cover rounded-xl" />
-      <div className="mt-3">
+<div className="w-full h-[200px] sm:h-[250px] md:h-[300px] lg:h-[350px] bg-gray-100 rounded-xl overflow-hidden flex items-center justify-center">
+  <img 
+    src={product.image} 
+    alt={product.name} 
+    className="w-full h-full object-contain"
+  />
+</div>      <div className="mt-3">
         <h3 className="text-lg font-semibold text-mapple-900">{product.name}</h3>
         <p className="mt-1 text-sm text-gray-600">{product.indication}</p>
         <p className="mt-2 text-xs text-gray-500">Category: {product.category}</p>

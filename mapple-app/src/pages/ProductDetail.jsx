@@ -45,8 +45,13 @@ export default function ProductDetail() {
               </div>
             )}
           </div>
-          <img src={product.image} alt={product.name} className="h-[400px] w-full rounded-xl object-cover" />
-        </div>
+<div className="w-full h-[250px] sm:h-[300px] md:h-[400px] lg:h-[500px] flex items-center justify-center bg-gray-100 rounded-xl overflow-hidden">
+  <img 
+    src={product.image} 
+    alt={product.name} 
+    className="w-full h-full object-contain"
+  />
+</div>        </div>
       </section>
 
       {/* Quick Info Cards */}

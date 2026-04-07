@@ -1,4 +1,3 @@
-
 [
   {
     "id": "amrit-kalash",
@@ -7,7 +6,11 @@
     "indication": "Comprehensive wellness formula for holistic health, vitality and longevity",
     "dosage": "Adults: 1 teaspoon Nectar (approx 10gm) twice daily + 1 Ambrosia tablet twice daily with milk. Kids: 1/2 teaspoon Nectar twice daily + 1 Ambrosia tablet twice daily",
     "form": "Dual Pack - 600gm Paste + 60 Tablets",
-    "ingredients": ["Nectar (40 herbs)", "Ambrosia (13 herbs)", "Premium Ayurvedic botanicals"],
+    "ingredients": [
+      "Nectar (40 herbs)",
+      "Ambrosia (13 herbs)",
+      "Premium Ayurvedic botanicals"
+    ],
     "keyIngredients": [
       {
         "name": "Amla",
@@ -73,7 +76,11 @@
     },
     "heritage": {
       "year_established": 1986,
-      "created_by": ["Late Dr. B.D. Triguna (Padma Bhushan)", "Late Dr. Balraj Maharishi", "Late Dr. V.M. Dwivedi"],
+      "created_by": [
+        "Late Dr. B.D. Triguna (Padma Bhushan)",
+        "Late Dr. Balraj Maharishi",
+        "Late Dr. V.M. Dwivedi"
+      ],
       "expertise": "35+ years of Ayurvedic expertise",
       "visionaries": {
         "triguna": "Expert in Nadi Vigyan and former advisor to the Indian Government",
@@ -109,7 +116,6 @@
       "MABL Certification (2011)",
       "COSMOS Organic Certified (2017)"
     ],
-    
     "researchPartners": [
       "All India Institute of Medical Sciences (AIIMS), Delhi & Jodhpur",
       "Maharishi University of Management, Fairfield",
@@ -163,7 +169,14 @@
     "indication": "Potent Cannabis-Based Ayurvedic Solution for Sleep Disorders",
     "dosage": "1-2 tablets before bed time with milk or lukewarm water",
     "form": "Blister foils of 10x10 tablets",
-    "ingredients": ["Shodhit Bhang", "Jatamansi", "Tagar", "Brahmi", "Shankhapushpi", "Ashwagandha"],
+    "ingredients": [
+      "Shodhit Bhang",
+      "Jatamansi",
+      "Tagar",
+      "Brahmi",
+      "Shankhapushpi",
+      "Ashwagandha"
+    ],
     "description": "Nidramap is a clinically advanced Ayurvedic formulation crafted with a unique blend of 6 potent herbs, including the therapeutic benefits of cannabis. This holistic solution is designed to address multiple factors contributing to sleep disorders, such as insomnia, stress, and chronic pain. By combining the ancient principles of Ayurveda with modern scientific advancements, Nidramap ensures restorative sleep, mental relaxation, and overall well-being. Its proven safety and efficacy make it a trusted solution for improving sleep quality and managing associated conditions.",
     "mechanism": "Manages insomnia by addressing root causes, boosts melatonin production for faster sleep onset, calms nervous system by reducing cortisol, provides potent analgesic action for pain relief, and promotes holistic relaxation for deep restorative sleep.",
     "benefits": [
@@ -217,7 +230,15 @@
     "indication": "Clinically Proven Formulation for Acidity & GERD",
     "dosage": "2 Tablets B.I.D with lukewarm water",
     "form": "Box of 10x6 tablets",
-    "ingredients": ["Amla", "Shunthi", "Shatavari", "Haritaki", "Vibhitaki", "Amalaki", "Pippali"],
+    "ingredients": [
+      "Amla",
+      "Shunthi",
+      "Shatavari",
+      "Haritaki",
+      "Vibhitaki",
+      "Amalaki",
+      "Pippali"
+    ],
     "description": "Amlant offers a holistic and multi-dimensional approach to managing hyperacidity, acid-peptic disorders, and associated conditions. This Ayurvedic formulation provides immediate relief by neutralising gastric acid and addresses the root cause of acidity to ensure long-term healing and prevention of recurrence. Researched at AIIMS, New Delhi.",
     "mechanism": "Pacifies Vata, neutralises hyperactive Pitta, and promotes Kapha, restoring digestive balance. Its Ropan (healing) and Deepan (digestive stimulant) properties promote the healing of gastric and duodenal ulcers. Enhances digestion quality and acts as an effective adjuvant to steroidal and non-steroidal anti-inflammatory drugs.",
     "benefits": [
@@ -267,124 +288,22 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Amlant.jpg?v=1724305394&width=1000"
   },
   {
-    "id": "asthomap",
-    "name": "Asthomap",
-    "category": "Respiratory Health",
-    "indication": "Clinically Proven for Prolonged Asthma Relief",
-    "dosage": "2 Tablets B.I.D with lukewarm water",
-    "form": "Plastic container with 60 tablets",
-    "ingredients": ["Abies webbiana (Talispatra)", "Piper nigrum (Kali Mirch)", "Zingiber officinale (Shunthi)", "Piper longum (Pippali)", "Bambusa arundinacea (Vanshlochan)", "Elettaria cardamomum (Ela)", "Cinnamomum zeylanicum (Twak)", "Sarcostemma brevistigma (Soma Lata)", "Glycyrrhiza glabra (Yashtimadhu)", "Adhatoda vasica (Vasa)", "Saussurea lappa (Kushta)"],
-    "description": "Asthomap is an Ayurvedic formulation designed to provide long-term relief for respiratory conditions. Powered by a judicious combination of natural herbs, it offers outstanding efficacy without the side effects of steroids. Asthomap works effectively to allay bronchospasms, reduce mucus build-up, and improve airflow, ensuring sustained respiratory health. Prolonged use minimises allergen hypersensitivity, reduces dependence on other medications, and strengthens the mucosal lining for enhanced respiratory immunity.",
-    "mechanism": "Allays bronchospasms, reduces mucus build-up, improves airflow, minimises allergen hypersensitivity, strengthens mucosal lining, and enhances respiratory immunity.",
-    "benefits": [
-      "Outstanding efficacy: 90% of patients experienced significant relief from bronchial asthma within 30 days",
-      "Significant symptom relief: Reduces breathlessness, frequency of asthma attacks, and protects against allergic reactions",
-      "Immunity enhancer: Boosts the respiratory system's immunity, combating respiratory diseases effectively",
-      "Safe for long-term use: Free from steroids, ensuring safety over prolonged periods",
-      "Adjuvant therapy: Can be combined with Salbutamol and other antiasthmatic drugs during acute conditions"
-    ],
-    "clinicalHighlights": {
-      "efficacy": "90% of patients got relief from bronchial asthma within 30 days",
-      "research": "Researched at Srikrishna Govt. Ayurvedic College, Kurukshetra",
-      "comparison": "Better efficiency as compared to Praval Pisthi & Svas Kuthar Ras"
-    },
-    "researchPartners": [
-      "Srikrishna Govt. Ayurvedic College, Kurukshetra"
-    ],
-    "certifications": [
-      "Clinically proven for asthma relief",
-      "Ayurvedic formulation without steroids"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Asthomap used for?",
-        "answer": "Asthomap provides long-term relief for bronchial asthma, chronic bronchitis, and bronchial respiratory allergies without steroid side effects."
-      },
-      {
-        "question": "How effective is Asthomap?",
-        "answer": "Clinical studies show 90% of patients experience significant relief from bronchial asthma within 30 days, reducing breathlessness and allergic reactions."
-      },
-      {
-        "question": "Is Asthomap safe?",
-        "answer": "Yes, it is free from steroids, safe for long-term use, and can be combined with other antiasthmatic drugs during acute conditions."
-      },
-      {
-        "question": "What are the key benefits of Asthomap?",
-        "answer": "It allays bronchospasms, reduces mucus, improves airflow, minimizes allergen hypersensitivity, and strengthens respiratory immunity."
-      },
-      {
-        "question": "How should Asthomap be taken?",
-        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician for personalized dosage and monitoring."
-      }
-    ],
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/gj3bfp46qil0jsli6opb.png"
-  },
-  {
-    "id": "cardimap", 
-    "name": "Cardimap",
-    "category": "Cardiovascular & Nervous System",
-    "indication": "For Sustained and Effective Hypertension Control",
-    "dosage": "2 Tablets B.I.D with lukewarm water",
-    "form": "Strips of 10 tablets (10×10 boxes)",
-    "ingredients": ["Rauwolfia serpentina (Sarpagandha)", "Nardostachys jatamansi (Jatamansi)", "Bacopa monnieri (Brahmi)", "Convolvulus pluricaulis (Shankhpushpi)", "Piper longum (Pippali)"],
-    "description": "Cardimap is a clinically formulated Ayurvedic blend of potent herbs designed to provide practical, long-term relief from hypertension, anxiety, tension, and insomnia without disrupting daily routines. Combining renowned Medhya Rasayans and anti-hypertensive herbs supports neuromuscular relaxation, optimises blood flow, and strengthens the parasympathetic nervous system, ensuring overall mental and physical well-being.",
-    "mechanism": "Regulates blood pressure, alleviates stress and anxiety, strengthens nervous system, enhances mental clarity, improves digestion, and provides cardiotonic benefits.",
-    "benefits": [
-      "Regulates blood pressure: Reduces high blood pressure and optimises blood flow for better cardiovascular health",
-      "Stress and anxiety relief: Alleviates anxiety, neurosis, and stress while promoting restful sleep and calmness",
-      "Strengthens the nervous system: Supports parasympathetic activity, aiding relaxation and reducing tension",
-      "Enhances mental clarity: Acts as a brain tonic, improving mind-body coordination and relieving stress-induced conditions",
-      "Improves digestion: Ensures better absorption of nutrients and ingredients, contributing to overall health",
-      "Cardiotonic benefits: Strengthens cardiac muscles and enhances neuromuscular relaxation for sustained heart health"
-    ],
-    "clinicalHighlights": {
-      "bp_regulation": "Regulates blood pressure and optimizes blood flow",
-      "anxiety_relief": "Alleviates anxiety and stress due to hypertension",
-      "nervous_system": "Strengthens the nervous system and supports parasympathetic activity",
-      "mental_clarity": "Improves mind and body coordination"
-    },
-    "certifications": [
-      "Clinically formulated for hypertension",
-      "Ayurvedic blend with Medhya Rasayans"
-    ],
-    "importantNotes": [
-      "Patients with anxiety or insomnia should avoid driving until stabilised",
-      "Self-medication is not recommended"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Cardimap used for?",
-        "answer": "Cardimap regulates blood pressure, relieves stress and anxiety, strengthens the nervous system, enhances mental clarity, and provides cardiotonic benefits."
-      },
-      {
-        "question": "Is Cardimap safe for hypertension patients?",
-        "answer": "Yes, it is clinically formulated for mild to moderate hypertension, anxiety neurosis, and insomnia, but avoid self-medication and driving if experiencing anxiety."
-      },
-      {
-        "question": "How does Cardimap work?",
-        "answer": "It supports neuromuscular relaxation, optimizes blood flow, strengthens parasympathetic activity, and improves digestion for overall mental and physical well-being."
-      },
-      {
-        "question": "Can Cardimap be taken long-term?",
-        "answer": "Yes, it is designed for sustained hypertension control without disrupting daily routines, under medical supervision."
-      },
-      {
-        "question": "What are the key ingredients in Cardimap?",
-        "answer": "Key ingredients include Rauwolfia serpentina, Jatamansi, Brahmi, Shankhpushpi, and Pippali, which are renowned Medhya Rasayans and anti-hypertensives."
-      }
-    ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/3_d8dccc26-9b96-4afa-a741-320a3d8407d1.jpg?v=1774335420&width=800"
-  },
-  {
     "id": "glucomap",
     "name": "Glucomap",
     "category": "Diabetes Management",
     "indication": "Clinically Proven for Effective Diabetes Management",
     "dosage": "2 Tablets B.I.D with lukewarm water",
     "form": "Strips of 10x10 tablets",
-    "ingredients": ["Enicostemma littorale (Naga jihwa)", "Phyllanthus niruri (Bhumi Amalaki)", "Eugenia jambolana (Jambu Leaf)", "Syzygium cumini (Jambu Seed)", "Azadirachta indica (Nimba)", "Terminalia arjuna (Arjuna)", "Aegle marmelos (Bilva)", "Asphaltum (Shilajeet)"],
+    "ingredients": [
+      "Enicostemma littorale (Naga jihwa)",
+      "Phyllanthus niruri (Bhumi Amalaki)",
+      "Eugenia jambolana (Jambu Leaf)",
+      "Syzygium cumini (Jambu Seed)",
+      "Azadirachta indica (Nimba)",
+      "Terminalia arjuna (Arjuna)",
+      "Aegle marmelos (Bilva)",
+      "Asphaltum (Shilajeet)"
+    ],
     "description": "Glucomap is a scientifically validated herbal formulation, researched at AIIMS, New Delhi, and KGMU, Lucknow, and crafted with the power of 25 potent herbs. This clinically proven formula ensures comprehensive glycemic control, effectively managing HbA1c, fasting, and postprandial glucose levels while improving overall metabolic health. It also alleviates diabetes-associated symptoms such as fatigue, constipation, and palpitations, offering a holistic approach to non-insulin-dependent diabetes mellitus (NIDDM).",
     "mechanism": "Stimulates pancreatic beta cells to enhance natural insulin secretion, reduces HbA1c and glucose levels, decreases triglycerides and cholesterol, processed in Salsaradi Gana.",
     "benefits": [
@@ -436,13 +355,84 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Glucomap_60_Tab.jpg?v=1739531425&width=800"
   },
   {
+    "id": "cardimap",
+    "name": "Cardimap",
+    "category": "Cardiovascular & Nervous System",
+    "indication": "For Sustained and Effective Hypertension Control",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Strips of 10 tablets (10×10 boxes)",
+    "ingredients": [
+      "Rauwolfia serpentina (Sarpagandha)",
+      "Nardostachys jatamansi (Jatamansi)",
+      "Bacopa monnieri (Brahmi)",
+      "Convolvulus pluricaulis (Shankhpushpi)",
+      "Piper longum (Pippali)"
+    ],
+    "description": "Cardimap is a clinically formulated Ayurvedic blend of potent herbs designed to provide practical, long-term relief from hypertension, anxiety, tension, and insomnia without disrupting daily routines. Combining renowned Medhya Rasayans and anti-hypertensive herbs supports neuromuscular relaxation, optimises blood flow, and strengthens the parasympathetic nervous system, ensuring overall mental and physical well-being.",
+    "mechanism": "Regulates blood pressure, alleviates stress and anxiety, strengthens nervous system, enhances mental clarity, improves digestion, and provides cardiotonic benefits.",
+    "benefits": [
+      "Regulates blood pressure: Reduces high blood pressure and optimises blood flow for better cardiovascular health",
+      "Stress and anxiety relief: Alleviates anxiety, neurosis, and stress while promoting restful sleep and calmness",
+      "Strengthens the nervous system: Supports parasympathetic activity, aiding relaxation and reducing tension",
+      "Enhances mental clarity: Acts as a brain tonic, improving mind-body coordination and relieving stress-induced conditions",
+      "Improves digestion: Ensures better absorption of nutrients and ingredients, contributing to overall health",
+      "Cardiotonic benefits: Strengthens cardiac muscles and enhances neuromuscular relaxation for sustained heart health"
+    ],
+    "clinicalHighlights": {
+      "bp_regulation": "Regulates blood pressure and optimizes blood flow",
+      "anxiety_relief": "Alleviates anxiety and stress due to hypertension",
+      "nervous_system": "Strengthens the nervous system and supports parasympathetic activity",
+      "mental_clarity": "Improves mind and body coordination"
+    },
+    "certifications": [
+      "Clinically formulated for hypertension",
+      "Ayurvedic blend with Medhya Rasayans"
+    ],
+    "importantNotes": [
+      "Patients with anxiety or insomnia should avoid driving until stabilised",
+      "Self-medication is not recommended"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Cardimap used for?",
+        "answer": "Cardimap regulates blood pressure, relieves stress and anxiety, strengthens the nervous system, enhances mental clarity, and provides cardiotonic benefits."
+      },
+      {
+        "question": "Is Cardimap safe for hypertension patients?",
+        "answer": "Yes, it is clinically formulated for mild to moderate hypertension, anxiety neurosis, and insomnia, but avoid self-medication and driving if experiencing anxiety."
+      },
+      {
+        "question": "How does Cardimap work?",
+        "answer": "It supports neuromuscular relaxation, optimizes blood flow, strengthens parasympathetic activity, and improves digestion for overall mental and physical well-being."
+      },
+      {
+        "question": "Can Cardimap be taken long-term?",
+        "answer": "Yes, it is designed for sustained hypertension control without disrupting daily routines, under medical supervision."
+      },
+      {
+        "question": "What are the key ingredients in Cardimap?",
+        "answer": "Key ingredients include Rauwolfia serpentina, Jatamansi, Brahmi, Shankhpushpi, and Pippali, which are renowned Medhya Rasayans and anti-hypertensives."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/3_d8dccc26-9b96-4afa-a741-320a3d8407d1.jpg?v=1774335420&width=800"
+  },
+  {
     "id": "lipomap",
     "name": "Lipomap",
     "category": "Cardiovascular Health",
     "indication": "Clinically Proven Remedy to Balance Lipid Profile",
     "dosage": "2 Tablets B.I.D, half an hour before meals, with lukewarm water",
     "form": "500 mg tablets",
-    "ingredients": ["Commiphora mukul (Gugulu)", "Bauhinia variegata (Kanchnaar)", "Emblica officinalis (Amalaki)", "Cinnamomum zeylanicum (Cinnamon)", "Zingiber officinale (Ginger)", "Piper nigrum (Black Pepper)", "Piper longum (Pippali)"],
+    "ingredients": [
+      "Commiphora mukul (Gugulu)",
+      "Bauhinia variegata (Kanchnaar)",
+      "Emblica officinalis (Amalaki)",
+      "Cinnamomum zeylanicum (Cinnamon)",
+      "Zingiber officinale (Ginger)",
+      "Piper nigrum (Black Pepper)",
+      "Piper longum (Pippali)"
+    ],
     "description": "Lipomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is crafted from a powerful combination of 17 herbs, including Gugulu, Kanchnaar, Amalaki, cinnamon, ginger, black pepper, and pippali. It effectively manages hypercholesterolaemia by balancing Kapha, regulating fat metabolism, and improving lipid metabolism. Lipomap provides a safe, effective, and side-effect-free alternative to statins, addressing the root causes of cholesterol imbalance while promoting long-term cardiovascular health.",
     "mechanism": "Balances Kapha and bile secretion, regulates fat metabolism with Medohar herbs, improves circulation and metabolism.",
     "benefits": [
@@ -490,6 +480,352 @@
       }
     ],
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Lipomap-1080x.jpg?v=1724305356&width=800"
+  },
+  {
+    "id": "kasni",
+    "name": "Kasni",
+    "category": "Respiratory Health",
+    "indication": "NON-DROWSY FORMULATION FOR ACUTE & CHRONIC COUGH",
+    "dosage": "Adults: 2 Teaspoons 10ml B.I.D, Kids: 1 Teaspoon 5ml B.I.D",
+    "form": "Syrup 100ml, 200ml",
+    "ingredients": [
+      "Piper longum (Pippali)",
+      "Pistacia integerrima (Kakra shringi)",
+      "Zingiber officinale (Shunthi)",
+      "Cyperus scariosus (Nagar Mustaka)",
+      "Glycyrrhiza glabra (Yashtimadhu)",
+      "Ocimum sanctum (Tulsi)",
+      "Abies webbiana (Talispatra)",
+      "Solanum xanthocarpum (Kantakari)",
+      "Cinnamomum zeylanicum (Twak)",
+      "Achyranthes aspera (Apamarg)",
+      "Myrica nagi (Kayphal)",
+      "Ephedra gerardiana (Soma)",
+      "Adhatoda vasica (Vasamul)",
+      "Tankana",
+      "Sugar"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Tulsi",
+        "description": "Balances Vata & Kapha, non-sedating"
+      },
+      {
+        "name": "Ginger",
+        "description": "Digestive, mucolytic, anti-inflammatory"
+      },
+      {
+        "name": "Pistacia integerrima",
+        "description": "Anti-tussive"
+      },
+      {
+        "name": "Myrica nagi",
+        "description": "Anti-tussive, strengthens lung function"
+      }
+    ],
+    "description": "Kasni is a clinically trusted Ayurvedic remedy formulated with a unique blend of 16 powerful herbs, including Tulsi (Ocimum sanctum), Ginger (Zingiber officinale), Pistacia integerrima, and Myrica nagi. These herbs contribute to its potent antitussive, antiallergic, and expectorant properties, effectively relieving acute and chronic coughs across diverse aetiologies. With its non-sedative and alcohol-free formulation, Kasni ensures relief without causing drowsiness or dependency, allowing patients of all ages to remain active and alert throughout the day.",
+    "mechanism": "Balances Vata & Kapha, non-sedating & alcohol-free, non-habit forming & non-constipating, relieves sore throat, tones respiratory system.",
+    "vataBalancing": "Balances Vata & Kapha for efficient mucus elimination.",
+    "benefits": [
+      "Balances vata & kapha: Restores respiratory harmony by pacifying aggravated Vata and liquefying vitiated Kapha for efficient mucus elimination.",
+      "Non-sedating & alcohol-free: Suitable for all age groups, enabling clear breathing and comfort without compromising alertness.",
+      "Non-habit forming & non-constipating: Ensures long-term safety without dependency or digestive discomfort.",
+      "Relieves sore throat: Tulsi's antiallergic properties soothe irritation, tone the respiratory system, and support immunity.",
+      "Decongested nasal and bronchial passages: Promotes expectoration of tenacious mucus with Ginger's mucolytic and anti-inflammatory effects.",
+      "Strengthens lung function: Myrica nagi and Pistacia integerrima alleviate cough and enhance respiratory health."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Effective in relieving acute and chronic coughs",
+      "safety": "Non-sedative, alcohol-free, non-habit forming",
+      "indications": "Wet cough, Dry cough, Cough due to pollution, Smoker's cough"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Clinically trusted remedy"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Kasni used for?",
+        "answer": "Kasni is used for acute and chronic coughs, including wet cough, dry cough, cough due to pollution, and smoker's cough."
+      },
+      {
+        "question": "Is Kasni safe for children?",
+        "answer": "Yes, Kasni is non-sedating and alcohol-free, suitable for all age groups including children."
+      },
+      {
+        "question": "How does Kasni work?",
+        "answer": "It balances Vata and Kapha, provides antitussive, antiallergic, and expectorant properties through its herbal blend."
+      },
+      {
+        "question": "Can Kasni cause drowsiness?",
+        "answer": "No, Kasni is non-sedating, allowing patients to remain active and alert throughout the day."
+      },
+      {
+        "question": "What are the key ingredients in Kasni?",
+        "answer": "Key ingredients include Tulsi, Ginger, Pistacia integerrima, Myrica nagi, and other herbs that support respiratory health."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-cough-syrup-100ml-maharishi-ayurveda-india-1_400x.jpg?v=1692185639"
+  },
+  {
+    "id": "livomap",
+    "name": "Livomap",
+    "category": "Liver Health",
+    "indication": "Clinically Proven Solution for Fatty Liver",
+    "dosage": "Tablets: 1-2 tablets B.I.D; Syrup: 1-2 teaspoons 10ml B.I.D",
+    "form": "Tablets: Blister packs of 10s; Syrup: Bottles of 100 ml and 200 ml",
+    "ingredients": [
+      "Boerhaavia diffusa (Punarnava)",
+      "Melia azadirachta (Nimb)",
+      "Trichosanthes cucumerina (Tikta Patola)",
+      "Zingiber officinale (Shunthi)",
+      "Picrorhiza kurroa (Katuki)",
+      "Tinospora cordifolia (Guduchi)",
+      "Cedrus deodara (Devdaru)",
+      "Terminalia chebula (Haritaki)",
+      "Crataeva religiosa (Varuna)",
+      "Moringa oleifera (Shigru)",
+      "Berberis aristata (Daruharidra)",
+      "Artemisia absinthium (Afsantin)",
+      "Tephrosia purpurea (Sharapunkha)",
+      "Phyllanthus niruri (Bhumiamalaki)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Punarnava (Boerhaavia diffusa)",
+        "description": "Powerful liver stimulant and rejuvenator"
+      },
+      {
+        "name": "Katuki (Picrorhiza kurroa)",
+        "description": "Purgative and liver tonic with detoxifying properties"
+      },
+      {
+        "name": "Bhumi Amalaki (Phyllanthus niruri)",
+        "description": "Hepatoprotective liver tonic"
+      },
+      {
+        "name": "Haritaki (Terminalia chebula)",
+        "description": "Laxative and digestive support"
+      }
+    ],
+    "description": "Livomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is formulated with a powerful combination of 28 herbs, including Phyllanthus niruri and Picrorhiza kurroa. It is designed to protect, detoxify, and rejuvenate the liver by addressing the root causes of fatty liver, inflammation, infections, and chronic liver disorders. Livomap improves liver function, stimulates liver regeneration, enhances bile flow, and detoxifies the liver and blood-forming organs. Its multi-dimensional approach ensures long-term liver health and comprehensive care.",
+    "mechanism": "Stimulates protein and nucleic acid synthesis for liver regeneration, detoxifies liver and blood-forming organs, enhances bile flow and digestion, expels intestinal parasites, and supports the liver's natural self-repair mechanisms.",
+    "benefits": [
+      "Effectively reduces liver fat: Significantly decreases excess fat deposited in the liver, providing a powerful solution for fatty liver (p<0.01)",
+      "Lowers triglycerides: Achieves a notable reduction in triglyceride levels, from ~165 mg/dL to ~140 mg/dL in just three months (p<0.02)",
+      "Provides complete relief from abdominal pain: Alleviates abdominal discomfort caused by fatty liver, delivering 95% of patients complete relief (p<0.01)",
+      "Promotes liver regeneration: Stimulates protein and nucleic acid synthesis, reversing cirrhotic changes and regenerating damaged liver tissue",
+      "Supports detoxification and toning: Detoxifies the liver, spleen, and blood-forming organs while expelling intestinal parasites for holistic health",
+      "Enhances bile flow and digestion: Improves bile flow, prevents gallstone formation, and enhances digestive efficiency"
+    ],
+    "clinicalHighlights": {
+      "liver_fat_reduction": "Reduces excess fat deposits in the liver of NAFLD patients with 61.5% improvement after 16 weeks (p<0.01)",
+      "triglycerides": "Significant reduction in triglyceride level from 165 to 140 mg/dL in three months (p<0.02)",
+      "abdominal_pain": "Complete relief in abdominal pain due to fatty liver in 95% of patients (p<0.01)",
+      "research": "Double blind randomised placebo controlled clinical trial completed at AIIMS, New Delhi"
+    },
+    "researchPartners": [
+      "All India Institute of Medical Sciences (AIIMS), New Delhi"
+    ],
+    "certifications": [
+      "Clinically proven at AIIMS for fatty liver",
+      "Ayurvedic formulation with Yakrit Rasayana properties",
+      "Available in both tablet and syrup forms"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Livomap used for?",
+        "answer": "Livomap treats non-alcoholic fatty liver disease (NAFLD), viral and bacterial hepatitis, anorexia/loss of appetite, and supports comprehensive liver detoxification."
+      },
+      {
+        "question": "How effective is Livomap for fatty liver?",
+        "answer": "Clinical trials show 61.5% improvement in liver fat reduction after 16 weeks, combined with triglyceride reduction from 165 to 140 mg/dL and 95% relief from abdominal pain."
+      },
+      {
+        "question": "What forms is Livomap available in?",
+        "answer": "Available in two forms: Tablets (1-2 B.I.D) in blister packs and Syrup (1-2 teaspoons 10ml B.I.D) in bottles of 100ml and 200ml."
+      },
+      {
+        "question": "How does Livomap work?",
+        "answer": "It protects and detoxifies the liver, stimulates regeneration through protein and nucleic acid synthesis, enhances bile flow, and expels parasites for holistic liver health."
+      },
+      {
+        "question": "Is Livomap safe for long-term use?",
+        "answer": "Yes, researched at AIIMS, New Delhi, Livomap is safe and effective for long-term liver health management with clinical validation."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/41V9Y3RISkL._SY300_SX300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": "kanth-sudha",
+    "name": "KASNI Kanth Sudha",
+    "category": "Throat Care & Oral Hygiene",
+    "indication": "Fast Relieving Solution for Sore Throat",
+    "dosage": "2-4 Pastilles T.I.D (three times daily)",
+    "form": "Dispenser pack of 30 pastilles",
+    "ingredients": [
+      "Glycyrrhiza glabra (Yashti madhu)",
+      "Mentha piperita (Menthol)",
+      "Cinnamomum camphora (Karpoora)",
+      "Elettaria cardamomum (Ela)",
+      "Syzygium aromaticum (Lavang)",
+      "Myristica fragrans (Jayphal)",
+      "Zingiber officinale (Shunthi)",
+      "Piper nigrum (Maricha)",
+      "Piper longum (Pippali)",
+      "Crystal sugar (Mishri)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Yashti madhu (Glycyrrhiza glabra)",
+        "description": "Natural sweetener and throat soother, provides Kapha hara action"
+      },
+      {
+        "name": "Menthol (Mentha piperita)",
+        "description": "Cooling and soothing agent for throat irritation"
+      },
+      {
+        "name": "Karpoora (Cinnamomum camphora)",
+        "description": "Anti-bacterial and refreshing properties"
+      },
+      {
+        "name": "Ela (Elettaria cardamomum)",
+        "description": "Digestive and breath freshening properties"
+      },
+      {
+        "name": "Lavang (Syzygium aromaticum)",
+        "description": "Strong antibacterial and digestive support"
+      },
+      {
+        "name": "Jayphal (Myristica fragrans)",
+        "description": "Digestive and throat soothing properties"
+      },
+      {
+        "name": "Shunthi (Zingiber officinale)",
+        "description": "Anti-inflammatory and digestive benefits"
+      },
+      {
+        "name": "Maricha (Piper nigrum)",
+        "description": "Digestive and antibacterial properties"
+      },
+      {
+        "name": "Pippali (Piper longum)",
+        "description": "Digestive and respiratory support"
+      }
+    ],
+    "description": "Kanth Sudha is a fast-acting Ayurvedic solution designed to soothe sore throats, combat foul breath, and promote oral hygiene. Enriched with a natural blend of 10 Kanthya (throat-soothing) and Swarya (voice-improving) herbs, it provides long-lasting antibacterial benefits while freshening the breath. Its safe and versatile formulation makes it ideal for oral and throat care.",
+    "mechanism": "Combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health.",
+    "benefits": [
+      "Soothes sore throat and relieves irritation, hoarseness, and discomfort from laryngitis, pharyngitis, tonsillitis, and common cold",
+      "Provides antibacterial protection against oral bacteria, reducing foul breath and supporting gum and dental health",
+      "Offers long-lasting freshness as an excellent mouth freshener with a tingling, refreshing sensation",
+      "Ideal for smokers - deodorizes bad breath associated with smoking and alleviates smoker's cough",
+      "Contains natural Kanthya and Swarya herbs for comprehensive throat and voice care"
+    ],
+    "clinicalHighlights": {
+      "target_conditions": "Sore throat, hoarseness, foul breath, oral infections, smoker's cough, laryngitis, pharyngitis, tonsillitis",
+      "herbal_composition": "10 carefully selected herbs for throat soothing and voice improvement",
+      "safety_profile": "Natural, safe formulation suitable for regular use"
+    },
+    "scientificValidation": {
+      "traditional_wisdom": "Based on Ayurvedic principles of Kanthya and Swarya herbs",
+      "modern_application": "Fast-acting solution for contemporary throat and oral health challenges"
+    },
+    "certifications": [
+      "Maharishi Ayurveda Quality",
+      "Natural Herbal Formulation"
+    ],
+    "faqs": [
+      {
+        "question": "What is Kanth Sudha?",
+        "answer": "Kanth Sudha is a fast-acting Ayurvedic throat lozenge containing 10 natural herbs designed to soothe sore throats, combat foul breath, and promote oral hygiene."
+      },
+      {
+        "question": "How does Kanth Sudha work?",
+        "answer": "It combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health."
+      },
+      {
+        "question": "What are the key benefits of Kanth Sudha?",
+        "answer": "It soothes sore throats, provides antibacterial protection, offers long-lasting freshness, and is particularly effective for smokers' breath and cough."
+      },
+      {
+        "question": "Is Kanth Sudha safe for regular use?",
+        "answer": "Yes, it contains natural herbs and is safe for regular use as a throat lozenge and mouth freshener."
+      },
+      {
+        "question": "How should Kanth Sudha be taken?",
+        "answer": "Take 2-4 pastilles three times daily, or as needed for throat soothing and oral freshness."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-kanth-sudha-30-pastilles-bottle-maharishi-ayurveda-india-1_400x.jpg?v=1692185594"
+  },
+  {
+    "id": "asthomap",
+    "name": "Asthomap",
+    "category": "Respiratory Health",
+    "indication": "Clinically Proven for Prolonged Asthma Relief",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Plastic container with 60 tablets",
+    "ingredients": [
+      "Abies webbiana (Talispatra)",
+      "Piper nigrum (Kali Mirch)",
+      "Zingiber officinale (Shunthi)",
+      "Piper longum (Pippali)",
+      "Bambusa arundinacea (Vanshlochan)",
+      "Elettaria cardamomum (Ela)",
+      "Cinnamomum zeylanicum (Twak)",
+      "Sarcostemma brevistigma (Soma Lata)",
+      "Glycyrrhiza glabra (Yashtimadhu)",
+      "Adhatoda vasica (Vasa)",
+      "Saussurea lappa (Kushta)"
+    ],
+    "description": "Asthomap is an Ayurvedic formulation designed to provide long-term relief for respiratory conditions. Powered by a judicious combination of natural herbs, it offers outstanding efficacy without the side effects of steroids. Asthomap works effectively to allay bronchospasms, reduce mucus build-up, and improve airflow, ensuring sustained respiratory health. Prolonged use minimises allergen hypersensitivity, reduces dependence on other medications, and strengthens the mucosal lining for enhanced respiratory immunity.",
+    "mechanism": "Allays bronchospasms, reduces mucus build-up, improves airflow, minimises allergen hypersensitivity, strengthens mucosal lining, and enhances respiratory immunity.",
+    "benefits": [
+      "Outstanding efficacy: 90% of patients experienced significant relief from bronchial asthma within 30 days",
+      "Significant symptom relief: Reduces breathlessness, frequency of asthma attacks, and protects against allergic reactions",
+      "Immunity enhancer: Boosts the respiratory system's immunity, combating respiratory diseases effectively",
+      "Safe for long-term use: Free from steroids, ensuring safety over prolonged periods",
+      "Adjuvant therapy: Can be combined with Salbutamol and other antiasthmatic drugs during acute conditions"
+    ],
+    "clinicalHighlights": {
+      "efficacy": "90% of patients got relief from bronchial asthma within 30 days",
+      "research": "Researched at Srikrishna Govt. Ayurvedic College, Kurukshetra",
+      "comparison": "Better efficiency as compared to Praval Pisthi & Svas Kuthar Ras"
+    },
+    "researchPartners": [
+      "Srikrishna Govt. Ayurvedic College, Kurukshetra"
+    ],
+    "certifications": [
+      "Clinically proven for asthma relief",
+      "Ayurvedic formulation without steroids"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Asthomap used for?",
+        "answer": "Asthomap provides long-term relief for bronchial asthma, chronic bronchitis, and bronchial respiratory allergies without steroid side effects."
+      },
+      {
+        "question": "How effective is Asthomap?",
+        "answer": "Clinical studies show 90% of patients experience significant relief from bronchial asthma within 30 days, reducing breathlessness and allergic reactions."
+      },
+      {
+        "question": "Is Asthomap safe?",
+        "answer": "Yes, it is free from steroids, safe for long-term use, and can be combined with other antiasthmatic drugs during acute conditions."
+      },
+      {
+        "question": "What are the key benefits of Asthomap?",
+        "answer": "It allays bronchospasms, reduces mucus, improves airflow, minimizes allergen hypersensitivity, and strengthens respiratory immunity."
+      },
+      {
+        "question": "How should Asthomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water. Consult a physician for personalized dosage and monitoring."
+      }
+    ],
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/gj3bfp46qil0jsli6opb.png"
   },
   {
     "id": "pilomap",
@@ -752,327 +1088,32 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/triphala-for-digestive-system-and-promoting-detoxification-maharishi-ayurveda-india-2.png?v=1724306431&width=1000"
   },
   {
-    "id": "livomap",
-    "name": "Livomap",
-    "category": "Liver Health",
-    "indication": "Clinically Proven Solution for Fatty Liver",
-    "dosage": "Tablets: 1-2 tablets B.I.D; Syrup: 1-2 teaspoons 10ml B.I.D",
-    "form": "Tablets: Blister packs of 10s; Syrup: Bottles of 100 ml and 200 ml",
-    "ingredients": ["Boerhaavia diffusa (Punarnava)", "Melia azadirachta (Nimb)", "Trichosanthes cucumerina (Tikta Patola)", "Zingiber officinale (Shunthi)", "Picrorhiza kurroa (Katuki)", "Tinospora cordifolia (Guduchi)", "Cedrus deodara (Devdaru)", "Terminalia chebula (Haritaki)", "Crataeva religiosa (Varuna)", "Moringa oleifera (Shigru)", "Berberis aristata (Daruharidra)", "Artemisia absinthium (Afsantin)", "Tephrosia purpurea (Sharapunkha)", "Phyllanthus niruri (Bhumiamalaki)"],
-    "keyIngredients": [
-      {
-        "name": "Punarnava (Boerhaavia diffusa)",
-        "description": "Powerful liver stimulant and rejuvenator"
-      },
-      {
-        "name": "Katuki (Picrorhiza kurroa)",
-        "description": "Purgative and liver tonic with detoxifying properties"
-      },
-      {
-        "name": "Bhumi Amalaki (Phyllanthus niruri)",
-        "description": "Hepatoprotective liver tonic"
-      },
-      {
-        "name": "Haritaki (Terminalia chebula)",
-        "description": "Laxative and digestive support"
-      }
-    ],
-    "description": "Livomap is a clinically proven Ayurvedic formulation meticulously researched at AIIMS, New Delhi. It is formulated with a powerful combination of 28 herbs, including Phyllanthus niruri and Picrorhiza kurroa. It is designed to protect, detoxify, and rejuvenate the liver by addressing the root causes of fatty liver, inflammation, infections, and chronic liver disorders. Livomap improves liver function, stimulates liver regeneration, enhances bile flow, and detoxifies the liver and blood-forming organs. Its multi-dimensional approach ensures long-term liver health and comprehensive care.",
-    "mechanism": "Stimulates protein and nucleic acid synthesis for liver regeneration, detoxifies liver and blood-forming organs, enhances bile flow and digestion, expels intestinal parasites, and supports the liver's natural self-repair mechanisms.",
-    "benefits": [
-      "Effectively reduces liver fat: Significantly decreases excess fat deposited in the liver, providing a powerful solution for fatty liver (p<0.01)",
-      "Lowers triglycerides: Achieves a notable reduction in triglyceride levels, from ~165 mg/dL to ~140 mg/dL in just three months (p<0.02)",
-      "Provides complete relief from abdominal pain: Alleviates abdominal discomfort caused by fatty liver, delivering 95% of patients complete relief (p<0.01)",
-      "Promotes liver regeneration: Stimulates protein and nucleic acid synthesis, reversing cirrhotic changes and regenerating damaged liver tissue",
-      "Supports detoxification and toning: Detoxifies the liver, spleen, and blood-forming organs while expelling intestinal parasites for holistic health",
-      "Enhances bile flow and digestion: Improves bile flow, prevents gallstone formation, and enhances digestive efficiency"
-    ],
-    "clinicalHighlights": {
-      "liver_fat_reduction": "Reduces excess fat deposits in the liver of NAFLD patients with 61.5% improvement after 16 weeks (p<0.01)",
-      "triglycerides": "Significant reduction in triglyceride level from 165 to 140 mg/dL in three months (p<0.02)",
-      "abdominal_pain": "Complete relief in abdominal pain due to fatty liver in 95% of patients (p<0.01)",
-      "research": "Double blind randomised placebo controlled clinical trial completed at AIIMS, New Delhi"
-    },
-    "researchPartners": [
-      "All India Institute of Medical Sciences (AIIMS), New Delhi"
-    ],
-    "certifications": [
-      "Clinically proven at AIIMS for fatty liver",
-      "Ayurvedic formulation with Yakrit Rasayana properties",
-      "Available in both tablet and syrup forms"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Livomap used for?",
-        "answer": "Livomap treats non-alcoholic fatty liver disease (NAFLD), viral and bacterial hepatitis, anorexia/loss of appetite, and supports comprehensive liver detoxification."
-      },
-      {
-        "question": "How effective is Livomap for fatty liver?",
-        "answer": "Clinical trials show 61.5% improvement in liver fat reduction after 16 weeks, combined with triglyceride reduction from 165 to 140 mg/dL and 95% relief from abdominal pain."
-      },
-      {
-        "question": "What forms is Livomap available in?",
-        "answer": "Available in two forms: Tablets (1-2 B.I.D) in blister packs and Syrup (1-2 teaspoons 10ml B.I.D) in bottles of 100ml and 200ml."
-      },
-      {
-        "question": "How does Livomap work?",
-        "answer": "It protects and detoxifies the liver, stimulates regeneration through protein and nucleic acid synthesis, enhances bile flow, and expels parasites for holistic liver health."
-      },
-      {
-        "question": "Is Livomap safe for long-term use?",
-        "answer": "Yes, researched at AIIMS, New Delhi, Livomap is safe and effective for long-term liver health management with clinical validation."
-      }
-    ],
-    "image": "https://m.media-amazon.com/images/I/41V9Y3RISkL._SY300_SX300_QL70_FMwebp_.jpg"
-  },
-  {
-    "id": "kasni",
-    "name": "Kasni",
-    "category": "Respiratory Health",
-    "indication": "NON-DROWSY FORMULATION FOR ACUTE & CHRONIC COUGH",
-    "dosage": "Adults: 2 Teaspoons 10ml B.I.D, Kids: 1 Teaspoon 5ml B.I.D",
-    "form": "Syrup 100ml, 200ml",
-    "ingredients": ["Piper longum (Pippali)", "Pistacia integerrima (Kakra shringi)", "Zingiber officinale (Shunthi)", "Cyperus scariosus (Nagar Mustaka)", "Glycyrrhiza glabra (Yashtimadhu)", "Ocimum sanctum (Tulsi)", "Abies webbiana (Talispatra)", "Solanum xanthocarpum (Kantakari)", "Cinnamomum zeylanicum (Twak)", "Achyranthes aspera (Apamarg)", "Myrica nagi (Kayphal)", "Ephedra gerardiana (Soma)", "Adhatoda vasica (Vasamul)", "Tankana", "Sugar"],
-    "keyIngredients": [
-      {
-        "name": "Tulsi",
-        "description": "Balances Vata & Kapha, non-sedating"
-      },
-      {
-        "name": "Ginger",
-        "description": "Digestive, mucolytic, anti-inflammatory"
-      },
-      {
-        "name": "Pistacia integerrima",
-        "description": "Anti-tussive"
-      },
-      {
-        "name": "Myrica nagi",
-        "description": "Anti-tussive, strengthens lung function"
-      }
-    ],
-    "description": "Kasni is a clinically trusted Ayurvedic remedy formulated with a unique blend of 16 powerful herbs, including Tulsi (Ocimum sanctum), Ginger (Zingiber officinale), Pistacia integerrima, and Myrica nagi. These herbs contribute to its potent antitussive, antiallergic, and expectorant properties, effectively relieving acute and chronic coughs across diverse aetiologies. With its non-sedative and alcohol-free formulation, Kasni ensures relief without causing drowsiness or dependency, allowing patients of all ages to remain active and alert throughout the day.",
-    "mechanism": "Balances Vata & Kapha, non-sedating & alcohol-free, non-habit forming & non-constipating, relieves sore throat, tones respiratory system.",
-    "vataBalancing": "Balances Vata & Kapha for efficient mucus elimination.",
-    "benefits": [
-      "Balances vata & kapha: Restores respiratory harmony by pacifying aggravated Vata and liquefying vitiated Kapha for efficient mucus elimination.",
-      "Non-sedating & alcohol-free: Suitable for all age groups, enabling clear breathing and comfort without compromising alertness.",
-      "Non-habit forming & non-constipating: Ensures long-term safety without dependency or digestive discomfort.",
-      "Relieves sore throat: Tulsi's antiallergic properties soothe irritation, tone the respiratory system, and support immunity.",
-      "Decongested nasal and bronchial passages: Promotes expectoration of tenacious mucus with Ginger's mucolytic and anti-inflammatory effects.",
-      "Strengthens lung function: Myrica nagi and Pistacia integerrima alleviate cough and enhance respiratory health."
-    ],
-    "clinicalHighlights": {
-      "effectiveness": "Effective in relieving acute and chronic coughs",
-      "safety": "Non-sedative, alcohol-free, non-habit forming",
-      "indications": "Wet cough, Dry cough, Cough due to pollution, Smoker's cough"
-    },
-    "certifications": [
-      "Ayurvedic formulation",
-      "Clinically trusted remedy"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Kasni used for?",
-        "answer": "Kasni is used for acute and chronic coughs, including wet cough, dry cough, cough due to pollution, and smoker's cough."
-      },
-      {
-        "question": "Is Kasni safe for children?",
-        "answer": "Yes, Kasni is non-sedating and alcohol-free, suitable for all age groups including children."
-      },
-      {
-        "question": "How does Kasni work?",
-        "answer": "It balances Vata and Kapha, provides antitussive, antiallergic, and expectorant properties through its herbal blend."
-      },
-      {
-        "question": "Can Kasni cause drowsiness?",
-        "answer": "No, Kasni is non-sedating, allowing patients to remain active and alert throughout the day."
-      },
-      {
-        "question": "What are the key ingredients in Kasni?",
-        "answer": "Key ingredients include Tulsi, Ginger, Pistacia integerrima, Myrica nagi, and other herbs that support respiratory health."
-      }
-    ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-cough-syrup-100ml-maharishi-ayurveda-india-1_400x.jpg?v=1692185639"
-  },
-  {
-    "id": "kanth-sudha",
-    "name": "KASNI Kanth Sudha",
-    "category": "Throat Care & Oral Hygiene",
-    "indication": "Fast Relieving Solution for Sore Throat",
-    "dosage": "2-4 Pastilles T.I.D (three times daily)",
-    "form": "Dispenser pack of 30 pastilles",
-    "ingredients": [
-      "Glycyrrhiza glabra (Yashti madhu)",
-      "Mentha piperita (Menthol)",
-      "Cinnamomum camphora (Karpoora)",
-      "Elettaria cardamomum (Ela)",
-      "Syzygium aromaticum (Lavang)",
-      "Myristica fragrans (Jayphal)",
-      "Zingiber officinale (Shunthi)",
-      "Piper nigrum (Maricha)",
-      "Piper longum (Pippali)",
-      "Crystal sugar (Mishri)"
-    ],
-    "keyIngredients": [
-      {
-        "name": "Yashti madhu (Glycyrrhiza glabra)",
-        "description": "Natural sweetener and throat soother, provides Kapha hara action"
-      },
-      {
-        "name": "Menthol (Mentha piperita)",
-        "description": "Cooling and soothing agent for throat irritation"
-      },
-      {
-        "name": "Karpoora (Cinnamomum camphora)",
-        "description": "Anti-bacterial and refreshing properties"
-      },
-      {
-        "name": "Ela (Elettaria cardamomum)",
-        "description": "Digestive and breath freshening properties"
-      },
-      {
-        "name": "Lavang (Syzygium aromaticum)",
-        "description": "Strong antibacterial and digestive support"
-      },
-      {
-        "name": "Jayphal (Myristica fragrans)",
-        "description": "Digestive and throat soothing properties"
-      },
-      {
-        "name": "Shunthi (Zingiber officinale)",
-        "description": "Anti-inflammatory and digestive benefits"
-      },
-      {
-        "name": "Maricha (Piper nigrum)",
-        "description": "Digestive and antibacterial properties"
-      },
-      {
-        "name": "Pippali (Piper longum)",
-        "description": "Digestive and respiratory support"
-      }
-    ],
-    "description": "Kanth Sudha is a fast-acting Ayurvedic solution designed to soothe sore throats, combat foul breath, and promote oral hygiene. Enriched with a natural blend of 10 Kanthya (throat-soothing) and Swarya (voice-improving) herbs, it provides long-lasting antibacterial benefits while freshening the breath. Its safe and versatile formulation makes it ideal for oral and throat care.",
-    "mechanism": "Combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health.",
-    "benefits": [
-      "Soothes sore throat and relieves irritation, hoarseness, and discomfort from laryngitis, pharyngitis, tonsillitis, and common cold",
-      "Provides antibacterial protection against oral bacteria, reducing foul breath and supporting gum and dental health",
-      "Offers long-lasting freshness as an excellent mouth freshener with a tingling, refreshing sensation",
-      "Ideal for smokers - deodorizes bad breath associated with smoking and alleviates smoker's cough",
-      "Contains natural Kanthya and Swarya herbs for comprehensive throat and voice care"
-    ],
-    "clinicalHighlights": {
-      "target_conditions": "Sore throat, hoarseness, foul breath, oral infections, smoker's cough, laryngitis, pharyngitis, tonsillitis",
-      "herbal_composition": "10 carefully selected herbs for throat soothing and voice improvement",
-      "safety_profile": "Natural, safe formulation suitable for regular use"
-    },
-    "scientificValidation": {
-      "traditional_wisdom": "Based on Ayurvedic principles of Kanthya and Swarya herbs",
-      "modern_application": "Fast-acting solution for contemporary throat and oral health challenges"
-    },
-    "certifications": [
-      "Maharishi Ayurveda Quality",
-      "Natural Herbal Formulation"
-    ],
-    "faqs": [
-      {
-        "question": "What is Kanth Sudha?",
-        "answer": "Kanth Sudha is a fast-acting Ayurvedic throat lozenge containing 10 natural herbs designed to soothe sore throats, combat foul breath, and promote oral hygiene."
-      },
-      {
-        "question": "How does Kanth Sudha work?",
-        "answer": "It combines Kanthya herbs for throat soothing with Swarya herbs for voice improvement, providing antibacterial protection and digestive support for comprehensive oral and throat health."
-      },
-      {
-        "question": "What are the key benefits of Kanth Sudha?",
-        "answer": "It soothes sore throats, provides antibacterial protection, offers long-lasting freshness, and is particularly effective for smokers' breath and cough."
-      },
-      {
-        "question": "Is Kanth Sudha safe for regular use?",
-        "answer": "Yes, it contains natural herbs and is safe for regular use as a throat lozenge and mouth freshener."
-      },
-      {
-        "question": "How should Kanth Sudha be taken?",
-        "answer": "Take 2-4 pastilles three times daily, or as needed for throat soothing and oral freshness."
-      }
-    ],
-    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/kasni-kanth-sudha-30-pastilles-bottle-maharishi-ayurveda-india-1_400x.jpg?v=1692185594"
-  },
-  {
-    "id": "leucomap",
-    "name": "Leucomap",
-    "category": "Women's Health",
-    "indication": "Remedy for Relief in Leucorrhoea",
-    "dosage": "2 Capsules B.I.D before meals",
-    "form": "Strips of 10x6 capsules",
-    "ingredients": ["Tamarindus indica (Imli)", "Asparagus racemosus (Shatavri)", "Woodfordia fruticosa (Dhataki)", "Tribulus terrestris (Gokharu)", "Cuminum cyminum (Jeera)", "Tinospora cordifolia (Guduchi)", "Berberis aristata (Daru Haridra)", "Salmalia malabaricum (Semal)", "Terminalia chebula (Haritaki)", "Terminalia bellirica (Bahera)", "Emblica officinalis (Amalaki)", "Mimosa pudica (Lajwanti)", "Mesua ferrea (Nagkesar)", "Carom bulbocastanum (Jeera)", "Smilax china (China Root)", "Asparagus racemosus (Shatavari)", "Pterocarpus santalinus (Red Sanders)", "Piper cubeba (Sheetal Chini)", "Symplocos racemosa (Lodhra)", "Saraca asoca (Ashok)", "Yashad bhasm", "Mukta shukti bhasm", "Purified Shilajeet", "Dhatri Lauh"],
-    "keyIngredients": [
-      {
-        "name": "Shatavari",
-        "description": "Strength, gyne disorder"
-      },
-      {
-        "name": "Ashok",
-        "description": "Gyne disorder"
-      },
-      {
-        "name": "Lodhra",
-        "description": "Gyne disorder"
-      }
-    ],
-    "description": "Leucomap is a time-tested herbal formulation made from a synergistic blend of 24 Ayurvedic herbs designed to address non-specific leucorrhoea and its associated symptoms. This natural remedy effectively regulates abnormal secretions, reduces cervical congestion, and enhances the overall health of the female genitourinary system. By improving the health of the ovaries, fallopian tubes, uterus, and cervix, Leucomap ensures comprehensive reproductive care. It also supports hormonal balance by addressing psychological factors influencing ovarian function and reproductive health.",
-    "mechanism": "Safe and non-hormonal preparation, decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, strengthens genitourinary system, promotes healthy hormonal interplay.",
-    "benefits": [
-      "Safe and non-hormonal preparation: An entirely herbal formulation that works without interfering with hormones, ensuring long-term safety.",
-      "Decreases abnormal white discharge: Effectively controls excessive and abnormal cervical and endocervical secretions for optimal vaginal health.",
-      "Balances apana vayu: Regulates the downward energy flow, addressing the root cause of leucorrhoea and promoting overall balance in the reproductive system.",
-      "Relieves cervical congestion: Reduces inflammation and improves cervix circulation, enhancing overall health and function.",
-      "Strengthens the genitourinary system: It enhances local and general immunity, protects against recurrent infections, and supports the health of the pelvic cavity.",
-      "Promotes healthy hormonal interplay: Regulates ovarian function and balances hormones, ensuring a healthy reproductive environment."
-    ],
-    "clinicalHighlights": {
-      "effectiveness": "Time-tested herbal formulation for leucorrhoea relief",
-      "safety": "Safe and non-hormonal preparation"
-    },
-    "certifications": [
-      "Ayurvedic formulation",
-      "Time-tested remedy"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Leucomap used for?",
-        "answer": "Leucomap addresses non-specific leucorrhoea, low backache, general malaise, and menstrual irregularity."
-      },
-      {
-        "question": "Is Leucomap safe?",
-        "answer": "Yes, it is a safe and non-hormonal preparation, ensuring long-term safety without interfering with hormones."
-      },
-      {
-        "question": "How does Leucomap work?",
-        "answer": "It regulates abnormal secretions, reduces cervical congestion, strengthens the genitourinary system, and supports hormonal balance."
-      },
-      {
-        "question": "What are the key benefits of Leucomap?",
-        "answer": "It decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, and promotes healthy hormonal interplay."
-      },
-      {
-        "question": "How should Leucomap be taken?",
-        "answer": "Take 2 capsules twice daily before meals."
-      }
-    ],
-    "image": "https://m.media-amazon.com/images/I/71jROJ9a9fL._SX679_.jpg"
-  },
-  {
     "id": "raktda",
     "name": "Raktda",
     "category": "Anaemia & Blood Health",
     "indication": "Clinically Proven Ayurvedic Solution for Anaemia",
     "dosage": "2 Tablets B.I.D with lukewarm water",
     "form": "Blister strips of 10x10 tablets",
-    "ingredients": ["Corallum rubrum (Pravala pishti)", "Ostrea edulis (Muktashukti pishti)", "Cypraea moneta (Varatika Bhasm)", "Tinospora cordifolia (Guduchi Satwa)", "Emblica officinalis (Amalaki)", "Elettaria cardamomum (Ela)", "Cinnamomum tamala (Tejpatra)", "Syzygium aromaticum (Lavanga)", "Mesua ferrea (Nagkeshar)", "Phoenix dactylifera (Khajura)", "Vitis vinifera (Draksha)", "Glycyrrhiza glabra (Yashtimadhu)", "Piper longum (Pippali)", "Turbinella rappa (Shankha Bhasma)", "Purified Asphaltum (Shudha Shilajeet)", "Kanta lauh Bhasma", "Mandura Bhasma", "Crystal sugar (Mishri)"],
+    "ingredients": [
+      "Corallum rubrum (Pravala pishti)",
+      "Ostrea edulis (Muktashukti pishti)",
+      "Cypraea moneta (Varatika Bhasm)",
+      "Tinospora cordifolia (Guduchi Satwa)",
+      "Emblica officinalis (Amalaki)",
+      "Elettaria cardamomum (Ela)",
+      "Cinnamomum tamala (Tejpatra)",
+      "Syzygium aromaticum (Lavanga)",
+      "Mesua ferrea (Nagkeshar)",
+      "Phoenix dactylifera (Khajura)",
+      "Vitis vinifera (Draksha)",
+      "Glycyrrhiza glabra (Yashtimadhu)",
+      "Piper longum (Pippali)",
+      "Turbinella rappa (Shankha Bhasma)",
+      "Purified Asphaltum (Shudha Shilajeet)",
+      "Kanta lauh Bhasma",
+      "Mandura Bhasma",
+      "Crystal sugar (Mishri)"
+    ],
     "keyIngredients": [
       {
         "name": "Guduchi Satwa",
@@ -1139,7 +1180,29 @@
     "indication": "For Menstrual Disorders & Women Health",
     "dosage": "Syrup: 2 teaspoons daily, Tablets: 2 tablets daily",
     "form": "Syrup: 200 ml bottle, Tablets: 500 mg blister strips in packs of 10x10",
-    "ingredients": ["Saraca asoca (Ashok)", "Symplocos racemosa (Lodhra)", "Asparagus racemosus (Shatavari)", "Mangifera indica (Aam)", "Ficus religiosa (Peepal)", "Mimosa pudica (Lajwanti)", "Boerhaavia diffusa (Punarnava)", "Mesua ferrea (Nagkesar)", "Caesalpinia sappan (Patang)", "Valeriana wallichi (Sugandh Bala)", "Aconitum heterophyllum (Atees)", "Cyperus rotundus (Mustak)", "Holarrhena antidysenterica (Kurchi)", "Nymphaea nouchali (Kumud)", "Santalum album (Safed chandan)", "Terminalia chebula (Haritaki)", "Cuminum cyminum (Jeera)", "Zingiber officinale (Sonth)", "Carum bulbocastanum (Kala jeera)", "Coriandrum sativum (Dhaniya)", "Piper longum (Pippali)"],
+    "ingredients": [
+      "Saraca asoca (Ashok)",
+      "Symplocos racemosa (Lodhra)",
+      "Asparagus racemosus (Shatavari)",
+      "Mangifera indica (Aam)",
+      "Ficus religiosa (Peepal)",
+      "Mimosa pudica (Lajwanti)",
+      "Boerhaavia diffusa (Punarnava)",
+      "Mesua ferrea (Nagkesar)",
+      "Caesalpinia sappan (Patang)",
+      "Valeriana wallichi (Sugandh Bala)",
+      "Aconitum heterophyllum (Atees)",
+      "Cyperus rotundus (Mustak)",
+      "Holarrhena antidysenterica (Kurchi)",
+      "Nymphaea nouchali (Kumud)",
+      "Santalum album (Safed chandan)",
+      "Terminalia chebula (Haritaki)",
+      "Cuminum cyminum (Jeera)",
+      "Zingiber officinale (Sonth)",
+      "Carum bulbocastanum (Kala jeera)",
+      "Coriandrum sativum (Dhaniya)",
+      "Piper longum (Pippali)"
+    ],
     "keyIngredients": [
       {
         "name": "Ashok",
@@ -1196,6 +1259,96 @@
       }
     ],
     "image": "https://m.media-amazon.com/images/I/61PA1OouliL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": "leucomap",
+    "name": "Leucomap",
+    "category": "Women's Health",
+    "indication": "Remedy for Relief in Leucorrhoea",
+    "dosage": "2 Capsules B.I.D before meals",
+    "form": "Strips of 10x6 capsules",
+    "ingredients": [
+      "Tamarindus indica (Imli)",
+      "Asparagus racemosus (Shatavri)",
+      "Woodfordia fruticosa (Dhataki)",
+      "Tribulus terrestris (Gokharu)",
+      "Cuminum cyminum (Jeera)",
+      "Tinospora cordifolia (Guduchi)",
+      "Berberis aristata (Daru Haridra)",
+      "Salmalia malabaricum (Semal)",
+      "Terminalia chebula (Haritaki)",
+      "Terminalia bellirica (Bahera)",
+      "Emblica officinalis (Amalaki)",
+      "Mimosa pudica (Lajwanti)",
+      "Mesua ferrea (Nagkesar)",
+      "Carom bulbocastanum (Jeera)",
+      "Smilax china (China Root)",
+      "Asparagus racemosus (Shatavari)",
+      "Pterocarpus santalinus (Red Sanders)",
+      "Piper cubeba (Sheetal Chini)",
+      "Symplocos racemosa (Lodhra)",
+      "Saraca asoca (Ashok)",
+      "Yashad bhasm",
+      "Mukta shukti bhasm",
+      "Purified Shilajeet",
+      "Dhatri Lauh"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Shatavari",
+        "description": "Strength, gyne disorder"
+      },
+      {
+        "name": "Ashok",
+        "description": "Gyne disorder"
+      },
+      {
+        "name": "Lodhra",
+        "description": "Gyne disorder"
+      }
+    ],
+    "description": "Leucomap is a time-tested herbal formulation made from a synergistic blend of 24 Ayurvedic herbs designed to address non-specific leucorrhoea and its associated symptoms. This natural remedy effectively regulates abnormal secretions, reduces cervical congestion, and enhances the overall health of the female genitourinary system. By improving the health of the ovaries, fallopian tubes, uterus, and cervix, Leucomap ensures comprehensive reproductive care. It also supports hormonal balance by addressing psychological factors influencing ovarian function and reproductive health.",
+    "mechanism": "Safe and non-hormonal preparation, decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, strengthens genitourinary system, promotes healthy hormonal interplay.",
+    "benefits": [
+      "Safe and non-hormonal preparation: An entirely herbal formulation that works without interfering with hormones, ensuring long-term safety.",
+      "Decreases abnormal white discharge: Effectively controls excessive and abnormal cervical and endocervical secretions for optimal vaginal health.",
+      "Balances apana vayu: Regulates the downward energy flow, addressing the root cause of leucorrhoea and promoting overall balance in the reproductive system.",
+      "Relieves cervical congestion: Reduces inflammation and improves cervix circulation, enhancing overall health and function.",
+      "Strengthens the genitourinary system: It enhances local and general immunity, protects against recurrent infections, and supports the health of the pelvic cavity.",
+      "Promotes healthy hormonal interplay: Regulates ovarian function and balances hormones, ensuring a healthy reproductive environment."
+    ],
+    "clinicalHighlights": {
+      "effectiveness": "Time-tested herbal formulation for leucorrhoea relief",
+      "safety": "Safe and non-hormonal preparation"
+    },
+    "certifications": [
+      "Ayurvedic formulation",
+      "Time-tested remedy"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Leucomap used for?",
+        "answer": "Leucomap addresses non-specific leucorrhoea, low backache, general malaise, and menstrual irregularity."
+      },
+      {
+        "question": "Is Leucomap safe?",
+        "answer": "Yes, it is a safe and non-hormonal preparation, ensuring long-term safety without interfering with hormones."
+      },
+      {
+        "question": "How does Leucomap work?",
+        "answer": "It regulates abnormal secretions, reduces cervical congestion, strengthens the genitourinary system, and supports hormonal balance."
+      },
+      {
+        "question": "What are the key benefits of Leucomap?",
+        "answer": "It decreases abnormal white discharge, balances apana vayu, relieves cervical congestion, and promotes healthy hormonal interplay."
+      },
+      {
+        "question": "How should Leucomap be taken?",
+        "answer": "Take 2 capsules twice daily before meals."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71jROJ9a9fL._SX679_.jpg"
   },
   {
     "id": "energol-ma",
@@ -1327,6 +1480,299 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/energol-ma-for-men-s-reproductive-care-maharishi-ayurveda-india.png?v=1692185201&width=1000"
   },
   {
+    "id": "vigoroyal-f",
+    "name": "Vigoroyal-F",
+    "category": "Women's Health",
+    "indication": "For Chronic Fatigue & General Debility in Women",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
+    "ingredients": [
+      "Saraca indica (Ashok)",
+      "Symplocos racemosa (Lodhra)",
+      "Mimosa pudica (Lajjalu)",
+      "Caesalpinia sappan (Patang)",
+      "Sida cordifolia (Bala)",
+      "Tribulus terrestris (Gokhru)",
+      "Cyperus rotundus (Nagar Mustaka)",
+      "Nymphaea nauchali (Nilofar)",
+      "Santalum album (Safed Chandan)",
+      "Zingiber officinale (Sonth)",
+      "Piper longum (Pippali)",
+      "Withania somnifera (Ashwagandha)",
+      "Ipomoea digitata (Ksheer Bidari)",
+      "Argyreia speciosa (Samudrashosha)",
+      "Asparagus racemosus (Shatavari)",
+      "Mesua ferrea (Nagkesar)",
+      "Cuminum cyminum (Jeera)",
+      "Carum bulbocastanum (Kala Jeera)",
+      "Purified Asphaltum (Shudha Shilajeet)",
+      "Corallum rubrum (Praval Bhasm)",
+      "Dhatri Lauha",
+      "Abhrak Bhasm"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Shatavari (Asparagus racemosus)",
+        "description": "Strengthens and supports women's health"
+      },
+      {
+        "name": "Ashwagandha (Withania somnifera)",
+        "description": "Enhances vitality and reduces stress"
+      },
+      {
+        "name": "Abhrak Bhasm",
+        "description": "Provides strength and rejuvenation"
+      },
+      {
+        "name": "Dhatri Lauha",
+        "description": "Supports hormonal balance and vitality"
+      }
+    ],
+    "description": "Vigoroyal-F is a clinically backed Ayurvedic formulation crafted to rejuvenate and revitalise women experiencing physical and psychological exhaustion caused by daily stresses. Enriched with time-tested herbs and minerals, it promotes hormonal balance, delays biological ageing, and enhances overall vitality. This restorative blend also supports skin health, mental focus, and women's wellness across all life stages, including menopause and post-menopause.",
+    "mechanism": "Enhances vitality (Vrishya), strengthens and energises (Balya), regulates menstrual health, reduces stress levels, promotes youthful vigor, and improves skin and beauty.",
+    "benefits": [
+      "Enhances vitality (Vrishya): Boosts physical energy and sexual wellness, ensuring a healthy body and mind.",
+      "Strengthens and energises (Balya): Provides essential strength to overcome fatigue and restore optimal health.",
+      "Regulates menstrual health: Balances hormones, alleviates menstrual tension, and supports conception.",
+      "Reduces stress levels: Effectively manages daily stress, supporting mental and emotional well-being.",
+      "Promotes youthful vigor: Delays biological and psychological ageing while enhancing vitality and resilience.",
+      "Improves skin and beauty: Maintains skin lustre and radiance, promoting holistic feminine health."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Women experiencing chronic fatigue and general debility",
+      "formulation": "Clinically backed with herbs and minerals for women's health"
+    },
+    "indications": [
+      "Poor stamina",
+      "Chronic fatigue",
+      "Weakness"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    "faqs": [
+      {
+        "question": "What is Vigoroyal-F used for?",
+        "answer": "Vigoroyal-F is designed for chronic fatigue and general debility in women, supporting vitality, hormonal balance, and overall wellness."
+      },
+      {
+        "question": "How does Vigoroyal-F work?",
+        "answer": "It enhances vitality, strengthens the body, regulates menstrual health, reduces stress, promotes youthful vigor, and improves skin health."
+      },
+      {
+        "question": "Is Vigoroyal-F clinically proven?",
+        "answer": "Yes, Vigoroyal-F is a clinically backed Ayurvedic formulation for women's health."
+      },
+      {
+        "question": "How should Vigoroyal-F be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water."
+      },
+      {
+        "question": "What are the key benefits of Vigoroyal-F?",
+        "answer": "It boosts energy, reduces fatigue, balances hormones, manages stress, delays aging, and enhances skin beauty."
+      }
+    ],
+    "image": "https://www.aalamroots.com/wp-content/uploads/2023/06/Maharishi_Ayurveda_Vigoroyal_F_02.jpg"
+  },
+  {
+    "id": "vigoroyal-m",
+    "name": "Vigoroyal-M",
+    "category": "Men's Health",
+    "indication": "For Chronic Fatigue & General Debility in Men",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
+    "ingredients": [
+      "Sida cordifolia (Bala)",
+      "Glycyrrhiza glabra (Yashtimadhu)",
+      "Phaseolus trilobus (Mudagparni)",
+      "Teramnus labialis (Mansparni)",
+      "Zingiber officinale (Sonth)",
+      "Mesua ferrea (Nagkesar)",
+      "Asteracantha longifolia (Talmakhana)",
+      "Mucuna pruriens (Kownch)",
+      "Cinnamomum zeylanicum (Dalchini)",
+      "Asparagus adescendens (Safed Musali)",
+      "Withania somnifera (Ashwagandha)",
+      "Smilax china (Chop Chini)",
+      "Pistacia integerrima (Kakara Shringi)",
+      "Myristica fragrans (Javitri)",
+      "Tribulus terrestris (Gokshur)",
+      "Asparagus racemosus (Shatavari)",
+      "Elettaria cardamomum (Chhoti Elaichi)",
+      "Cyperus rotundus (Mustaka)",
+      "Piper cubeba (Sheetal Chini)",
+      "Purified Asphaltum (Shudha Shilajeet)",
+      "Dhatri Lauha",
+      "Abhrak Bhasm"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Ashwagandha (Withania somnifera)",
+        "description": "Enhances strength and vitality"
+      },
+      {
+        "name": "Gokshur (Tribulus terrestris)",
+        "description": "Boosts stamina and reproductive health"
+      },
+      {
+        "name": "Shudha Shilajeet (Purified Asphaltum)",
+        "description": "Rejuvenator and energizer"
+      },
+      {
+        "name": "Abhrak Bhasm",
+        "description": "Provides strength and endurance"
+      }
+    ],
+    "description": "Vigoroyal-M is a premium Rasayana crafted specifically for men. It combines the ancient wisdom of Maharishi Ayurveda with a royal blend of 22 potent herbs. This clinically formulated energiser restores vitality, enhances stamina, and rejuvenates the body and mind. It optimises hormonal health, sharpens mental faculties, and invigorates physical strength, empowering men to overcome daily challenges with confidence and resilience.",
+    "mechanism": "Supports dhatu metabolism from Rasa to Shukra, boosts strength and stamina (Balya & Vrishya), acts as rejuvenator and energiser, enhances reflexes and nerve function, improves mental alertness, and provides holistic health support.",
+    "benefits": [
+      "Supports dhatu metabolism: Optimises the metabolism of all Dhatus, from Rasa (nutritional fluid) to Shukra (reproductive tissue), ensuring robust health.",
+      "Boosts strength and stamina (Balya & Vrishya): Enhances physical strength, vitality, and endurance, helping to combat fatigue and weakness.",
+      "Rejuvenator and energiser: Acts as a natural Rasayana, revitalising the body and psyche to promote overall well-being.",
+      "Enhances reflexes and nerve function: Supports balanced nerve conduction, quickens reflexes, and ensures optimal endocrinal function for peak performance.",
+      "Improves mental alertness: Rejuvenates the mind, fostering focus, confidence, and resilience, particularly in high-stress situations.",
+      "Holistic health support: Strengthens the body, sharpens mental faculties, and promotes balanced health and happiness for long-term wellness."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Men experiencing chronic fatigue and general debility",
+      "formulation": "Clinically formulated with 22 potent herbs for men's health"
+    },
+    "indications": [
+      "Poor stamina",
+      "Chronic fatigue",
+      "Weakness"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Vigoroyal-M used for?",
+        "answer": "Vigoroyal-M is designed for chronic fatigue and general debility in men, supporting vitality, stamina, and overall wellness."
+      },
+      {
+        "question": "How does Vigoroyal-M work?",
+        "answer": "It supports dhatu metabolism, boosts strength and stamina, rejuvenates the body, enhances nerve function, improves mental alertness, and provides holistic health support."
+      },
+      {
+        "question": "Is Vigoroyal-M clinically proven?",
+        "answer": "Yes, Vigoroyal-M is a clinically formulated Ayurvedic Rasayana for men's health."
+      },
+      {
+        "question": "How should Vigoroyal-M be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water."
+      },
+      {
+        "question": "What are the key benefits of Vigoroyal-M?",
+        "answer": "It enhances physical strength, vitality, mental alertness, nerve function, and overall well-being."
+      }
+    ],
+    "image": "https://www.ayurcentralonline.com/wp-content/uploads/webp_images/ac_m_7615.webp"
+  },
+  {
+    "id": "prostomap",
+    "name": "Prostomap",
+    "category": "Prostate Health",
+    "indication": "For Enlarged Prostate and Associated Disorders",
+    "dosage": "2 Tablets B.I.D with lukewarm water half an hour before meal",
+    "form": "Blister foils of 10x10 tablets",
+    "ingredients": [
+      "Tribulus terrestris (Gokhru Chhota)",
+      "Bauhinia variegata (Kanchnar)",
+      "Crataeva nurvala (Varun)",
+      "Tinospora cordifolia (Giloy)",
+      "Boerhaavia diffusa (Punarnava)",
+      "Pterocarpus santalinus (Lal Chandan)",
+      "Sida cordifolia (Bala)",
+      "Hordeum vulgare (Yavakshar)",
+      "Hemidesmus indicus (Anantmool)",
+      "Santalum album (Safed Chandan)",
+      "Curcuma longa (Haldi)",
+      "Syzygium aromaticum (Laung)",
+      "Zingiber officinale (Sonth)",
+      "Piper nigrum (Kali Mirch)",
+      "Piper longum (Pippali Chhoti)",
+      "Glycyrrhiza glabra (Mulethi)",
+      "Zinc oxide (Yashad Bhasma)",
+      "Calcium silicate (Ber Patthar Bhasma)",
+      "Purified Asphaltum (Shuddh Shilajit)",
+      "Balsamodendron mukul (Shuddh Guggul)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Varun (Crataeva nurvala)",
+        "description": "Diuretic and antispasmodic for urinary health"
+      },
+      {
+        "name": "Punarnava (Boerhaavia diffusa)",
+        "description": "Diuretic and tonic for prostate support"
+      },
+      {
+        "name": "Gokhru (Tribulus terrestris)",
+        "description": "Diuretic and strengthener for urinary tract"
+      },
+      {
+        "name": "Shuddh Guggul (Balsamodendron mukul)",
+        "description": "Anti-inflammatory and metabolizer"
+      },
+      {
+        "name": "Shuddh Shilajit (Purified Asphaltum)",
+        "description": "Rasayana and healing for overall vitality"
+      }
+    ],
+    "description": "Prostomap is a clinically backed Ayurvedic solution crafted to provide comprehensive relief for enlarged prostate and associated urinary disorders. Rooted in the principles of Ayurveda, it enhances urinary flow, reduces prostate weight, and improves the overall function of the urinary and reproductive systems.",
+    "mechanism": "Improves urinary flow rate and reduces prostate weight, strengthens urinary tract (Mutravaha Strotas) and reproductive system (Shukravaha Strotas), reduces inflammation and controls prostate gland growth (Ashthila), cleanses genitourinary tract impurities.",
+    "benefits": [
+      "Improves urinary flow & reduces prostate weight: Helps alleviate urinary retention, painful urination, and incontinence by ensuring smooth, uninterrupted urinary flow.",
+      "Strengthens mutravaha strotas: Fortifies the urinary tract to enhance long-term urinary health and functionality.",
+      "Nourishes shukravaha strotas: Promotes overall reproductive health and vitality, supporting hormonal balance and reducing discomfort.",
+      "Anti-inflammatory action: Effectively reduces inflammation and controls the abnormal growth of the prostate gland (Ashthila), offering targeted relief from symptoms of Benign Prostatic Hyperplasia (BPH).",
+      "Cleanses genitourinary impurities: Detoxifies the genitourinary system by eliminating toxins, ensuring optimal kidney, bladder, and urethral health."
+    ],
+    "clinicalHighlights": {
+      "efficacy": "Clinically backed for enlarged prostate and urinary disorders",
+      "urinary_flow": "Improves urinary flow rate and reduces prostate weight",
+      "inflammation_control": "Reduces inflammation and controls prostate growth"
+    },
+    "indications": [
+      "Benign prostatic hyperplasia (BPH)",
+      "Painful urination",
+      "Urinary retention and incontinence",
+      "Polyuria"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Prostomap used for?",
+        "answer": "Prostomap is designed for enlarged prostate and associated urinary disorders, including BPH, painful urination, urinary retention, incontinence, and polyuria."
+      },
+      {
+        "question": "How does Prostomap work?",
+        "answer": "It improves urinary flow, reduces prostate weight, strengthens urinary and reproductive systems, reduces inflammation, and cleanses genitourinary impurities."
+      },
+      {
+        "question": "Is Prostomap clinically proven?",
+        "answer": "Yes, Prostomap is a clinically backed Ayurvedic solution for prostate health."
+      },
+      {
+        "question": "How should Prostomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water, half an hour before meals."
+      },
+      {
+        "question": "What are the key ingredients in Prostomap?",
+        "answer": "Key ingredients include Varun, Punarnava, Gokhru, Shuddh Guggul, and Shuddh Shilajit, which provide diuretic, anti-inflammatory, and healing properties."
+      }
+    ],
+    "image": "https://store.planetayurveda.com/cdn/shop/files/Prostomap_600x600_crop_center.png?v=1738307166"
+  },
+  {
     "id": "vidyarthi-amrit",
     "name": "Vidyarthi Amrit",
     "category": "Brain & Mental Health",
@@ -1394,6 +1840,224 @@
       }
     ],
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/vidyarthi-amrit-Size-1080-1080.jpg?v=1724304439&width=600"
+  },
+    {
+    "id": "pirant",
+    "name": "Pirant",
+    "category": "Joint Health & Inflammation",
+    "indication": "Holistic Relief for Chronic Joint Pain & Inflammation",
+    "dosage": "Tablets: 2 tablet B.I.D half an hour after the meal; Oil: Massage gently on painful joints 2-3 times a day",
+    "form": "Dual Pack: Bottle of 60 tablets (500mg) + 50 ml oil. Also available separately.",
+    "ingredients": ["Zingiber officinale (Shunthi)", "Allium sativum (Lahsun)", "Withania somnifera (Ashwagandha)", "Pluchea lanceolata (Rasna)", "Piper nigrum (Kali Mirch)", "Piper longum (Pippali)", "Trachyspermum ammi (Ajwain)", "Saussurea lappa (Kustha)", "Embelia ribes (Vidanga)", "Pueraria tuberosa (Vidarikanda)", "Plumbago zeylanicum (Chitrakamoola)", "Colchicum luteum (Suranjan)", "Commiphora mukul (Guggulu)"],
+    "keyIngredients": [
+      {
+        "name": "Commiphora mukul (Guggulu)",
+        "description": "Anti-inflammatory, reduces ama and joint inflammation"
+      },
+      {
+        "name": "Withania somnifera (Ashwagandha)",
+        "description": "Vatahara, strengthens tissues and supports muscle relaxation"
+      },
+      {
+        "name": "Pluchea lanceolata (Rasna)",
+        "description": "Vatahara, reduces inflammation and joint stiffness"
+      },
+      {
+        "name": "Saussurea lappa (Kustha)",
+        "description": "Vatahara, pain-relieving and anti-inflammatory properties"
+      },
+      {
+        "name": "Mahanarayana Oil",
+        "description": "Fast-acting potent analgesic with pain-relieving and circulation-enhancing benefits"
+      },
+      {
+        "name": "Mahavishgarbha Oil",
+        "description": "Highly potent local analgesic with fast onset of action"
+      },
+      {
+        "name": "Jyotishmati Oil",
+        "description": "Pain-relieving oil for joint and muscle conditions"
+      },
+      {
+        "name": "Sarala Oil",
+        "description": "Warming and anti-inflammatory for joint mobility"
+      }
+    ],
+    "description": "Pirant is enriched with a powerful blend of Mahanarayana Oil, Jyotishmati Oil, Saral Oil, and Mahavishgarbha Oil, providing a comprehensive solution for joint health by addressing both acute and chronic conditions. It works by neutralising Ama, the root cause of joint inflammation and stiffness, while also strengthening synovial membranes, cartilaginous tissues, and promoting muscle relaxation. Pirant not only provides fast-acting pain relief but also prevents chronic damage, enhances joint flexibility, and supports long-term mobility.",
+    "mechanism": "Balances Vata and reduces Ama through anti-inflammatory herbs, provides fast-acting local analgesia through potent oils, strengthens synovial membranes and cartilaginous tissues, promotes muscle relaxation, and prevents sclerotic changes.",
+    "benefits": [
+      "Balances Vata & reduces Ama: Effectively neutralises Ama, the Ayurvedic root cause of joint pain, inflammation, and stiffness",
+      "Fast-acting local analgesic: Potent oils deliver rapid relief from pain, swelling, and morning stiffness",
+      "Improves joint mobility: Strengthens synovial membranes and cartilaginous tissues for better flexibility",
+      "Prevents chronic damage: Delays sclerotic changes, promotes urate excretion, and protects against recurring disorders",
+      "Supports muscle relaxation: Aids muscle recovery in conditions like sciatica, sprains, and back pain",
+      "Enhances NSAID efficacy: Serves as effective adjuvant to NSAIDs without gastrointestinal side effects"
+    ],
+    "clinicalHighlights": {
+      "joint_health": "Provides holistic relief for both acute and chronic joint conditions",
+      "ama_reduction": "Neutralises Ama, the root cause of joint inflammation and stiffness",
+      "pain_relief": "Highly potent local analgesic with fast onset of action",
+      "joint_mobility": "Improves flexibility and promotes smooth joint movement",
+      "synergistic_effect": "Synergistic analgesic effect of tablets and oil for comprehensive relief"
+    },
+    "indications": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Arthritis",
+      "Backache",
+      "Spondylitis",
+      "Morning Stiffness",
+      "Sciatica",
+      "Sprains",
+      "Gout"
+    ],
+    "composition_tablets": {
+      "shunthi": "20.00 mg",
+      "lahsun": "80.65 mg",
+      "ashwagandha": "40.30 mg",
+      "rasna": "40.30 mg",
+      "kali_mirch": "8.05 mg",
+      "pippali": "8.05 mg",
+      "ajwain": "8.05 mg",
+      "kustha": "8.05 mg",
+      "vidanga": "8.05 mg",
+      "vidarikanda": "8.05 mg",
+      "chitrakamoola": "8.05 mg",
+      "suranjan": "20.20 mg",
+      "guggulu": "161.30 mg"
+    },
+    "composition_oil": {
+      "jyotishmati_oil": "30.80%",
+      "sarala_oil": "6.10%",
+      "karpoora": "1.50%",
+      "mahanarayan_oil": "30.80%",
+      "mahavishgarbha_oil": "30.80%"
+    },
+    "certifications": [
+      "Dual Pack formulation with synergistic benefits",
+      "Ayurvedic joint health solution",
+      "Fast-acting potent analgesic"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Pirant used for?",
+        "answer": "Pirant provides holistic relief for chronic joint pain and inflammation, including rheumatoid arthritis, osteoarthritis, backache, spondylitis, and morning stiffness through its tablet and oil combination."
+      },
+      {
+        "question": "How should Pirant be used?",
+        "answer": "Take 2 tablets twice daily half an hour after meals. Massage the oil gently on painful joints 2-3 times daily. For best results, use both forms together."
+      },
+      {
+        "question": "What makes Pirant unique?",
+        "answer": "Pirant combines anti-inflammatory tablets with highly potent oils (Mahanarayana, Jyotishmati, Saral, and Mahavishgarbha) for a synergistic analgesic effect targeting both systemic and local relief."
+      },
+      {
+        "question": "How fast does Pirant provide pain relief?",
+        "answer": "The oils in Pirant are highly potent local analgesics with fast onset of action, providing rapid relief from joint pain, swelling, and morning stiffness when applied topically."
+      },
+      {
+        "question": "Can Pirant be used with other medications?",
+        "answer": "Yes, Pirant serves as an effective adjuvant to NSAIDs, boosting their benefits while supporting joint health without gastrointestinal side effects."
+      },
+      {
+        "question": "What are the key ingredients in Pirant?",
+        "answer": "Pirant contains 13 potent herbs including Guggulu, Ashwagandha, Rasna, and Kustha, combined with Mahanarayana, Jyotishmati, Saral, and Mahavishgarbha oils for comprehensive pain and inflammation relief."
+      }
+    ],
+    "image": "https://maharishiayurvedaindia.com/cdn/shop/files/pirant-tablets-for-joint-and-muscles-pain-maharishi-ayurveda-india-1.png?v=1692185151&width=1000"
+  },
+  {
+    "id": "prandhara",
+    "name": "Prandhara",
+    "category": "Respiratory & Digestive Health",
+    "indication": "Ayurvedic Remedy for FLU, Allergies and Stomach Pain",
+    "dosage": "Stomach pain: 2 drops taken orally with water; Joint Pain: Topical application after adding 3 drops in pirant oil; Nasal congestion: Steam inhalation with 3 drops in steaming hot water",
+    "form": "Available in 3ml & 8ml bottle",
+    "ingredients": [
+      "Mentha piperita (Pudina satwa)",
+      "Ptychotis ajowan (Yavani Satwa)",
+      "Foeniculum vulgare oil (Shatapushpa Tel)",
+      "Syzygium aromaticum oil (Lavang Tel)",
+      "Eucalyptus globulus oil (Nilgiri Tel)",
+      "Cinnamomum zeylanicum (Dalchini Tel)",
+      "Cinnamomum zeylanicum (Karpura)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Mentha piperita (Pudina satwa)",
+        "description": "Digestive, anti-bacterial, and pain-relieving properties"
+      },
+      {
+        "name": "Ptychotis ajowan (Yavani Satwa)",
+        "description": "Digestive stimulant and vermifuge, effective for intestinal health"
+      },
+      {
+        "name": "Foeniculum vulgare oil (Shatapushpa Tel)",
+        "description": "Anti-inflammatory, appetizer, and digestive support"
+      },
+      {
+        "name": "Syzygium aromaticum oil (Lavang Tel)",
+        "description": "Pain killer and anti-congestive properties"
+      },
+      {
+        "name": "Eucalyptus globulus oil (Nilgiri Tel)",
+        "description": "Decongestant and respiratory support"
+      }
+    ],
+    "description": "Prandhara is a versatile, aromatic formulation rooted in the principles of Maharishi Ayurveda. It effectively addresses many common ailments by balancing the Tri-Doshas—Vata, Pitta, and Kapha. Prandhara is designed to provide holistic relief for respiratory issues, gastrointestinal discomfort, and acute pain while strengthening immunity against infections. With its multi-route therapy options—topical application, inhalation, or oral use—it adapts seamlessly to diverse needs.",
+    "mechanism": "Balances Vata, Pitta, and Kapha doshas, provides anti-inflammatory and decongestant properties, strengthens immune response, and supports natural healing through multiple application routes.",
+    "benefits": [
+      "Relieves headache, cold, and nasal congestion: Steam inhalation or topical application effectively alleviates sinusitis, nasal blockages, and other upper respiratory complaints",
+      "Controls gastrointestinal issues: Offers fast-acting relief for diarrhoea, nausea, vomiting, flatulence, and spasmodic pain",
+      "Soothes toothache and acute pain: Acts as a potent analgesic for headaches, toothaches, and joint pain",
+      "Boosts respiratory comfort: Reduces sinus inflammation and respiratory discomfort through anti-inflammatory and decongestant properties",
+      "Strengthens immunity: Regular use helps protect against gastrointestinal infections and seasonal ailments",
+      "Multi-route therapy: Can be applied topically, inhaled, or consumed orally, offering versatility for various ailments"
+    ],
+    "clinicalHighlights": {
+      "indications": "Cold, nasal congestion, headache, toothache, spasmodic pain, mosquito bite, stomach pain, joint pain",
+      "composition": "7 potent essential oils and extracts in optimized percentages",
+      "multi_route_therapy": "Topical, inhalation, and oral application options for maximum versatility"
+    },
+    "composition_details": {
+      "mentha_piperita": "40%",
+      "ptychotis_ajowan": "20%",
+      "foeniculum_vulgare_oil": "20%",
+      "syzygium_aromaticum_oil": "5%",
+      "eucalyptus_globulus_oil": "5%",
+      "cinnamomum_zeylanicum": "5%",
+      "karpoora": "5%"
+    },
+    "certifications": [
+      "Maharishi Ayurveda Formulation",
+      "Clinically Proven Herbal Blend",
+      "Multi-route therapy approved"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Prandhara used for?",
+        "answer": "Prandhara is used for treating colds, nasal congestion, headaches, toothaches, stomach pain, joint pain, and mosquito bites. It offers multi-route therapy through oral, topical, and inhalation methods."
+      },
+      {
+        "question": "How should Prandhara be used?",
+        "answer": "For stomach pain: Take 2 drops orally with water. For joint pain: Apply topically after adding 3 drops in pirant oil. For nasal congestion: Use steam inhalation with 3 drops in hot water."
+      },
+      {
+        "question": "What are the key ingredients in Prandhara?",
+        "answer": "Prandhara contains 7 essential oils including Mentha piperita, Ptychotis ajowan, Foeniculum vulgare oil, Syzygium aromaticum oil, Eucalyptus globulus oil, and Cinnamomum zeylanicum, each contributing therapeutic benefits."
+      },
+      {
+        "question": "Is Prandhara safe for all ages?",
+        "answer": "Yes, Prandhara's multi-route formulation is versatile and can be adapted for different needs. Consult a physician for personalized usage recommendations."
+      },
+      {
+        "question": "Can Prandhara be used for prevention?",
+        "answer": "Yes, Prandhara strengthens immunity and can be used regularly to protect against common ailments, seasonal infections, and gastrointestinal issues."
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/710nmk-zM6L._SL1500_.jpg"
   },
   {
     "id": "anu-taila",
@@ -1559,6 +2223,84 @@
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/Ayurdefence-AV.webp?v=1715926782&width=600"
   },
   {
+    "id": "herbonic",
+    "name": "Herbonic",
+    "category": "Nutritional Health Drink",
+    "indication": "Nutritional Health Drink for All",
+    "dosage": "2 Teaspoons with warm/cold milk or water",
+    "form": "Powder 450g",
+    "ingredients": [
+      "Papaver somniferum (Ahiphena)",
+      "Amygdalus communis (Badam-Giri)",
+      "Elettaria cardamomum (Elaichi Chhoti)",
+      "Withania somnifera (Ashwagandha)",
+      "Centella asiatica (Brahmi Booti)",
+      "Pandanus odoratissimus (Rooh Kewra)",
+      "Crystal Sugar",
+      "Vetiveria zizanioides (Khas Khas)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Ashwagandha",
+        "description": "Improves stamina and vitality"
+      },
+      {
+        "name": "Brahmi",
+        "description": "Enhances mental adaptability and promotes deep sleep"
+      },
+      {
+        "name": "Badam-Giri",
+        "description": "Nutritive and calming"
+      }
+    ],
+    "description": "Herbonic is more than just a milk additive; it's a powerhouse of nutrition and energy designed to meet the demands of a busy lifestyle. With a blend of Ashwagandha and Brahmi, Herbonic improves stamina, promotes deep sleep, and enhances physical and mental adaptability. It is ideal for children and adults, addressing nutritional gaps and ensuring sustained daily energy.",
+    "mechanism": "Combines adaptogenic herbs with nutritive ingredients to boost vitality, improve sleep quality, and enhance milk palatability.",
+    "benefits": [
+      "Boosts stamina & vitality: Supports energy levels, reducing fatigue and debility.",
+      "Improves sleep quality: Promotes restful sleep for optimal recovery.",
+      "Enhances milk palatability: Makes milk more appealing to even the fussiest individuals.",
+      "100% natural: Free from artificial additives or preservatives.",
+      "Offers pleasant taste & odour: Ensures a delightful sensory experience with every serving."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Perfect for the whole family - children and adults",
+      "key_blends": "Ashwagandha and Brahmi for stamina and mental adaptability"
+    },
+    "indications": [
+      "Mental Fatigue",
+      "Malnutrition",
+      "Physical Debility"
+    ],
+    "certifications": [
+      "100% natural formulation",
+      "Ayurvedic nutritional supplement"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Herbonic?",
+        "answer": "Herbonic is a nutritional health drink designed to boost stamina, improve sleep, and enhance overall vitality for the whole family."
+      },
+      {
+        "question": "How should Herbonic be taken?",
+        "answer": "Take 2 teaspoons with warm or cold milk or water."
+      },
+      {
+        "question": "Is Herbonic safe for children?",
+        "answer": "Yes, it is ideal for children and adults, providing essential nutrients without artificial additives."
+      },
+      {
+        "question": "What are the key benefits of Herbonic?",
+        "answer": "It boosts stamina, improves sleep quality, enhances milk palatability, and offers a pleasant taste."
+      },
+      {
+        "question": "What makes Herbonic special?",
+        "answer": "Its blend of Ashwagandha and Brahmi provides natural energy and adaptability for busy lifestyles."
+      }
+    ],
+    "image": "https://static.oxinis.com/healthmug/image/product/45635-4-1000.webp"
+  },
+  {
     "id": "chyavanprash",
     "name": "Chyavanprash",
     "category": "Super Rasayana",
@@ -1653,377 +2395,6 @@
       }
     ],
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/authentic-chyavanprash-effective-for-building-immunity-maharishi-ayurveda-india-1.png?v=1692185170&width=800"
-  },
-  {
-    "id": "herbonic",
-    "name": "Herbonic",
-    "category": "Nutritional Health Drink",
-    "indication": "Nutritional Health Drink for All",
-    "dosage": "2 Teaspoons with warm/cold milk or water",
-    "form": "Powder 450g",
-    "ingredients": [
-      "Papaver somniferum (Ahiphena)",
-      "Amygdalus communis (Badam-Giri)",
-      "Elettaria cardamomum (Elaichi Chhoti)",
-      "Withania somnifera (Ashwagandha)",
-      "Centella asiatica (Brahmi Booti)",
-      "Pandanus odoratissimus (Rooh Kewra)",
-      "Crystal Sugar",
-      "Vetiveria zizanioides (Khas Khas)"
-    ],
-    "keyIngredients": [
-      {
-        "name": "Ashwagandha",
-        "description": "Improves stamina and vitality"
-      },
-      {
-        "name": "Brahmi",
-        "description": "Enhances mental adaptability and promotes deep sleep"
-      },
-      {
-        "name": "Badam-Giri",
-        "description": "Nutritive and calming"
-      }
-    ],
-    "description": "Herbonic is more than just a milk additive; it's a powerhouse of nutrition and energy designed to meet the demands of a busy lifestyle. With a blend of Ashwagandha and Brahmi, Herbonic improves stamina, promotes deep sleep, and enhances physical and mental adaptability. It is ideal for children and adults, addressing nutritional gaps and ensuring sustained daily energy.",
-    "mechanism": "Combines adaptogenic herbs with nutritive ingredients to boost vitality, improve sleep quality, and enhance milk palatability.",
-    "benefits": [
-      "Boosts stamina & vitality: Supports energy levels, reducing fatigue and debility.",
-      "Improves sleep quality: Promotes restful sleep for optimal recovery.",
-      "Enhances milk palatability: Makes milk more appealing to even the fussiest individuals.",
-      "100% natural: Free from artificial additives or preservatives.",
-      "Offers pleasant taste & odour: Ensures a delightful sensory experience with every serving."
-    ],
-    "clinicalHighlights": {
-      "target_audience": "Perfect for the whole family - children and adults",
-      "key_blends": "Ashwagandha and Brahmi for stamina and mental adaptability"
-    },
-    "indications": [
-      "Mental Fatigue",
-      "Malnutrition",
-      "Physical Debility"
-    ],
-    "certifications": [
-      "100% natural formulation",
-      "Ayurvedic nutritional supplement"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Herbonic?",
-        "answer": "Herbonic is a nutritional health drink designed to boost stamina, improve sleep, and enhance overall vitality for the whole family."
-      },
-      {
-        "question": "How should Herbonic be taken?",
-        "answer": "Take 2 teaspoons with warm or cold milk or water."
-      },
-      {
-        "question": "Is Herbonic safe for children?",
-        "answer": "Yes, it is ideal for children and adults, providing essential nutrients without artificial additives."
-      },
-      {
-        "question": "What are the key benefits of Herbonic?",
-        "answer": "It boosts stamina, improves sleep quality, enhances milk palatability, and offers a pleasant taste."
-      },
-      {
-        "question": "What makes Herbonic special?",
-        "answer": "Its blend of Ashwagandha and Brahmi provides natural energy and adaptability for busy lifestyles."
-      }
-    ],
-    "image": "https://static.oxinis.com/healthmug/image/product/45635-4-1000.webp"
-  },
-  {
-    "id": "prostomap",
-    "name": "Prostomap",
-    "category": "Prostate Health",
-    "indication": "For Enlarged Prostate and Associated Disorders",
-    "dosage": "2 Tablets B.I.D with lukewarm water half an hour before meal",
-    "form": "Blister foils of 10x10 tablets",
-    "ingredients": [
-      "Tribulus terrestris (Gokhru Chhota)",
-      "Bauhinia variegata (Kanchnar)",
-      "Crataeva nurvala (Varun)",
-      "Tinospora cordifolia (Giloy)",
-      "Boerhaavia diffusa (Punarnava)",
-      "Pterocarpus santalinus (Lal Chandan)",
-      "Sida cordifolia (Bala)",
-      "Hordeum vulgare (Yavakshar)",
-      "Hemidesmus indicus (Anantmool)",
-      "Santalum album (Safed Chandan)",
-      "Curcuma longa (Haldi)",
-      "Syzygium aromaticum (Laung)",
-      "Zingiber officinale (Sonth)",
-      "Piper nigrum (Kali Mirch)",
-      "Piper longum (Pippali Chhoti)",
-      "Glycyrrhiza glabra (Mulethi)",
-      "Zinc oxide (Yashad Bhasma)",
-      "Calcium silicate (Ber Patthar Bhasma)",
-      "Purified Asphaltum (Shuddh Shilajit)",
-      "Balsamodendron mukul (Shuddh Guggul)"
-    ],
-    "keyIngredients": [
-      {
-        "name": "Varun (Crataeva nurvala)",
-        "description": "Diuretic and antispasmodic for urinary health"
-      },
-      {
-        "name": "Punarnava (Boerhaavia diffusa)",
-        "description": "Diuretic and tonic for prostate support"
-      },
-      {
-        "name": "Gokhru (Tribulus terrestris)",
-        "description": "Diuretic and strengthener for urinary tract"
-      },
-      {
-        "name": "Shuddh Guggul (Balsamodendron mukul)",
-        "description": "Anti-inflammatory and metabolizer"
-      },
-      {
-        "name": "Shuddh Shilajit (Purified Asphaltum)",
-        "description": "Rasayana and healing for overall vitality"
-      }
-    ],
-    "description": "Prostomap is a clinically backed Ayurvedic solution crafted to provide comprehensive relief for enlarged prostate and associated urinary disorders. Rooted in the principles of Ayurveda, it enhances urinary flow, reduces prostate weight, and improves the overall function of the urinary and reproductive systems.",
-    "mechanism": "Improves urinary flow rate and reduces prostate weight, strengthens urinary tract (Mutravaha Strotas) and reproductive system (Shukravaha Strotas), reduces inflammation and controls prostate gland growth (Ashthila), cleanses genitourinary tract impurities.",
-    "benefits": [
-      "Improves urinary flow & reduces prostate weight: Helps alleviate urinary retention, painful urination, and incontinence by ensuring smooth, uninterrupted urinary flow.",
-      "Strengthens mutravaha strotas: Fortifies the urinary tract to enhance long-term urinary health and functionality.",
-      "Nourishes shukravaha strotas: Promotes overall reproductive health and vitality, supporting hormonal balance and reducing discomfort.",
-      "Anti-inflammatory action: Effectively reduces inflammation and controls the abnormal growth of the prostate gland (Ashthila), offering targeted relief from symptoms of Benign Prostatic Hyperplasia (BPH).",
-      "Cleanses genitourinary impurities: Detoxifies the genitourinary system by eliminating toxins, ensuring optimal kidney, bladder, and urethral health."
-    ],
-    "clinicalHighlights": {
-      "efficacy": "Clinically backed for enlarged prostate and urinary disorders",
-      "urinary_flow": "Improves urinary flow rate and reduces prostate weight",
-      "inflammation_control": "Reduces inflammation and controls prostate growth"
-    },
-    "indications": [
-      "Benign prostatic hyperplasia (BPH)",
-      "Painful urination",
-      "Urinary retention and incontinence",
-      "Polyuria"
-    ],
-    "certifications": [
-      "Clinically backed Ayurvedic formulation",
-      "Maharishi Ayurveda quality"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Prostomap used for?",
-        "answer": "Prostomap is designed for enlarged prostate and associated urinary disorders, including BPH, painful urination, urinary retention, incontinence, and polyuria."
-      },
-      {
-        "question": "How does Prostomap work?",
-        "answer": "It improves urinary flow, reduces prostate weight, strengthens urinary and reproductive systems, reduces inflammation, and cleanses genitourinary impurities."
-      },
-      {
-        "question": "Is Prostomap clinically proven?",
-        "answer": "Yes, Prostomap is a clinically backed Ayurvedic solution for prostate health."
-      },
-      {
-        "question": "How should Prostomap be taken?",
-        "answer": "Take 2 tablets twice daily with lukewarm water, half an hour before meals."
-      },
-      {
-        "question": "What are the key ingredients in Prostomap?",
-        "answer": "Key ingredients include Varun, Punarnava, Gokhru, Shuddh Guggul, and Shuddh Shilajit, which provide diuretic, anti-inflammatory, and healing properties."
-      }
-    ],
-    "image": "https://store.planetayurveda.com/cdn/shop/files/Prostomap_600x600_crop_center.png?v=1738307166"
-  },
-  {
-    "id": "vigoroyal-f",
-    "name": "Vigoroyal-F",
-    "category": "Women's Health",
-    "indication": "For Chronic Fatigue & General Debility in Women",
-    "dosage": "2 Tablets B.I.D with lukewarm water",
-    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
-    "ingredients": [
-      "Saraca indica (Ashok)",
-      "Symplocos racemosa (Lodhra)",
-      "Mimosa pudica (Lajjalu)",
-      "Caesalpinia sappan (Patang)",
-      "Sida cordifolia (Bala)",
-      "Tribulus terrestris (Gokhru)",
-      "Cyperus rotundus (Nagar Mustaka)",
-      "Nymphaea nauchali (Nilofar)",
-      "Santalum album (Safed Chandan)",
-      "Zingiber officinale (Sonth)",
-      "Piper longum (Pippali)",
-      "Withania somnifera (Ashwagandha)",
-      "Ipomoea digitata (Ksheer Bidari)",
-      "Argyreia speciosa (Samudrashosha)",
-      "Asparagus racemosus (Shatavari)",
-      "Mesua ferrea (Nagkesar)",
-      "Cuminum cyminum (Jeera)",
-      "Carum bulbocastanum (Kala Jeera)",
-      "Purified Asphaltum (Shudha Shilajeet)",
-      "Corallum rubrum (Praval Bhasm)",
-      "Dhatri Lauha",
-      "Abhrak Bhasm"
-    ],
-    "keyIngredients": [
-      {
-        "name": "Shatavari (Asparagus racemosus)",
-        "description": "Strengthens and supports women's health"
-      },
-      {
-        "name": "Ashwagandha (Withania somnifera)",
-        "description": "Enhances vitality and reduces stress"
-      },
-      {
-        "name": "Abhrak Bhasm",
-        "description": "Provides strength and rejuvenation"
-      },
-      {
-        "name": "Dhatri Lauha",
-        "description": "Supports hormonal balance and vitality"
-      }
-    ],
-    "description": "Vigoroyal-F is a clinically backed Ayurvedic formulation crafted to rejuvenate and revitalise women experiencing physical and psychological exhaustion caused by daily stresses. Enriched with time-tested herbs and minerals, it promotes hormonal balance, delays biological ageing, and enhances overall vitality. This restorative blend also supports skin health, mental focus, and women's wellness across all life stages, including menopause and post-menopause.",
-    "mechanism": "Enhances vitality (Vrishya), strengthens and energises (Balya), regulates menstrual health, reduces stress levels, promotes youthful vigor, and improves skin and beauty.",
-    "benefits": [
-      "Enhances vitality (Vrishya): Boosts physical energy and sexual wellness, ensuring a healthy body and mind.",
-      "Strengthens and energises (Balya): Provides essential strength to overcome fatigue and restore optimal health.",
-      "Regulates menstrual health: Balances hormones, alleviates menstrual tension, and supports conception.",
-      "Reduces stress levels: Effectively manages daily stress, supporting mental and emotional well-being.",
-      "Promotes youthful vigor: Delays biological and psychological ageing while enhancing vitality and resilience.",
-      "Improves skin and beauty: Maintains skin lustre and radiance, promoting holistic feminine health."
-    ],
-    "clinicalHighlights": {
-      "target_audience": "Women experiencing chronic fatigue and general debility",
-      "formulation": "Clinically backed with herbs and minerals for women's health"
-    },
-    "indications": [
-      "Poor stamina",
-      "Chronic fatigue",
-      "Weakness"
-    ],
-    "certifications": [
-      "Clinically backed Ayurvedic formulation",
-      "Maharishi Ayurveda quality"
-    ],
-    
-    "faqs": [
-      {
-        "question": "What is Vigoroyal-F used for?",
-        "answer": "Vigoroyal-F is designed for chronic fatigue and general debility in women, supporting vitality, hormonal balance, and overall wellness."
-      },
-      {
-        "question": "How does Vigoroyal-F work?",
-        "answer": "It enhances vitality, strengthens the body, regulates menstrual health, reduces stress, promotes youthful vigor, and improves skin health."
-      },
-      {
-        "question": "Is Vigoroyal-F clinically proven?",
-        "answer": "Yes, Vigoroyal-F is a clinically backed Ayurvedic formulation for women's health."
-      },
-      {
-        "question": "How should Vigoroyal-F be taken?",
-        "answer": "Take 2 tablets twice daily with lukewarm water."
-      },
-      {
-        "question": "What are the key benefits of Vigoroyal-F?",
-        "answer": "It boosts energy, reduces fatigue, balances hormones, manages stress, delays aging, and enhances skin beauty."
-      }
-    ],
-    "image": "https://www.aalamroots.com/wp-content/uploads/2023/06/Maharishi_Ayurveda_Vigoroyal_F_02.jpg"
-  },
-  {
-    "id": "vigoroyal-m",
-    "name": "Vigoroyal-M",
-    "category": "Men's Health",
-    "indication": "For Chronic Fatigue & General Debility in Men",
-    "dosage": "2 Tablets B.I.D with lukewarm water",
-    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
-    "ingredients": [
-      "Sida cordifolia (Bala)",
-      "Glycyrrhiza glabra (Yashtimadhu)",
-      "Phaseolus trilobus (Mudagparni)",
-      "Teramnus labialis (Mansparni)",
-      "Zingiber officinale (Sonth)",
-      "Mesua ferrea (Nagkesar)",
-      "Asteracantha longifolia (Talmakhana)",
-      "Mucuna pruriens (Kownch)",
-      "Cinnamomum zeylanicum (Dalchini)",
-      "Asparagus adescendens (Safed Musali)",
-      "Withania somnifera (Ashwagandha)",
-      "Smilax china (Chop Chini)",
-      "Pistacia integerrima (Kakara Shringi)",
-      "Myristica fragrans (Javitri)",
-      "Tribulus terrestris (Gokshur)",
-      "Asparagus racemosus (Shatavari)",
-      "Elettaria cardamomum (Chhoti Elaichi)",
-      "Cyperus rotundus (Mustaka)",
-      "Piper cubeba (Sheetal Chini)",
-      "Purified Asphaltum (Shudha Shilajeet)",
-      "Dhatri Lauha",
-      "Abhrak Bhasm"
-    ],
-    "keyIngredients": [
-      {
-        "name": "Ashwagandha (Withania somnifera)",
-        "description": "Enhances strength and vitality"
-      },
-      {
-        "name": "Gokshur (Tribulus terrestris)",
-        "description": "Boosts stamina and reproductive health"
-      },
-      {
-        "name": "Shudha Shilajeet (Purified Asphaltum)",
-        "description": "Rejuvenator and energizer"
-      },
-      {
-        "name": "Abhrak Bhasm",
-        "description": "Provides strength and endurance"
-      }
-    ],
-    "description": "Vigoroyal-M is a premium Rasayana crafted specifically for men. It combines the ancient wisdom of Maharishi Ayurveda with a royal blend of 22 potent herbs. This clinically formulated energiser restores vitality, enhances stamina, and rejuvenates the body and mind. It optimises hormonal health, sharpens mental faculties, and invigorates physical strength, empowering men to overcome daily challenges with confidence and resilience.",
-    "mechanism": "Supports dhatu metabolism from Rasa to Shukra, boosts strength and stamina (Balya & Vrishya), acts as rejuvenator and energiser, enhances reflexes and nerve function, improves mental alertness, and provides holistic health support.",
-    "benefits": [
-      "Supports dhatu metabolism: Optimises the metabolism of all Dhatus, from Rasa (nutritional fluid) to Shukra (reproductive tissue), ensuring robust health.",
-      "Boosts strength and stamina (Balya & Vrishya): Enhances physical strength, vitality, and endurance, helping to combat fatigue and weakness.",
-      "Rejuvenator and energiser: Acts as a natural Rasayana, revitalising the body and psyche to promote overall well-being.",
-      "Enhances reflexes and nerve function: Supports balanced nerve conduction, quickens reflexes, and ensures optimal endocrinal function for peak performance.",
-      "Improves mental alertness: Rejuvenates the mind, fostering focus, confidence, and resilience, particularly in high-stress situations.",
-      "Holistic health support: Strengthens the body, sharpens mental faculties, and promotes balanced health and happiness for long-term wellness."
-    ],
-    "clinicalHighlights": {
-      "target_audience": "Men experiencing chronic fatigue and general debility",
-      "formulation": "Clinically formulated with 22 potent herbs for men's health"
-    },
-    "indications": [
-      "Poor stamina",
-      "Chronic fatigue",
-      "Weakness"
-    ],
-    "certifications": [
-      "Clinically backed Ayurvedic formulation",
-      "Maharishi Ayurveda quality"
-    ],
-    "pdfLinks": [],
-    "faqs": [
-      {
-        "question": "What is Vigoroyal-M used for?",
-        "answer": "Vigoroyal-M is designed for chronic fatigue and general debility in men, supporting vitality, stamina, and overall wellness."
-      },
-      {
-        "question": "How does Vigoroyal-M work?",
-        "answer": "It supports dhatu metabolism, boosts strength and stamina, rejuvenates the body, enhances nerve function, improves mental alertness, and provides holistic health support."
-      },
-      {
-        "question": "Is Vigoroyal-M clinically proven?",
-        "answer": "Yes, Vigoroyal-M is a clinically formulated Ayurvedic Rasayana for men's health."
-      },
-      {
-        "question": "How should Vigoroyal-M be taken?",
-        "answer": "Take 2 tablets twice daily with lukewarm water."
-      },
-      {
-        "question": "What are the key benefits of Vigoroyal-M?",
-        "answer": "It enhances physical strength, vitality, mental alertness, nerve function, and overall well-being."
-      }
-    ],
-    "image": "https://www.ayurcentralonline.com/wp-content/uploads/webp_images/ac_m_7615.webp"
   }
+
 ]
