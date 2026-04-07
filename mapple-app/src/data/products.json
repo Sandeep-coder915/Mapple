@@ -1653,5 +1653,377 @@
       }
     ],
     "image": "https://maharishiayurvedaindia.com/cdn/shop/files/authentic-chyavanprash-effective-for-building-immunity-maharishi-ayurveda-india-1.png?v=1692185170&width=800"
+  },
+  {
+    "id": "herbonic",
+    "name": "Herbonic",
+    "category": "Nutritional Health Drink",
+    "indication": "Nutritional Health Drink for All",
+    "dosage": "2 Teaspoons with warm/cold milk or water",
+    "form": "Powder 450g",
+    "ingredients": [
+      "Papaver somniferum (Ahiphena)",
+      "Amygdalus communis (Badam-Giri)",
+      "Elettaria cardamomum (Elaichi Chhoti)",
+      "Withania somnifera (Ashwagandha)",
+      "Centella asiatica (Brahmi Booti)",
+      "Pandanus odoratissimus (Rooh Kewra)",
+      "Crystal Sugar",
+      "Vetiveria zizanioides (Khas Khas)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Ashwagandha",
+        "description": "Improves stamina and vitality"
+      },
+      {
+        "name": "Brahmi",
+        "description": "Enhances mental adaptability and promotes deep sleep"
+      },
+      {
+        "name": "Badam-Giri",
+        "description": "Nutritive and calming"
+      }
+    ],
+    "description": "Herbonic is more than just a milk additive; it's a powerhouse of nutrition and energy designed to meet the demands of a busy lifestyle. With a blend of Ashwagandha and Brahmi, Herbonic improves stamina, promotes deep sleep, and enhances physical and mental adaptability. It is ideal for children and adults, addressing nutritional gaps and ensuring sustained daily energy.",
+    "mechanism": "Combines adaptogenic herbs with nutritive ingredients to boost vitality, improve sleep quality, and enhance milk palatability.",
+    "benefits": [
+      "Boosts stamina & vitality: Supports energy levels, reducing fatigue and debility.",
+      "Improves sleep quality: Promotes restful sleep for optimal recovery.",
+      "Enhances milk palatability: Makes milk more appealing to even the fussiest individuals.",
+      "100% natural: Free from artificial additives or preservatives.",
+      "Offers pleasant taste & odour: Ensures a delightful sensory experience with every serving."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Perfect for the whole family - children and adults",
+      "key_blends": "Ashwagandha and Brahmi for stamina and mental adaptability"
+    },
+    "indications": [
+      "Mental Fatigue",
+      "Malnutrition",
+      "Physical Debility"
+    ],
+    "certifications": [
+      "100% natural formulation",
+      "Ayurvedic nutritional supplement"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Herbonic?",
+        "answer": "Herbonic is a nutritional health drink designed to boost stamina, improve sleep, and enhance overall vitality for the whole family."
+      },
+      {
+        "question": "How should Herbonic be taken?",
+        "answer": "Take 2 teaspoons with warm or cold milk or water."
+      },
+      {
+        "question": "Is Herbonic safe for children?",
+        "answer": "Yes, it is ideal for children and adults, providing essential nutrients without artificial additives."
+      },
+      {
+        "question": "What are the key benefits of Herbonic?",
+        "answer": "It boosts stamina, improves sleep quality, enhances milk palatability, and offers a pleasant taste."
+      },
+      {
+        "question": "What makes Herbonic special?",
+        "answer": "Its blend of Ashwagandha and Brahmi provides natural energy and adaptability for busy lifestyles."
+      }
+    ],
+    "image": "https://static.oxinis.com/healthmug/image/product/45635-4-1000.webp"
+  },
+  {
+    "id": "prostomap",
+    "name": "Prostomap",
+    "category": "Prostate Health",
+    "indication": "For Enlarged Prostate and Associated Disorders",
+    "dosage": "2 Tablets B.I.D with lukewarm water half an hour before meal",
+    "form": "Blister foils of 10x10 tablets",
+    "ingredients": [
+      "Tribulus terrestris (Gokhru Chhota)",
+      "Bauhinia variegata (Kanchnar)",
+      "Crataeva nurvala (Varun)",
+      "Tinospora cordifolia (Giloy)",
+      "Boerhaavia diffusa (Punarnava)",
+      "Pterocarpus santalinus (Lal Chandan)",
+      "Sida cordifolia (Bala)",
+      "Hordeum vulgare (Yavakshar)",
+      "Hemidesmus indicus (Anantmool)",
+      "Santalum album (Safed Chandan)",
+      "Curcuma longa (Haldi)",
+      "Syzygium aromaticum (Laung)",
+      "Zingiber officinale (Sonth)",
+      "Piper nigrum (Kali Mirch)",
+      "Piper longum (Pippali Chhoti)",
+      "Glycyrrhiza glabra (Mulethi)",
+      "Zinc oxide (Yashad Bhasma)",
+      "Calcium silicate (Ber Patthar Bhasma)",
+      "Purified Asphaltum (Shuddh Shilajit)",
+      "Balsamodendron mukul (Shuddh Guggul)"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Varun (Crataeva nurvala)",
+        "description": "Diuretic and antispasmodic for urinary health"
+      },
+      {
+        "name": "Punarnava (Boerhaavia diffusa)",
+        "description": "Diuretic and tonic for prostate support"
+      },
+      {
+        "name": "Gokhru (Tribulus terrestris)",
+        "description": "Diuretic and strengthener for urinary tract"
+      },
+      {
+        "name": "Shuddh Guggul (Balsamodendron mukul)",
+        "description": "Anti-inflammatory and metabolizer"
+      },
+      {
+        "name": "Shuddh Shilajit (Purified Asphaltum)",
+        "description": "Rasayana and healing for overall vitality"
+      }
+    ],
+    "description": "Prostomap is a clinically backed Ayurvedic solution crafted to provide comprehensive relief for enlarged prostate and associated urinary disorders. Rooted in the principles of Ayurveda, it enhances urinary flow, reduces prostate weight, and improves the overall function of the urinary and reproductive systems.",
+    "mechanism": "Improves urinary flow rate and reduces prostate weight, strengthens urinary tract (Mutravaha Strotas) and reproductive system (Shukravaha Strotas), reduces inflammation and controls prostate gland growth (Ashthila), cleanses genitourinary tract impurities.",
+    "benefits": [
+      "Improves urinary flow & reduces prostate weight: Helps alleviate urinary retention, painful urination, and incontinence by ensuring smooth, uninterrupted urinary flow.",
+      "Strengthens mutravaha strotas: Fortifies the urinary tract to enhance long-term urinary health and functionality.",
+      "Nourishes shukravaha strotas: Promotes overall reproductive health and vitality, supporting hormonal balance and reducing discomfort.",
+      "Anti-inflammatory action: Effectively reduces inflammation and controls the abnormal growth of the prostate gland (Ashthila), offering targeted relief from symptoms of Benign Prostatic Hyperplasia (BPH).",
+      "Cleanses genitourinary impurities: Detoxifies the genitourinary system by eliminating toxins, ensuring optimal kidney, bladder, and urethral health."
+    ],
+    "clinicalHighlights": {
+      "efficacy": "Clinically backed for enlarged prostate and urinary disorders",
+      "urinary_flow": "Improves urinary flow rate and reduces prostate weight",
+      "inflammation_control": "Reduces inflammation and controls prostate growth"
+    },
+    "indications": [
+      "Benign prostatic hyperplasia (BPH)",
+      "Painful urination",
+      "Urinary retention and incontinence",
+      "Polyuria"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Prostomap used for?",
+        "answer": "Prostomap is designed for enlarged prostate and associated urinary disorders, including BPH, painful urination, urinary retention, incontinence, and polyuria."
+      },
+      {
+        "question": "How does Prostomap work?",
+        "answer": "It improves urinary flow, reduces prostate weight, strengthens urinary and reproductive systems, reduces inflammation, and cleanses genitourinary impurities."
+      },
+      {
+        "question": "Is Prostomap clinically proven?",
+        "answer": "Yes, Prostomap is a clinically backed Ayurvedic solution for prostate health."
+      },
+      {
+        "question": "How should Prostomap be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water, half an hour before meals."
+      },
+      {
+        "question": "What are the key ingredients in Prostomap?",
+        "answer": "Key ingredients include Varun, Punarnava, Gokhru, Shuddh Guggul, and Shuddh Shilajit, which provide diuretic, anti-inflammatory, and healing properties."
+      }
+    ],
+    "image": "https://store.planetayurveda.com/cdn/shop/files/Prostomap_600x600_crop_center.png?v=1738307166"
+  },
+  {
+    "id": "vigoroyal-f",
+    "name": "Vigoroyal-F",
+    "category": "Women's Health",
+    "indication": "For Chronic Fatigue & General Debility in Women",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
+    "ingredients": [
+      "Saraca indica (Ashok)",
+      "Symplocos racemosa (Lodhra)",
+      "Mimosa pudica (Lajjalu)",
+      "Caesalpinia sappan (Patang)",
+      "Sida cordifolia (Bala)",
+      "Tribulus terrestris (Gokhru)",
+      "Cyperus rotundus (Nagar Mustaka)",
+      "Nymphaea nauchali (Nilofar)",
+      "Santalum album (Safed Chandan)",
+      "Zingiber officinale (Sonth)",
+      "Piper longum (Pippali)",
+      "Withania somnifera (Ashwagandha)",
+      "Ipomoea digitata (Ksheer Bidari)",
+      "Argyreia speciosa (Samudrashosha)",
+      "Asparagus racemosus (Shatavari)",
+      "Mesua ferrea (Nagkesar)",
+      "Cuminum cyminum (Jeera)",
+      "Carum bulbocastanum (Kala Jeera)",
+      "Purified Asphaltum (Shudha Shilajeet)",
+      "Corallum rubrum (Praval Bhasm)",
+      "Dhatri Lauha",
+      "Abhrak Bhasm"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Shatavari (Asparagus racemosus)",
+        "description": "Strengthens and supports women's health"
+      },
+      {
+        "name": "Ashwagandha (Withania somnifera)",
+        "description": "Enhances vitality and reduces stress"
+      },
+      {
+        "name": "Abhrak Bhasm",
+        "description": "Provides strength and rejuvenation"
+      },
+      {
+        "name": "Dhatri Lauha",
+        "description": "Supports hormonal balance and vitality"
+      }
+    ],
+    "description": "Vigoroyal-F is a clinically backed Ayurvedic formulation crafted to rejuvenate and revitalise women experiencing physical and psychological exhaustion caused by daily stresses. Enriched with time-tested herbs and minerals, it promotes hormonal balance, delays biological ageing, and enhances overall vitality. This restorative blend also supports skin health, mental focus, and women's wellness across all life stages, including menopause and post-menopause.",
+    "mechanism": "Enhances vitality (Vrishya), strengthens and energises (Balya), regulates menstrual health, reduces stress levels, promotes youthful vigor, and improves skin and beauty.",
+    "benefits": [
+      "Enhances vitality (Vrishya): Boosts physical energy and sexual wellness, ensuring a healthy body and mind.",
+      "Strengthens and energises (Balya): Provides essential strength to overcome fatigue and restore optimal health.",
+      "Regulates menstrual health: Balances hormones, alleviates menstrual tension, and supports conception.",
+      "Reduces stress levels: Effectively manages daily stress, supporting mental and emotional well-being.",
+      "Promotes youthful vigor: Delays biological and psychological ageing while enhancing vitality and resilience.",
+      "Improves skin and beauty: Maintains skin lustre and radiance, promoting holistic feminine health."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Women experiencing chronic fatigue and general debility",
+      "formulation": "Clinically backed with herbs and minerals for women's health"
+    },
+    "indications": [
+      "Poor stamina",
+      "Chronic fatigue",
+      "Weakness"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    
+    "faqs": [
+      {
+        "question": "What is Vigoroyal-F used for?",
+        "answer": "Vigoroyal-F is designed for chronic fatigue and general debility in women, supporting vitality, hormonal balance, and overall wellness."
+      },
+      {
+        "question": "How does Vigoroyal-F work?",
+        "answer": "It enhances vitality, strengthens the body, regulates menstrual health, reduces stress, promotes youthful vigor, and improves skin health."
+      },
+      {
+        "question": "Is Vigoroyal-F clinically proven?",
+        "answer": "Yes, Vigoroyal-F is a clinically backed Ayurvedic formulation for women's health."
+      },
+      {
+        "question": "How should Vigoroyal-F be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water."
+      },
+      {
+        "question": "What are the key benefits of Vigoroyal-F?",
+        "answer": "It boosts energy, reduces fatigue, balances hormones, manages stress, delays aging, and enhances skin beauty."
+      }
+    ],
+    "image": "https://www.aalamroots.com/wp-content/uploads/2023/06/Maharishi_Ayurveda_Vigoroyal_F_02.jpg"
+  },
+  {
+    "id": "vigoroyal-m",
+    "name": "Vigoroyal-M",
+    "category": "Men's Health",
+    "indication": "For Chronic Fatigue & General Debility in Men",
+    "dosage": "2 Tablets B.I.D with lukewarm water",
+    "form": "Blister packs of 10 tablets, with boxes containing 10 packs",
+    "ingredients": [
+      "Sida cordifolia (Bala)",
+      "Glycyrrhiza glabra (Yashtimadhu)",
+      "Phaseolus trilobus (Mudagparni)",
+      "Teramnus labialis (Mansparni)",
+      "Zingiber officinale (Sonth)",
+      "Mesua ferrea (Nagkesar)",
+      "Asteracantha longifolia (Talmakhana)",
+      "Mucuna pruriens (Kownch)",
+      "Cinnamomum zeylanicum (Dalchini)",
+      "Asparagus adescendens (Safed Musali)",
+      "Withania somnifera (Ashwagandha)",
+      "Smilax china (Chop Chini)",
+      "Pistacia integerrima (Kakara Shringi)",
+      "Myristica fragrans (Javitri)",
+      "Tribulus terrestris (Gokshur)",
+      "Asparagus racemosus (Shatavari)",
+      "Elettaria cardamomum (Chhoti Elaichi)",
+      "Cyperus rotundus (Mustaka)",
+      "Piper cubeba (Sheetal Chini)",
+      "Purified Asphaltum (Shudha Shilajeet)",
+      "Dhatri Lauha",
+      "Abhrak Bhasm"
+    ],
+    "keyIngredients": [
+      {
+        "name": "Ashwagandha (Withania somnifera)",
+        "description": "Enhances strength and vitality"
+      },
+      {
+        "name": "Gokshur (Tribulus terrestris)",
+        "description": "Boosts stamina and reproductive health"
+      },
+      {
+        "name": "Shudha Shilajeet (Purified Asphaltum)",
+        "description": "Rejuvenator and energizer"
+      },
+      {
+        "name": "Abhrak Bhasm",
+        "description": "Provides strength and endurance"
+      }
+    ],
+    "description": "Vigoroyal-M is a premium Rasayana crafted specifically for men. It combines the ancient wisdom of Maharishi Ayurveda with a royal blend of 22 potent herbs. This clinically formulated energiser restores vitality, enhances stamina, and rejuvenates the body and mind. It optimises hormonal health, sharpens mental faculties, and invigorates physical strength, empowering men to overcome daily challenges with confidence and resilience.",
+    "mechanism": "Supports dhatu metabolism from Rasa to Shukra, boosts strength and stamina (Balya & Vrishya), acts as rejuvenator and energiser, enhances reflexes and nerve function, improves mental alertness, and provides holistic health support.",
+    "benefits": [
+      "Supports dhatu metabolism: Optimises the metabolism of all Dhatus, from Rasa (nutritional fluid) to Shukra (reproductive tissue), ensuring robust health.",
+      "Boosts strength and stamina (Balya & Vrishya): Enhances physical strength, vitality, and endurance, helping to combat fatigue and weakness.",
+      "Rejuvenator and energiser: Acts as a natural Rasayana, revitalising the body and psyche to promote overall well-being.",
+      "Enhances reflexes and nerve function: Supports balanced nerve conduction, quickens reflexes, and ensures optimal endocrinal function for peak performance.",
+      "Improves mental alertness: Rejuvenates the mind, fostering focus, confidence, and resilience, particularly in high-stress situations.",
+      "Holistic health support: Strengthens the body, sharpens mental faculties, and promotes balanced health and happiness for long-term wellness."
+    ],
+    "clinicalHighlights": {
+      "target_audience": "Men experiencing chronic fatigue and general debility",
+      "formulation": "Clinically formulated with 22 potent herbs for men's health"
+    },
+    "indications": [
+      "Poor stamina",
+      "Chronic fatigue",
+      "Weakness"
+    ],
+    "certifications": [
+      "Clinically backed Ayurvedic formulation",
+      "Maharishi Ayurveda quality"
+    ],
+    "pdfLinks": [],
+    "faqs": [
+      {
+        "question": "What is Vigoroyal-M used for?",
+        "answer": "Vigoroyal-M is designed for chronic fatigue and general debility in men, supporting vitality, stamina, and overall wellness."
+      },
+      {
+        "question": "How does Vigoroyal-M work?",
+        "answer": "It supports dhatu metabolism, boosts strength and stamina, rejuvenates the body, enhances nerve function, improves mental alertness, and provides holistic health support."
+      },
+      {
+        "question": "Is Vigoroyal-M clinically proven?",
+        "answer": "Yes, Vigoroyal-M is a clinically formulated Ayurvedic Rasayana for men's health."
+      },
+      {
+        "question": "How should Vigoroyal-M be taken?",
+        "answer": "Take 2 tablets twice daily with lukewarm water."
+      },
+      {
+        "question": "What are the key benefits of Vigoroyal-M?",
+        "answer": "It enhances physical strength, vitality, mental alertness, nerve function, and overall well-being."
+      }
+    ],
+    "image": "https://www.ayurcentralonline.com/wp-content/uploads/webp_images/ac_m_7615.webp"
   }
 ]
